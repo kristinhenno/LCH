@@ -1,0 +1,185 @@
+body {
+    font-family: 'Quicksand', sans-serif;
+}
+
+#socialmedia{
+     position:fixed;
+    right:43px;
+    bottom:5%;
+}
+
+#copyright{
+    position:fixed;
+    left:43px;
+    bottom:5%;
+    font-weight: lighter;
+    color:#767777;
+
+}
+
+
+footer{
+    position:sticky;
+    bottom:0px;
+    background-color: white;
+    z-index:12;
+}
+
+
+.icon{
+    display: inline-block;
+ margin: 0px 4px;
+}
+
+#homeimages {
+    margin-top: 3.5%;
+    margin-left: 10.2%;
+    width: 80%;
+    height:71%;
+    position: absolute;
+    display: block;
+    z-index: 10;
+}
+
+#homeimages2 {
+    margin-top: 3.5%;
+    margin-left: 10.2%;
+    width: 80%;
+    height:71%;
+    position: absolute;
+    display: block;
+}
+
+#homediv {
+    text-align: center;
+}
+
+.wrapper {
+    display: flex;
+    align-items: content;
+    vertical-align: middle;
+}
+
+html {
+    font-family: 'Quicksand', sans-serif;
+    font-size: 12px;
+}
+
+.menu {
+    width: 5%;
+}
+
+.options {
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+header {
+    border-bottom: 1px solid #E1E0E1;
+    margin-left: 43px;
+    margin-right: 43px;
+    height: 63px;
+}
+
+.lch {
+    padding-top: 0.5%;
+    padding-left: 13px;
+    width: 85%;
+    min-width: 500px;
+    max-width: 1175px;
+    position: relative;
+    font-family: 'Quicksand', sans-serif;
+}
+
+h1 {
+    margin: 0;
+}
+
+.lolo {
+    padding-top: 0.4%;
+    position: relative;
+    width: 14%;
+    max-width: 100%;
+    min-width: 20%;
+}
+
+
+.sidenav {
+    height: 100%;
+    width: 200px;
+    position: absolute;
+    top: 60px;
+    left: 0;
+    z-index: 11;
+    font-size: 36px;
+    background-color: #ffffff;
+    opacity: 0.8;
+    transition: 0.5s;
+}
+
+a:visited {
+    text-decoration: none;
+    color: black;
+}
+
+
+
+
+/* The navigation menu links */
+
+.sidenav a {
+    padding: 8px 8px 8px 32px;
+    text-decoration: none;
+    font-size: 16px;
+    color: #000000;
+    display: block;
+    transition: 0.3s;
+    font-weight: lighter;
+}
+
+
+
+/* When you mouse over the navigation links, change their color */
+
+.sidenav a:hover,
+.offcanvas a:focus {
+    color: #f1f1f1;
+}
+
+#d3 {
+    display: none;
+}
+
+
+
+/* Position and style the close button (top right corner) */
+
+.sidenav .closebtn {
+    position: absolute;
+    top: 0;
+    right: 25px;
+    font-size: 36px;
+    margin-left: 50px;
+}
+
+
+
+/* Style page content - use this if you want to push the page content to the right when you open the side navigation */
+
+#main {
+    transition: margin-left .5s;
+    padding: 20px;
+}
+
+
+
+/* On smaller screens, where height is less than 450px, change the style of the sidenav (less padding and a smaller font size) */
+
+@media screen and (max-height: 450px) {
+    .sidenav {
+        padding-top: 15px;
+    }
+    .sidenav a {
+        font-size: 18px;
+    }
+}
