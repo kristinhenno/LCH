@@ -5,12 +5,6 @@
     display: inline-block;
 }
 
-.allpics {
-  height:100%;
-    display: inline-block;
-    overflow-x: scroll;
-}
-
 .portfoliopics {
     display: inline-block;
     height:100%;
@@ -21,7 +15,7 @@
     white-space: nowrap;
     text-decoration: none;
     position: relative;
-    height:400px;
+    width:35%;
     margin: 0% 1% 0.5% 0;
 }
 
@@ -40,27 +34,36 @@ height:400px;
 #portfolioscroll {
     margin-left: 40px;
     margin-right: 40px;
-    margin-top: 3.5%;
+    margin-top: 2.5%;
     overflow-x:scroll;
+    overflow-y: hidden;
 }
 
 #maisoncover {
     display: inline-block;
-  height:100%;
+  width:99%;
 }
 
+#lolocover{
+  display: inline-block;
+  width:100%;
+
+}
 
 #bohocover {
     display: inline-block;
-    height:100%;
+    width:101%;
 }
 
 #cabanacover {
+
     margin: 0 1.5%;
+     width:100%;
 }
 
 #haciendacover {
     margin: 0 0 0 2%;
+     width:100%;
 }
 
 
@@ -122,10 +125,12 @@ height:400px;
 .coverpic {
     color: white;
     font-size: 16px;
-    padding: 16px 32px;
+    padding: 16px 0px;
+    width:130%;
+    margin-left: -13%;
 }
 
-::-webkit-scrollbar-thumb {
+div#portfolioscroll::-webkit-scrollbar-thumb {
     border-radius: 0px;
     background-color: #d3d3d3;
     -webkit-box-shadow: 0 0 1px rgba(255, 255, 255, .5);

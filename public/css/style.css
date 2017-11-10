@@ -21,10 +21,9 @@ body {
 
 
 footer{
-    position:sticky;
-    bottom:0px;
+
     background-color: white;
-    z-index:12;
+ /*   z-index:12;*/
 }
 
 
@@ -34,20 +33,20 @@ footer{
 }
 
 #homeimages {
-    margin-top: 3.5%;
-    margin-left: 10.2%;
-    width: 80%;
-    height:71%;
+    margin-top: 2.5%;
+    margin-left: 13.2%;
+    width: 74%;
+/*    height:71%;*/
     position: absolute;
     display: block;
     z-index: 10;
 }
 
 #homeimages2 {
-    margin-top: 3.5%;
-    margin-left: 10.2%;
-    width: 80%;
-    height:71%;
+    margin-top: 2.5%;
+    margin-left: 13.2%;
+    width: 74%;
+/*    height:71%;*/
     position: absolute;
     display: block;
 }

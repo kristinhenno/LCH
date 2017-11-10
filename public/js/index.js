@@ -32,9 +32,8 @@ $(document).ready(function() {
 
     $("#lolosbungalow").on("click", function(event){
     	console.log("poop");
-    	$("#projects").empty();
     	for (i=0; i<lolo.length; i++){
-    	$("#projects").append("<div class='imgcontainer1'><img id='lolo" +  [i] + "' class='allpics' src='/public/assets/images/Lolo/" + lolo[i]+ ".jpg'/></div>");
+    	$("#projects1").append("<div class='imgcontainer" + [i] + "'></div><img id='lolo" +  [i] + "' class='allpics' src='/public/assets/images/Lolo/" + lolo[i]+ ".jpg'/></div>");
     }
     })
 
