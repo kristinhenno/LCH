@@ -172,13 +172,8 @@
     right: 6px;
     width: 60px;
     height: 37px;
-    background: rgba(0, 0, 0, 0.2);
     z-index: 2;
     color: white;
-    text-align: center;
-    text-shadow: 0 0 3px black;
-    font: bold 18px/36px arial;
-    border-radius: 2px;
     opacity: 0;
     -webkit-transition: opacity 0.8s;
     transition: opacity 0.8s;
@@ -194,12 +189,8 @@
     display: block;
 }
 
-#ninja-slider.fullscreen .fs-icon::before {
-    content: "+";
-    display: block;
-    font-weight: bold;
-    font-size: 3em;
-    transform: rotate(-45deg);
+#ninja-slider.fullscreen .fs-icon::before {    display: block;
+
 }
 
 #ninja-slider .slider-inner {
@@ -487,4 +478,9 @@ header a.active {
 .gallery img {
     width: 179px;
     cursor: pointer;
+}
+
+.x{
+        margin-top: 31%;
+    margin-right: 26%;
 }

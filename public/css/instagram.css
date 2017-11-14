@@ -1,0 +1,46 @@
+.gallery{
+	display:inline-block;
+	width:18.5%;
+	margin: 0.74%;
+}
+
+.gallery:hover{
+		opacity:0.7;
+	-moz-opacity:0.7;
+	-webkit-opacity:0.7;
+}
+
+.instaimg{
+	width:100%;
+}
+
+#instafeed{
+	margin-left: 36px;
+	margin-right: 34px;
+	margin-top: 1.7%;
+}
+
+footer{
+
+    background-color: white;
+    position:absolute;
+     bottom: 0;
+
+ /*   z-index:12;*/
+}
+
+#copyright2{
+	float:left;
+margin-left: 40px;
+margin-bottom: 3%;
+margin-top: 2%;
+    font-weight: lighter;
+    color:#767777;
+}
+
+#socialmedia2{
+	float:right;
+	margin-right: 40px;
+	margin-bottom: 3%;
+margin-top: 2%;
+}

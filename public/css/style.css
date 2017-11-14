@@ -18,12 +18,16 @@ body {
 
 }
 
-
+#aboutlolo{
+    margin-top: 1%;
+    width:77%;
+    margin-left:13.6%;
+}
 
 footer{
 
     background-color: white;
- /*   z-index:12;*/
+    z-index:12;
 }
 
 

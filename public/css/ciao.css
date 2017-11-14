@@ -1,0 +1,17 @@
+#desk{
+	margin-left: 43px;
+	width: 50%;
+	margin-top: 2.5%;
+}
+
+#contactinfo{
+	        font-weight: lighter;
+    color: #767777;
+        position: absolute;
+    margin-top: -11.5%;
+    margin-left: 57%;
+}
+
+.contact{
+	font-size: 1em;
+}

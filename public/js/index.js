@@ -33,7 +33,7 @@ $(document).ready(function() {
     $("#lolosbungalow").on("click", function(event){
     	console.log("poop");
     	for (i=0; i<lolo.length; i++){
-    	$("#projects1").append("<div class='imgcontainer" + [i] + "'></div><img id='lolo" +  [i] + "' class='allpics' src='/public/assets/images/Lolo/" + lolo[i]+ ".jpg'/></div>");
+    	$("#projects").append("<div class='imgcontainer" + [i] + "'></div><img id='lolo" +  [i] + "' class='allpics' src='/public/assets/images/Lolo/" + lolo[i]+ ".jpg'/></div>");
     }
     })
 
