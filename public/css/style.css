@@ -2,7 +2,7 @@ body {
     font-family: 'Quicksand', sans-serif;
 }
 
-
+/*
 #socialmedia{
      position:fixed;
     right:43px;
@@ -16,13 +16,162 @@ body {
     font-weight: lighter;
     color:#767777;
 
+}*/
+
+#copyright2{
+    float:left;
+margin-left: 40px;
+/*margin-bottom: 3%;*/
+margin-top: 4%;
+    font-weight: lighter;
+    color:#767777;
 }
+
+#socialmedia2{
+    float:right;
+    margin-right: 40px;
+/*    margin-bottom: 3%;*/
+margin-top: 3.7%;
+}
+
+
+#socialmedia3{
+    float:right;
+    margin-right: 40px;
+ /*   margin-bottom: 3%;*/
+margin-top: 3.3%;
+}
+
+#copyright3{
+    float:left;
+margin-left: 40px;
+/*margin-bottom: 3%;*/
+margin-top: 3.6%;
+    font-weight: lighter;
+    color:#767777;
+}
+
+#socialmedia4{
+    float:right;
+    margin-right: 40px;
+ /*   margin-bottom: 3%;*/
+margin-top: 3.6%;
+}
+
+#copyright4{
+    float:left;
+margin-left: 40px;
+/*margin-bottom: 3%;*/
+margin-top: 4%;
+    font-weight: lighter;
+    color:#767777;
+}
+
+#socialmedia5{
+    float:right;
+    margin-right: 40px;
+ /*   margin-bottom: 3%;*/
+margin-top: 40.8%;
+}
+
+#copyright5{
+    float:left;
+margin-left: 40px;
+/*margin-bottom: 3%;*/
+margin-top: 41.1%;
+    font-weight: lighter;
+    color:#767777;
+}
+
+#copyright6{
+    float:left;
+margin-left: 40px;
+/*margin-bottom: 3%;*/
+margin-top: 4.3%;
+    font-weight: lighter;
+    color:#767777;
+}
+
+#socialmedia6{
+    float:right;
+    margin-right: 40px;
+/*    margin-bottom: 3%;*/
+margin-top: 4%;
+}
+
+#copyright6-1{
+    float:left;
+margin-left: 40px;
+/*margin-bottom: 3%;*/
+margin-top: 3.4%;
+    font-weight: lighter;
+    color:#767777;
+}
+
+#socialmedia6-1{
+    float:right;
+    margin-right: 40px;
+/*    margin-bottom: 3%;*/
+margin-top: 3.1%;
+}
+
+#copyright7{
+    float:left;
+margin-left: 40px;
+/*margin-bottom: 3%;*/
+margin-top: 4.6%;
+    font-weight: lighter;
+    color:#767777;
+}
+
+#socialmedia7{
+    float:right;
+    margin-right: 40px;
+/*    margin-bottom: 3%;*/
+margin-top: 4.3%;
+}
+
+#copyright8{
+    float:left;
+margin-left: 40px;
+/*margin-bottom: 3%;*/
+margin-top: 3.9%;
+    font-weight: lighter;
+    color:#767777;
+}
+
+#socialmedia8{
+    float:right;
+    margin-right: 40px;
+/*    margin-bottom: 3%;*/
+margin-top: 3.6%;
+}
+
+#copyright9{
+    float:left;
+margin-left: 40px;
+/*margin-bottom: 3%;*/
+margin-top: 3.9%;
+    font-weight: lighter;
+    color:#767777;
+}
+
+#socialmedia9{
+    float:right;
+    margin-right: 40px;
+/*    margin-bottom: 3%;*/
+margin-top: 3.6%;
+}
+
+
 
 #aboutlolo{
     margin-top: 1%;
-    width:77%;
+    width:72%;
     margin-left:13.6%;
 }
+
+
 
 footer{
 

@@ -1,0 +1,183 @@
+#californiacover{
+	width:100%;
+}
+#portfolioscroll{
+    margin-top: 2%;
+}
+
+.imgcontainer {
+    display: inline-block;
+    white-space: nowrap;
+    text-decoration: none;
+    position: relative;
+    width:29%;
+    margin: 0% 1% 0.5% 0;
+}
+
+.imgcontainer2 {
+    display: inline-block;
+    white-space: nowrap;
+    text-decoration: none;
+    position: relative;
+    width:26.5%;
+    margin: 0% 1% 0.5% 0;
+}
+
+.imgcontainer3 {
+    display: inline-block;
+    white-space: nowrap;
+    text-decoration: none;
+    position: relative;
+    width:26.6%;
+    margin: 0% 1% 0.5% 0;
+}
+
+.imgcontainer4 {
+    display: inline-block;
+    white-space: nowrap;
+    text-decoration: none;
+    position: relative;
+    width:31.4%;
+    margin: 0% 1% 0.5% 0;
+}
+
+.imgcontainer5 {
+    display: inline-block;
+    white-space: nowrap;
+    text-decoration: none;
+    position: relative;
+    width:38%;
+    margin: 0% 1% 0.5% 0;
+}
+
+.imgcontainer6 {
+    display: inline-block;
+    white-space: nowrap;
+    text-decoration: none;
+    position: relative;
+    width:33%;
+    margin: 0% 1% 0.5% 0;
+}
+
+.imgcontainer7{
+    display: inline-block;
+    white-space: nowrap;
+    text-decoration: none;
+    position: relative;
+    width:32%;
+    margin: 0% 1% 0.5% 0;
+}
+
+.imgcontainer8{
+    display: inline-block;
+    white-space: nowrap;
+    text-decoration: none;
+    position: relative;
+    width:30%;
+    margin: 0% 1% 0% 0;
+}
+
+.imgcontainer2:hover .image {
+    transition: .5s ease;
+    opacity: 0.3;
+}
+
+.imgcontainer2:hover .portfoliopics {
+    transition: .5s ease;
+    opacity: 0.3;
+}
+
+.imgcontainer2:hover .middle {
+    transition: .5s ease;
+    opacity: 1;
+}
+
+.imgcontainer3:hover .image {
+    transition: .5s ease;
+    opacity: 0.3;
+}
+
+.imgcontainer3:hover .portfoliopics {
+    transition: .5s ease;
+    opacity: 0.3;
+}
+
+.imgcontainer3:hover .middle {
+    transition: .5s ease;
+    opacity: 1;
+}
+
+.imgcontainer4:hover .image {
+    transition: .5s ease;
+    opacity: 0.3;
+}
+
+.imgcontainer4:hover .portfoliopics {
+    transition: .5s ease;
+    opacity: 0.3;
+}
+
+.imgcontainer4:hover .middle {
+    transition: .5s ease;
+    opacity: 1;
+}
+
+.imgcontainer5:hover .image {
+    transition: .5s ease;
+    opacity: 0.3;
+}
+
+.imgcontainer5:hover .portfoliopics {
+    transition: .5s ease;
+    opacity: 0.3;
+}
+
+.imgcontainer5:hover .middle {
+    transition: .5s ease;
+    opacity: 1;
+}
+
+.imgcontainer6:hover .image {
+    transition: .5s ease;
+    opacity: 0.3;
+}
+
+.imgcontainer6:hover .portfoliopics {
+    transition: .5s ease;
+    opacity: 0.3;
+}
+
+.imgcontainer6:hover .middle {
+    transition: .5s ease;
+    opacity: 1;
+}
+
+.imgcontainer7:hover .image {
+    transition: .5s ease;
+    opacity: 0.3;
+}
+
+.imgcontainer7:hover .portfoliopics {
+    transition: .5s ease;
+    opacity: 0.3;
+}
+
+.imgcontainer7:hover .middle {
+    transition: .5s ease;
+    opacity: 1;
+}
+
+.imgcontainer8:hover .image {
+    transition: .5s ease;
+    opacity: 0.3;
+}
+
+.imgcontainer8:hover .portfoliopics {
+    transition: .5s ease;
+    opacity: 0.3;
+}
+
+.imgcontainer8:hover .middle {
+    transition: .5s ease;
+    opacity: 1;
+}
