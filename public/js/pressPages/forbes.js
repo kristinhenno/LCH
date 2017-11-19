@@ -1,6 +1,6 @@
 var button = document.getElementById("button");
 var d3 = document.getElementById("d3");
-var everygirl2 = ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20"];
+var forbes = ["1", "2", "3", "4", "5", "6"];
 
 function openNav() {
     button.style.display = "none";
@@ -41,14 +41,14 @@ function fsIconClick(isFullscreen) {
 
 
 $(document).ready(function() {
-    for (i = 0; i < everygirl2.length; i++) {
-        $("#projects").append("<div id='imgcontainereg2" + [i] + "'><img onclick='lightbox(" + [i] + ")' class='californiahomes' src='/public/assets/images/Press/EveryGirl2/" + everygirl2[i] + ".jpg'/><div id='myModal' class='modal'> <span class = 'close'>&times;</span><img class='modal-content' id='img01'></div></div>");
+    for (i = 0; i < forbes.length; i++) {
+        $("#projects").append("<div id='imgcontainerf" + [i] + "'><img onclick='lightbox(" + [i] + ")' class='californiahomes' src='/public/assets/images/Press/Forbes/" + forbes[i] + ".jpg'/><div id='myModal' class='modal'> <span class = 'close'>&times;</span><img class='modal-content' id='img01'></div></div>");
 
     }
 
 
-    for (i = 0; i < everygirl2.length; i++) {
-        $("#ninja").append("<li><a class='ns-img' href='/public/assets/images/Press/EveryGirl2/" + everygirl2[i] + ".jpg'></a></li>")
+    for (i = 0; i < forbes.length; i++) {
+        $("#ninja").append("<li><a class='ns-img' href='/public/assets/images/Press/Forbes/" + forbes[i] + ".jpg'></a></li>")
 
     }
 

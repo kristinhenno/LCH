@@ -2,194 +2,291 @@ body {
     font-family: 'Quicksand', sans-serif;
 }
 
-/*
-#socialmedia{
-     position:fixed;
-    right:43px;
-    bottom:5%;
+#lolosshop {
+    width: 53.47%;
+    margin-left: 23%;
 }
 
-#copyright{
-    position:fixed;
-    left:43px;
-    bottom:5%;
+#copyrightlolosshop {
+    float: left;
+    margin-left: 40px;
+    margin-top: 2%;
     font-weight: lighter;
-    color:#767777;
-
-}*/
-
-#copyright2{
-    float:left;
-margin-left: 40px;
-/*margin-bottom: 3%;*/
-margin-top: 4%;
-    font-weight: lighter;
-    color:#767777;
+    color: #767777;
 }
 
-#socialmedia2{
-    float:right;
+#socialmedialolosshop {
+    float: right;
     margin-right: 40px;
-/*    margin-bottom: 3%;*/
-margin-top: 3.7%;
+    margin-top: 1.7%;
 }
 
-
-#socialmedia3{
-    float:right;
-    margin-right: 40px;
- /*   margin-bottom: 3%;*/
-margin-top: 3.3%;
-}
-
-#copyright3{
-    float:left;
-margin-left: 40px;
-/*margin-bottom: 3%;*/
-margin-top: 3.6%;
+#copyright2 {
+    float: left;
+    margin-left: 40px;
+    margin-top: 4%;
     font-weight: lighter;
-    color:#767777;
+    color: #767777;
 }
 
-#socialmedia4{
-    float:right;
+#socialmedia2 {
+    float: right;
     margin-right: 40px;
- /*   margin-bottom: 3%;*/
-margin-top: 3.6%;
+    margin-top: 3.7%;
 }
 
-#copyright4{
-    float:left;
-margin-left: 40px;
-/*margin-bottom: 3%;*/
-margin-top: 4%;
+#copyrightbung {
+    float: left;
+    margin-left: 40px;
+    margin-top: 4.2%;
     font-weight: lighter;
-    color:#767777;
+    color: #767777;
 }
 
-#socialmedia5{
-    float:right;
+#socialmediabung {
+    float: right;
     margin-right: 40px;
- /*   margin-bottom: 3%;*/
-margin-top: 41.8%;
+    margin-top: 3.9%;
 }
 
-#copyright5{
-    float:left;
-margin-left: 40px;
-/*margin-bottom: 3%;*/
-margin-top: 42.1%;
-    font-weight: lighter;
-    color:#767777;
-}
-
-#copyright6{
-    float:left;
-margin-left: 40px;
-/*margin-bottom: 3%;*/
-margin-top: 4.3%;
-    font-weight: lighter;
-    color:#767777;
-}
-
-#socialmedia6{
-    float:right;
+#socialmediaboho {
+    float: right;
     margin-right: 40px;
-/*    margin-bottom: 3%;*/
-margin-top: 4%;
+    margin-top: 3.85%;
 }
 
-#copyright6-1{
-    float:left;
-margin-left: 40px;
-/*margin-bottom: 3%;*/
-margin-top: 3.95%;
+#copyrightboho {
+    float: left;
+    margin-left: 40px;
+    margin-top: 4.15%;
     font-weight: lighter;
-    color:#767777;
+    color: #767777;
 }
 
-#socialmedia6-1{
-    float:right;
+#socialmediacabana {
+    float: right;
     margin-right: 40px;
-/*    margin-bottom: 3%;*/
-margin-top: 3.65%;
+    margin-top: 3.6%;
 }
 
-#copyright7{
-    float:left;
-margin-left: 40px;
-/*margin-bottom: 3%;*/
-margin-top: 5%;
+#copyrightcabana {
+    float: left;
+    margin-left: 40px;
+    margin-top: 3.9%;
     font-weight: lighter;
-    color:#767777;
+    color: #767777;
 }
 
-#socialmedia7{
-    float:right;
+#socialmediasf {
+    float: right;
     margin-right: 40px;
-/*    margin-bottom: 3%;*/
-margin-top: 4.65%;
+    margin-top: 3.95%;
 }
 
-#copyright8{
-    float:left;
-margin-left: 40px;
-/*margin-bottom: 3%;*/
-margin-top: 4.35%;
+#copyrightsf {
+    float: left;
+    margin-left: 40px;
+    margin-top: 4.25%;
     font-weight: lighter;
-    color:#767777;
+    color: #767777;
 }
 
-#socialmedia8{
-    float:right;
+
+
+#socialmedia3 {
+    float: right;
     margin-right: 40px;
-/*    margin-bottom: 3%;*/
-margin-top: 4%;
+    margin-top: 3.18%;
 }
 
-#copyright9{
-    float:left;
-margin-left: 40px;
-/*margin-bottom: 3%;*/
-margin-top: 4.45%;
+#copyright3 {
+    float: left;
+    margin-left: 40px;
+    margin-top: 3.38%;
     font-weight: lighter;
-    color:#767777;
+    color: #767777;
 }
 
-#socialmedia9{
-    float:right;
+#socialmedia4 {
+    float: right;
     margin-right: 40px;
-/*    margin-bottom: 3%;*/
-margin-top: 4.05%;
+    margin-top: 4.1%;
+}
+
+#copyright4 {
+    float: left;
+    margin-left: 40px;
+    margin-top: 4.4%;
+    font-weight: lighter;
+    color: #767777;
+}
+
+#socialmedia5 {
+    float: right;
+    margin-right: 40px;
+    margin-top: 41.8%;
+}
+
+#copyright5 {
+    float: left;
+    margin-left: 40px;
+    margin-top: 42.1%;
+    font-weight: lighter;
+    color: #767777;
+}
+
+#copyright6 {
+    float: left;
+    margin-left: 40px;
+    margin-top: 4%;
+    font-weight: lighter;
+    color: #767777;
+}
+
+#socialmedia6 {
+    float: right;
+    margin-right: 40px;
+    margin-top: 3.7%;
+}
+
+#copyright6-1 {
+    float: left;
+    margin-left: 40px;
+    margin-top: 3.6%;
+    font-weight: lighter;
+    color: #767777;
+}
+
+#socialmedia6-1 {
+    float: right;
+    margin-right: 40px;
+    margin-top: 3.3%;
+}
+
+#copyright7 {
+    float: left;
+    margin-left: 40px;
+    margin-top: 4.7%;
+    font-weight: lighter;
+    color: #767777;
+}
+
+#socialmedia7 {
+    float: right;
+    margin-right: 40px;
+    margin-top: 4.4%;
+}
+
+#copyright8 {
+    float: left;
+    margin-left: 40px;
+    margin-top: 4%;
+    font-weight: lighter;
+    color: #767777;
+}
+
+#socialmedia8 {
+    float: right;
+    margin-right: 40px;
+    margin-top: 3.7%;
+}
+
+#copyright9 {
+    float: left;
+    margin-left: 40px;
+    margin-top: 4.15%;
+    font-weight: lighter;
+    color: #767777;
+}
+
+#socialmedia9 {
+    float: right;
+    margin-right: 40px;
+    margin-top: 3.85%;
+}
+
+#copyrighteg {
+    float: left;
+    margin-left: 40px;
+    margin-top: 3.8%;
+    font-weight: lighter;
+    color: #767777;
+}
+
+#socialmediaeg {
+    float: right;
+    margin-right: 40px;
+    margin-top: 3.7%;
+}
+
+#copyrighteg2 {
+    float: left;
+    margin-left: 40px;
+    margin-top: 4%;
+    font-weight: lighter;
+    color: #767777;
+}
+
+#socialmediaeg2 {
+    float: right;
+    margin-right: 40px;
+    margin-top: 3.6%;
+}
+
+#copyrightgg {
+    float: left;
+    margin-left: 40px;
+    margin-top: 3.35%;
+    font-weight: lighter;
+    color: #767777;
+}
+
+#socialmediagg {
+    float: right;
+    margin-right: 40px;
+    margin-top: 3.15%;
+}
+
+#copyrightf {
+    float: left;
+    margin-left: 40px;
+    margin-top: 3.3%;
+    font-weight: lighter;
+    color: #767777;
+}
+
+#socialmediaf {
+    float: right;
+    margin-right: 40px;
+    margin-top: 3%;
 }
 
 
 
-#aboutlolo{
+#aboutlolo {
     margin-top: 2.2%;
-    width:72%;
-    margin-left:13.6%;
+    width: 72%;
+    margin-left: 13.6%;
 }
 
 
 
-footer{
+footer {
 
     background-color: white;
-    z-index:12;
+    z-index: 12;
 }
 
 
-.icon{
+.icon {
     display: inline-block;
- margin: 0px 4px;
+    margin: 0px 4px;
 }
 
 #homeimages {
     margin-top: 3.5%;
     margin-left: 13.2%;
     width: 74%;
-/*    height:71%;*/
     position: absolute;
     display: block;
     z-index: 10;
@@ -199,7 +296,6 @@ footer{
     margin-top: 3.5%;
     margin-left: 13.2%;
     width: 74%;
-/*    height:71%;*/
     position: absolute;
     display: block;
 }
@@ -279,6 +375,7 @@ a:visited {
 
 
 
+
 /* The navigation menu links */
 
 .sidenav a {
@@ -290,6 +387,7 @@ a:visited {
     transition: 0.3s;
     font-weight: lighter;
 }
+
 
 
 
@@ -306,6 +404,7 @@ a:visited {
 
 
 
+
 /* Position and style the close button (top right corner) */
 
 .sidenav .closebtn {
@@ -318,12 +417,14 @@ a:visited {
 
 
 
+
 /* Style page content - use this if you want to push the page content to the right when you open the side navigation */
 
 #main {
     transition: margin-left .5s;
     padding: 20px;
 }
+
 
 
 

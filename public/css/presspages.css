@@ -479,7 +479,7 @@ margin: 0% 1% 0% 0;
 }
 
 #imgcontainergg6{
-    width: 24%;
+    width: 24.1%;
     display: inline-block;
       margin: 0% 1% 0.5% 0;
     cursor:pointer;
@@ -488,6 +488,55 @@ margin: 0% 1% 0% 0;
 
 #imgcontainergg7{
     width: 16.2%;
+    display: inline-block;
+      margin: 0% 1% 0.5% 0;
+    cursor:pointer;
+
+}
+
+/*--------forbes---------*/
+#imgcontainerf0{
+    width: 19.9%;
+    display: inline-block;
+      margin: 0% 1% 0.5% 0;
+    cursor:pointer;
+
+}
+
+#imgcontainerf1{
+    width: 27%;
+    display: inline-block;
+      margin: 0% 1% 0.5% 0;
+    cursor:pointer;
+
+}
+
+#imgcontainerf2{
+    width: 26.3%;
+    display: inline-block;
+      margin: 0% 1% 0.5% 0;
+    cursor:pointer;
+
+}
+
+#imgcontainerf3{
+    width: 16.55%;
+    display: inline-block;
+      margin: 0% 1% 0.5% 0;
+    cursor:pointer;
+
+}
+
+#imgcontainerf4{
+    width: 23.5%;
+    display: inline-block;
+      margin: 0% 1% 0.5% 0;
+    cursor:pointer;
+
+}
+
+#imgcontainerf5{
+    width: 35%;
     display: inline-block;
       margin: 0% 1% 0.5% 0;
     cursor:pointer;
