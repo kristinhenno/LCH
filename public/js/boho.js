@@ -47,11 +47,11 @@ $(document).ready(function() {
 
     }
 
-
+ if ($(window).width() > 769) {
     for (i = 0; i < boho.length; i++) {
         $("#ninja").append("<li><a class='ns-img' href='/public/assets/images/Boho/" + boho[i] + ".jpg'></a></li>")
 
     }
-
+}
 
 })

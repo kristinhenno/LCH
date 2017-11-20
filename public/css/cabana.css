@@ -412,3 +412,74 @@ header a.active {
         margin-top: 31%;
     margin-right: 26%;
 }
+
+@media only screen and (max-width: 768px) and (orientation: portrait) {
+    #imgcontainer0 {
+        width: 100%;
+        display: block;
+        margin: 0% 0% 3.5% 0%;
+        cursor: pointer;
+    }
+    #imgcontainer1 {
+        width: 100%;
+        display: block;
+        margin: 0% 0% 3.5% 0%;
+        cursor: pointer;
+    }
+    #imgcontainer2 {
+        width: 100%;
+        display: block;
+        margin: 0% 0% 3.5% 0%;
+        cursor: pointer;
+    }
+    #imgcontainer3 {
+        width: 100%;
+        display: block;
+        margin: 0% 0% 3.5% 0%;
+        cursor: pointer;
+    }
+    #imgcontainer4 {
+        width: 100%;
+        display: block;
+        margin: 0% 0% 3.5% 0%;
+        cursor: pointer;
+    }
+    #imgcontainer5 {
+        width: 100%;
+        display: block;
+        margin: 0% 0% 3.5% 0%;
+        cursor: pointer;
+    }
+    #imgcontainer6 {
+        width: 100%;
+        display: block;
+        margin: 0% 0% 3.5% 0%;
+        cursor: pointer;
+    }
+    #imgcontainer7 {
+        width: 100%;
+        display: block;
+        margin: 0% 0% 3.5% 0%;
+        cursor: pointer;
+    }
+    #imgcontainer8 {
+        width: 100%;
+        display: block;
+        margin: 0% 0% 3.5% 0%;
+        cursor: pointer;
+    }
+    #imgcontainer9 {
+        width: 100%;
+        display: block;
+        margin: 0% 0% 3.5% 0%;
+        cursor: pointer;
+    }
+  
+    #ninja-slider {
+        display: none;
+    }
+}
+@media only screen and (max-width: 768px) and (orientation: landscape) {
+        #ninja-slider {
+   display:none;
+}

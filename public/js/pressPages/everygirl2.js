@@ -46,11 +46,11 @@ $(document).ready(function() {
 
     }
 
-
+ if ($(window).width() > 769) {
     for (i = 0; i < everygirl2.length; i++) {
         $("#ninja").append("<li><a class='ns-img' href='/public/assets/images/Press/EveryGirl2/" + everygirl2[i] + ".jpg'></a></li>")
 
     }
 
-
+}
 })

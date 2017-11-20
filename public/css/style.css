@@ -2,10 +2,6 @@ body {
     font-family: 'Quicksand', sans-serif;
 }
 
-#lolosshop {
-    width: 53.47%;
-    margin-left: 23%;
-}
 
 #copyrightlolosshop {
     float: left;
@@ -335,12 +331,51 @@ header {
     padding-top: 0.5%;
     padding-left: 13px;
     width: 85%;
-    min-width: 500px;
+    max-width: 1175px;
+    position: relative;
+    font-family: 'Quicksand', sans-serif;
+}
+.lch1 {
+    padding-top: 0.5%;
+    padding-left: 13px;
+    width: 85%;
+    max-width: 1175px;
+    position: relative;
+    font-family: 'Quicksand', sans-serif;
+}
+.lch2 {
+    padding-top: 0.5%;
+    padding-left: 13px;
+    width: 85%;
+    max-width: 1175px;
+    position: relative;
+    font-family: 'Quicksand', sans-serif;
+}
+.lch3 {
+    padding-top: 0.5%;
+    padding-left: 13px;
+    width: 85%;
+    max-width: 1175px;
+    position: relative;
+    font-family: 'Quicksand', sans-serif;
+}
+.lch4 {
+    padding-top: 0.5%;
+    padding-left: 13px;
+    width: 85%;
     max-width: 1175px;
     position: relative;
     font-family: 'Quicksand', sans-serif;
 }
 
+.lch5 {
+    padding-top: 0.5%;
+    padding-left: 13px;
+    width: 85%;
+    max-width: 1175px;
+    position: relative;
+    font-family: 'Quicksand', sans-serif;
+}
 h1 {
     margin: 0;
 }
@@ -372,12 +407,6 @@ a:visited {
     color: black;
 }
 
-
-
-
-
-/* The navigation menu links */
-
 .sidenav a {
     padding: 8px 8px 8px 32px;
     text-decoration: none;
@@ -388,11 +417,6 @@ a:visited {
     font-weight: lighter;
 }
 
-
-
-
-/* When you mouse over the navigation links, change their color */
-
 .sidenav a:hover,
 .offcanvas a:focus {
     color: #f1f1f1;
@@ -402,11 +426,6 @@ a:visited {
     display: none;
 }
 
-
-
-
-/* Position and style the close button (top right corner) */
-
 .sidenav .closebtn {
     position: absolute;
     top: 0;
@@ -415,20 +434,10 @@ a:visited {
     margin-left: 50px;
 }
 
-
-
-
-/* Style page content - use this if you want to push the page content to the right when you open the side navigation */
-
 #main {
     transition: margin-left .5s;
     padding: 20px;
 }
-
-
-
-
-/* On smaller screens, where height is less than 450px, change the style of the sidenav (less padding and a smaller font size) */
 
 @media screen and (max-height: 450px) {
     .sidenav {
@@ -437,4 +446,503 @@ a:visited {
     .sidenav a {
         font-size: 18px;
     }
+}
+
+@media only screen and (max-width: 768px) and (orientation: portrait) {
+    .lch {
+        margin-top: 2.3px;
+        margin-left: 40px;
+        position: relative;
+        width: 100%;
+    }
+
+    .lch1 {
+        margin-top: -0.2px;
+        margin-left: 27px;
+        position: relative;
+        width: 84%;
+    }
+
+     .lch2 {
+         margin-top: -0.2px;
+        margin-left: 27px;
+        position: relative;
+        width: 84%;
+    }
+
+    .lch3{
+         margin-top: -0.2px;
+        margin-left: 27px;
+        position: relative;
+        width: 84%;
+    }
+
+    .lch4{
+      margin-top: -0.2px;
+        margin-left: 27px;
+        position: relative;
+        width: 84%;
+    }
+
+    .lch5{
+         margin-top: -0.1px;
+        margin-left: 27px;
+        position: relative;
+        width: 84%;
+    }
+
+
+    #laurenlogo {
+        width: 85%;
+    }
+
+    #button {
+        margin-left: 20px;
+        margin-top: 2px;
+    }
+    header {
+        padding-bottom: 15px;
+        border-bottom: 1px solid #E1E0E1;
+        height: 55px;
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+
+    .lolo {
+        width: 0px;
+        margin-left: 0px;
+        display: none;
+    }
+
+    #homeimages {
+        margin-top: 50px;
+        margin-left: 13.2%;
+        width: 74%;
+        position: relative;
+        display: block;
+        z-index: 10;
+    }
+
+    #homeimages2 {
+        margin-top: 30px;
+        margin-left: 13.2%;
+        width: 74%;
+        position: relative;
+        display: block;
+    }
+
+    #socialmedia5 {
+        margin-top: 20px;
+        float: center;
+        float: none;
+        text-align: center;
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+
+    #copyright5 {
+        float: none;
+        text-align: center;
+        margin-top: 50px;
+        font-weight: lighter;
+        color: #767777;
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+
+        #socialmedia8 {
+        margin-top: 20px;
+        float: center;
+        float: none;
+        text-align: center;
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+
+    #copyright8 {
+        float: none;
+        text-align: center;
+        margin-top: 50px;
+        font-weight: lighter;
+        color: #767777;
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+           #socialmedia9 {
+        margin-top: 20px;
+        float: center;
+        float: none;
+        text-align: center;
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+
+    #copyright9 {
+        float: none;
+        text-align: center;
+        margin-top: 50px;
+        font-weight: lighter;
+        color: #767777;
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+
+
+
+
+    #socialmedia3 {
+        margin-top: 20px;
+        float: center;
+        float: none;
+        text-align: center;
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+
+    #copyright3 {
+        float: none;
+        text-align: center;
+        margin-top: 50px;
+        font-weight: lighter;
+        color: #767777;
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+
+
+    #socialmedia2 {
+        margin-top: 20px;
+        float: center;
+        float: none;
+        text-align: center;
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+
+    #copyright2 {
+        float: none;
+        text-align: center;
+        margin-top: 20px;
+        font-weight: lighter;
+        color: #767777;
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+ #socialmedia6 {
+        margin-top: 20px;
+        float: center;
+        float: none;
+        text-align: center;
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+
+    #copyright6 {
+        float: none;
+        text-align: center;
+        margin-top: 20px;
+        font-weight: lighter;
+        color: #767777;
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+
+     #socialmedia7 {
+        margin-top: 20px;
+        float: center;
+        float: none;
+        text-align: center;
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+
+    #copyright7 {
+        float: none;
+        text-align: center;
+        margin-top: 20px;
+        font-weight: lighter;
+        color: #767777;
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+ #socialmedia6-1 {
+        margin-top: 20px;
+        float: center;
+        float: none;
+        text-align: center;
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+
+    #copyright6-1 {
+        float: none;
+        text-align: center;
+        margin-top: 20px;
+        font-weight: lighter;
+        color: #767777;
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+      #socialmediabung {
+        margin-top: 20px;
+        float: center;
+        float: none;
+        text-align: center;
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+
+    #copyrightbung {
+        float: none;
+        text-align: center;
+        margin-top: 20px;
+        font-weight: lighter;
+        color: #767777;
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+
+       #socialmediaboho {
+        margin-top: 20px;
+        float: center;
+        float: none;
+        text-align: center;
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+
+    #copyrightboho {
+        float: none;
+        text-align: center;
+        margin-top: 20px;
+        font-weight: lighter;
+        color: #767777;
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+
+          #socialmediacabana {
+        margin-top: 20px;
+        float: center;
+        float: none;
+        text-align: center;
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+
+    #copyrightcabana {
+        float: none;
+        text-align: center;
+        margin-top: 20px;
+        font-weight: lighter;
+        color: #767777;
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+
+       #socialmediasf {
+        margin-top: 20px;
+        float: center;
+        float: none;
+        text-align: center;
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+
+    #copyrightsf {
+        float: none;
+        text-align: center;
+        margin-top: 20px;
+        font-weight: lighter;
+        color: #767777;
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+
+        #socialmediaeg {
+        margin-top: 20px;
+        float: center;
+        float: none;
+        text-align: center;
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+
+    #copyrighteg {
+        float: none;
+        text-align: center;
+        margin-top: 20px;
+        font-weight: lighter;
+        color: #767777;
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+
+        
+                #socialmedia4{
+        margin-top: 20px;
+        float: center;
+        float: none;
+        text-align: center;
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+
+    #copyright4 {
+        float: none;
+        text-align: center;
+        margin-top: 30px;
+        font-weight: lighter;
+        color: #767777;
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+        #socialmediaeg2 {
+        margin-top: 20px;
+        float: center;
+        float: none;
+        text-align: center;
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+
+    #copyrighteg2 {
+        float: none;
+        text-align: center;
+        margin-top: 20px;
+        font-weight: lighter;
+        color: #767777;
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+
+          #socialmediagg {
+        margin-top: 20px;
+        float: center;
+        float: none;
+        text-align: center;
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+
+    #copyrightgg {
+        float: none;
+        text-align: center;
+        margin-top: 20px;
+        font-weight: lighter;
+        color: #767777;
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+
+          #socialmediaf {
+        margin-top: 20px;
+        float: center;
+        float: none;
+        text-align: center;
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+
+    #copyrightf {
+        float: none;
+        text-align: center;
+        margin-top: 20px;
+        font-weight: lighter;
+        color: #767777;
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+
+           #socialmedia2 {
+        margin-top: 20px;
+        float: center;
+        float: none;
+        text-align: center;
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+
+    #copyright2 {
+        float: none;
+        text-align: center;
+        margin-top: 20px;
+        font-weight: lighter;
+        color: #767777;
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+
+
+
+    footer {
+
+        background-color: white;
+        width: 100%;
+        position: relative;
+        margin-bottom: 3.5%;
+    }
+
+    .sidenav {
+        height: 100%;
+        width: 100%;
+        position: absolute;
+        top: 60px;
+        left: 0;
+        z-index: 11;
+        font-size: 36px;
+        background-color: #ffffff;
+        opacity: 0.9;
+        transition: 0.5s;
+    }
+
+    .sidenav a {
+        padding: 0px;
+        padding-bottom: 18px;
+        margin-left: -3%;
+        margin-top: -3%;
+        text-align: center;
+        text-decoration: none;
+        font-size: 16px;
+        color: #000000;
+        display: block;
+        transition: 0.3s;
+        font-weight: lighter;
+    }
+
+    #aboutlolo {
+        width: 105%;
+        margin: 0%;
+        margin-top: 50px;
+    }
+}
+
+@media only screen and (max-width: 768px) and (orientation: landscape) {
+       .sidenav {
+        height: 100%;
+        width: 20%;
+        position: absolute;
+        top: 60px;
+        left: 0;
+        z-index: 11;
+        font-size: 8px;
+        background-color: #ffffff;
+        opacity: 0.9;
+        transition: 0.5s;
+    }
+
+    .sidenav a {
+        padding: 0px;
+        padding-bottom: 18px;
+        margin-top: -3%;
+        text-align: center;
+        text-decoration: none;
+        font-size: 12px;
+        color: #000000;
+        display: block;
+        transition: 0.3s;
+        font-weight: lighter;
+        text-align: left;
+    }
+
 }

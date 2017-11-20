@@ -46,11 +46,11 @@ $(document).ready(function() {
 
     }
 
-
+ if ($(window).width() > 769) {
     for (i = 0; i < gg.length; i++) {
         $("#ninja").append("<li><a class='ns-img' href='/public/assets/images/Press/GlitterGuide/" + gg[i] + ".jpg'></a></li>")
 
     }
 
-
+}
 })

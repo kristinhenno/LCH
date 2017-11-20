@@ -46,11 +46,11 @@ $(document).ready(function() {
 
     }
 
-
+  if ($(window).width() > 769) {
     for (i = 0; i < cabana.length; i++) {
         $("#ninja").append("<li><a class='ns-img' href='/public/assets/images/cabana/" + cabana[i] + ".jpg'></a></li>")
 
     }
-
+}
 
 })

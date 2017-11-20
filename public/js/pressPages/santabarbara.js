@@ -45,11 +45,11 @@ $(document).ready(function() {
         $("#projects").append("<div id='imgcontainers" + [i] + "'><img onclick='lightbox(" + [i] + ")' class='californiahomes' src='/public/assets/images/Press/Summer17/" + sb[i] + ".jpg'/><div id='myModal' class='modal'> <span class = 'close'>&times;</span><img class='modal-content' id='img01'></div></div>");
 
     }
-
+ if ($(window).width() > 769) {
 
     for (i = 0; i < sb.length; i++) {
         $("#ninja").append("<li><a class='ns-img' href='/public/assets/images/Press/Summer17/" + sb[i] + ".jpg'></a></li>")
-
+}
     }
 
 

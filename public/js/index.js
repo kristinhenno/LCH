@@ -27,8 +27,14 @@ function images2(){
 }
 
 $(document).ready(function() {
+    if ( $(window).width() > 769) {      
+setTimeout(images, 3000);
+} 
+else {
 
-    setTimeout(images, 3000);
+
+
+    
 
     $("#lolosbungalow").on("click", function(event){
     	console.log("poop");
@@ -36,6 +42,8 @@ $(document).ready(function() {
     	$("#projects").append("<div class='imgcontainer" + [i] + "'></div><img id='lolo" +  [i] + "' class='allpics' src='/public/assets/images/Lolo/" + lolo[i]+ ".jpg'/></div>");
     }
     })
+
+}
 
 });
 

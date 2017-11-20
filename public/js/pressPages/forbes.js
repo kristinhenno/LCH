@@ -46,11 +46,10 @@ $(document).ready(function() {
 
     }
 
-
+ if ($(window).width() > 769) {
     for (i = 0; i < forbes.length; i++) {
         $("#ninja").append("<li><a class='ns-img' href='/public/assets/images/Press/Forbes/" + forbes[i] + ".jpg'></a></li>")
 
     }
-
-
+}
 })

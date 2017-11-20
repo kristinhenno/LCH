@@ -44,3 +44,47 @@ margin-top: 2%;
 	margin-bottom: 3%;
 margin-top: 2%;
 }
+@media only screen and (max-width: 768px) and (orientation: portrait) {
+	.gallery{
+	display:inline-block;
+	width:46.2%;
+	margin: 3.5% 1.5%;
+}
+
+
+.instaimg{
+	width:100%;
+}
+
+#instafeed{
+	margin-left: .5%;
+	margin-right: .5%;
+	margin-top: 2%;
+}
+        #socialmedia2 {
+        margin-top: 20px;
+        float: center;
+        float: none;
+        text-align: center;
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+
+    #copyright2 {
+        float: none;
+        text-align: center;
+        margin-top: 20px;
+        font-weight: lighter;
+        color: #767777;
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+
+ footer {
+
+        background-color: white;
+        width: 100%;
+        position: relative;
+        margin-bottom: 3.5%;
+    }
+}

@@ -1,12 +1,12 @@
-
-.californiahomes {
+    .californiahomes {
     width: 100%;
     display: inline-block;
 }
 
-.cowboysindians{
+.cowboysindians {
     width: 100%;
 }
+
 
 /*californiahomes*/
 
@@ -14,538 +14,504 @@
     width: 29.5%;
     display: inline-block;
     margin: 0% 1.2% 0.5% 0;
-    cursor:pointer;
+    cursor: pointer;
 }
 
 
 #imgcontainer1 {
     width: 30.3%;
     display: inline-block;
-      margin: 0% -0.7% 0.5% 0%;
-    cursor:pointer;
+    margin: 0% -0.7% 0.5% 0%;
+    cursor: pointer;
 }
 
 
 #imgcontainer2 {
-       width: 29.5%;
+    width: 29.5%;
     display: inline-block;
     margin: 0% -1.5% 0.5% 0;
-    cursor:pointer;
+    cursor: pointer;
 }
 
 
 #imgcontainer3 {
-      width: 31.4%;
+    width: 31.4%;
     display: inline-block;
     margin: 0% 1% 0.5% 0;
-    cursor:pointer;
+    cursor: pointer;
 }
 
 
 #imgcontainer4 {
     width: 29.1%;
     display: inline-block;
-margin: 0% 1% 0% 0;
-    cursor:pointer;
+    margin: 0% 1% 0% 0;
+    cursor: pointer;
 }
 
 #imgcontainers0 {
     width: 25.9%;
     display: inline-block;
-       margin: 0% 1.4% 0.5% 23.2%;
-    cursor:pointer;
+    margin: 0% 1.4% 0.5% 23.2%;
+    cursor: pointer;
 }
 
 
 #imgcontainers1 {
     width: 26.4%;
     display: inline-block;
-      margin: 0% -0.7% 0.5% 0%;
-    cursor:pointer;
+    margin: 0% -0.7% 0.5% 0%;
+    cursor: pointer;
 }
+
 
 /*cowboysindians*/
 
 #imgcontainercb0 {
     width: 27.1%;
     display: inline-block;
-       margin: 0% 1% 0.5% 0;
-    cursor:pointer;
+    margin: 0% 1% 0.5% 0;
+    cursor: pointer;
 }
 
 
 #imgcontainercb1 {
     width: 25.7%;
     display: inline-block;
-      margin: 0% 1% 0.5% 0;
-    cursor:pointer;
+    margin: 0% 1% 0.5% 0;
+    cursor: pointer;
 }
 
 #imgcontainercb2 {
     width: 25.6%;
     display: inline-block;
-       margin: 0% 1% 0.5% 0;
-    cursor:pointer;
+    margin: 0% 1% 0.5% 0;
+    cursor: pointer;
 }
 
 
 #imgcontainercb3 {
     width: 25.6%;
     display: inline-block;
-      margin: 0% 1% 0.5% 0;
-    cursor:pointer;
+    margin: 0% 1% 0.5% 0;
+    cursor: pointer;
 }
 
 #imgcontainercb4 {
     width: 25.6%;
     display: inline-block;
-      margin: 0% 1% 0.5% 0;
-    cursor:pointer;
+    margin: 0% 1% 0.5% 0;
+    cursor: pointer;
 }
 
-#imgcontainerd0{
+#imgcontainerd0 {
     width: 31.6%;
     display: inline-block;
-      margin: 0% 1% 0.5% 0;
-    cursor:pointer;
-
+    margin: 0% 1% 0.5% 0;
+    cursor: pointer;
 }
-#imgcontainerd1{
+
+#imgcontainerd1 {
     width: 22.2%;
     display: inline-block;
-      margin: 0% 1% 0.5% 0;
-    cursor:pointer;
-
+    margin: 0% 1% 0.5% 0;
+    cursor: pointer;
 }
-#imgcontainerd2{
+
+#imgcontainerd2 {
     width: 22.2%;
     display: inline-block;
-      margin: 0% 1% 0.5% 0;
-    cursor:pointer;
-
+    margin: 0% 1% 0.5% 0;
+    cursor: pointer;
 }
-#imgcontainerd3{
+
+#imgcontainerd3 {
     width: 22%;
     display: inline-block;
-      margin: 0% 1% 0.5% 0;
-    cursor:pointer;
-
+    margin: 0% 1% 0.5% 0;
+    cursor: pointer;
 }
-#imgcontainerd4{
+
+#imgcontainerd4 {
     width: 22.2%;
     display: inline-block;
-      margin: 0% 1% 0.5% 0;
-    cursor:pointer;
-
+    margin: 0% 1% 0.5% 0;
+    cursor: pointer;
 }
-#imgcontainerd5{
+
+#imgcontainerd5 {
     width: 21.8%;
     display: inline-block;
-      margin: 0% 1% 0.5% 0;
-    cursor:pointer;
-
+    margin: 0% 1% 0.5% 0;
+    cursor: pointer;
 }
+
 
 /*everygirl*/
 
-#imgcontainereg0{
+#imgcontainereg0 {
     width: 31.95%;
     display: inline-block;
-      margin: 0% 1% 0.5% 0;
-    cursor:pointer;
-
+    margin: 0% 1% 0.5% 0;
+    cursor: pointer;
 }
 
 
-#imgcontainereg1{
+#imgcontainereg1 {
     width: 23.7%;
     display: inline-block;
-      margin: 0% 1% 0.5% 0;
-    cursor:pointer;
-
+    margin: 0% 1% 0.5% 0;
+    cursor: pointer;
 }
-#imgcontainereg2{
+
+#imgcontainereg2 {
     width: 23.75%;
     display: inline-block;
-      margin: 0% 1% 0.5% 0;
-    cursor:pointer;
-
+    margin: 0% 1% 0.5% 0;
+    cursor: pointer;
 }
-#imgcontainereg3{
+
+#imgcontainereg3 {
     width: 23.9%;
     display: inline-block;
-      margin: 0% 1% 0.5% 0;
-    cursor:pointer;
-
+    margin: 0% 1% 0.5% 0;
+    cursor: pointer;
 }
-#imgcontainereg4{
+
+#imgcontainereg4 {
     width: 19.35%;
     display: inline-block;
-      margin: 0% 1% 0.5% 0;
-    cursor:pointer;
-
+    margin: 0% 1% 0.5% 0;
+    cursor: pointer;
 }
-#imgcontainereg5{
+
+#imgcontainereg5 {
     width: 19.5%;
     display: inline-block;
-      margin: 0% 1% 0.5% 0;
-    cursor:pointer;
-
+    margin: 0% 1% 0.5% 0;
+    cursor: pointer;
 }
 
-#imgcontainereg6{
+#imgcontainereg6 {
     width: 23.9%;
     display: inline-block;
-      margin: 0% 1% 0.5% 0;
-    cursor:pointer;
-
+    margin: 0% 1% 0.5% 0;
+    cursor: pointer;
 }
-#imgcontainereg7{
+
+#imgcontainereg7 {
     width: 19.6%;
     display: inline-block;
-      margin: 0% 1% 0.5% 0;
-    cursor:pointer;
-
+    margin: 0% 1% 0.5% 0;
+    cursor: pointer;
 }
-#imgcontainereg8{
+
+#imgcontainereg8 {
     width: 19.5%;
     display: inline-block;
-      margin: 0% 1% 0.5% 0;
-    cursor:pointer;
-
+    margin: 0% 1% 0.5% 0;
+    cursor: pointer;
 }
-#imgcontainereg9{
+
+#imgcontainereg9 {
     width: 39%;
     display: inline-block;
-      margin: 0% 1% 0.5% 0;
-    cursor:pointer;
-
+    margin: 0% 1% 0.5% 0;
+    cursor: pointer;
 }
-#imgcontainereg10{
+
+#imgcontainereg10 {
     width: 23.8%;
     display: inline-block;
-      margin: 0% 1% 0.5% 0;
-    cursor:pointer;
-
+    margin: 0% 1% 0.5% 0;
+    cursor: pointer;
 }
 
-#imgcontainereg11{
+#imgcontainereg11 {
     width: 43.2%;
     display: inline-block;
-      margin: 0% 1% 0.5% 0;
-    cursor:pointer;
-
+    margin: 0% 1% 0.5% 0;
+    cursor: pointer;
 }
-#imgcontainereg12{
+
+#imgcontainereg12 {
     width: 23.4%;
     display: inline-block;
-      margin: 0% 1% 0.5% 0;
-    cursor:pointer;
-
+    margin: 0% 1% 0.5% 0;
+    cursor: pointer;
 }
-#imgcontainereg13{
+
+#imgcontainereg13 {
     width: 23.5%;
     display: inline-block;
-      margin: 0% 1% 0.5% 0;
-    cursor:pointer;
-
+    margin: 0% 1% 0.5% 0;
+    cursor: pointer;
 }
-#imgcontainereg14{
+
+#imgcontainereg14 {
     width: 19.9%;
     display: inline-block;
-      margin: 0% 1% 0.5% 0;
-    cursor:pointer;
-
+    margin: 0% 1% 0.5% 0;
+    cursor: pointer;
 }
 
-#imgcontainereg15{
+#imgcontainereg15 {
     width: 22.5%;
     display: inline-block;
-      margin: 0% 1% 0.5% 0;
-    cursor:pointer;
-
+    margin: 0% 1% 0.5% 0;
+    cursor: pointer;
 }
+
 
 /* -------------everygirl2--------------*/
 
-#imgcontainereg20{
+#imgcontainereg20 {
     width: 26.8%;
     display: inline-block;
-      margin: 0% 1% 0.5% 0;
-    cursor:pointer;
-
+    margin: 0% 1% 0.5% 0;
+    cursor: pointer;
 }
 
-#imgcontainereg21{
+#imgcontainereg21 {
     width: 18.05%;
     display: inline-block;
-      margin: 0% 1% 0.5% 0;
-    cursor:pointer;
-
+    margin: 0% 1% 0.5% 0;
+    cursor: pointer;
 }
 
-#imgcontainereg22{
+#imgcontainereg22 {
     width: 17.85%;
     display: inline-block;
-      margin: 0% 1% 0.5% 0;
-    cursor:pointer;
-
+    margin: 0% 1% 0.5% 0;
+    cursor: pointer;
 }
 
-#imgcontainereg23{
+#imgcontainereg23 {
     width: 17.8%;
     display: inline-block;
-      margin: 0% 1% 0.5% 0;
-    cursor:pointer;
-
+    margin: 0% 1% 0.5% 0;
+    cursor: pointer;
 }
 
-#imgcontainereg24{
+#imgcontainereg24 {
     width: 20.6%;
     display: inline-block;
-      margin: 0% 1% 0.5% 0;
-    cursor:pointer;
-
+    margin: 0% 1% 0.5% 0;
+    cursor: pointer;
 }
 
-#imgcontainereg25{
+#imgcontainereg25 {
     width: 17.9%;
     display: inline-block;
-      margin: 0% 1% 0.5% 0;
-    cursor:pointer;
-
+    margin: 0% 1% 0.5% 0;
+    cursor: pointer;
 }
 
-#imgcontainereg26{
+#imgcontainereg26 {
     width: 17.5%;
     display: inline-block;
-      margin: 0% 1% 0.5% 0;
-    cursor:pointer;
-
+    margin: 0% 1% 0.5% 0;
+    cursor: pointer;
 }
 
-#imgcontainereg27{
+#imgcontainereg27 {
     width: 17.8%;
     display: inline-block;
-      margin: 0% 1% 0.5% 0;
-    cursor:pointer;
-
+    margin: 0% 1% 0.5% 0;
+    cursor: pointer;
 }
 
-#imgcontainereg28{
+#imgcontainereg28 {
     width: 19.4%;
     display: inline-block;
-      margin: 0% 1% 0.5% 0;
-    cursor:pointer;
-
+    margin: 0% 1% 0.5% 0;
+    cursor: pointer;
 }
 
-#imgcontainereg29{
+#imgcontainereg29 {
     width: 28.05%;
     display: inline-block;
-      margin: 0% 1% 0.5% 0;
-    cursor:pointer;
-
+    margin: 0% 1% 0.5% 0;
+    cursor: pointer;
 }
 
-#imgcontainereg210{
+#imgcontainereg210 {
     width: 23.5%;
     display: inline-block;
-      margin: 0% 1% 0.5% 0;
-    cursor:pointer;
-
+    margin: 0% 1% 0.5% 0;
+    cursor: pointer;
 }
 
-#imgcontainereg211{
+#imgcontainereg211 {
     width: 23.8%;
     display: inline-block;
-      margin: 0% 1% 0.5% 0;
-    cursor:pointer;
-
+    margin: 0% 1% 0.5% 0;
+    cursor: pointer;
 }
 
-#imgcontainereg212{
+#imgcontainereg212 {
     width: 19.2%;
     display: inline-block;
-      margin: 0% 1% 0.5% 0;
-    cursor:pointer;
-
+    margin: 0% 1% 0.5% 0;
+    cursor: pointer;
 }
 
-#imgcontainereg213{
+#imgcontainereg213 {
     width: 22.4%;
     display: inline-block;
-      margin: 0% 1% 0.5% 0;
-    cursor:pointer;
-
+    margin: 0% 1% 0.5% 0;
+    cursor: pointer;
 }
 
-#imgcontainereg214{
+#imgcontainereg214 {
     width: 23.5%;
     display: inline-block;
-      margin: 0% 1% 0.5% 0;
-    cursor:pointer;
-
+    margin: 0% 1% 0.5% 0;
+    cursor: pointer;
 }
 
-#imgcontainereg215{
+#imgcontainereg215 {
     width: 23.5%;
     display: inline-block;
-      margin: 0% 1% 0.5% 0;
-    cursor:pointer;
-
+    margin: 0% 1% 0.5% 0;
+    cursor: pointer;
 }
 
-#imgcontainereg216{
+#imgcontainereg216 {
     width: 19.15%;
     display: inline-block;
-      margin: 0% 1% 0.5% 0;
-    cursor:pointer;
-
+    margin: 0% 1% 0.5% 0;
+    cursor: pointer;
 }
 
-#imgcontainereg217{
+#imgcontainereg217 {
     width: 18%;
     display: inline-block;
-      margin: 0% 1% 0.5% 0;
-    cursor:pointer;
-
+    margin: 0% 1% 0.5% 0;
+    cursor: pointer;
 }
 
-#imgcontainereg218{
+#imgcontainereg218 {
     width: 18.4%;
     display: inline-block;
-      margin: 0% 1% 0.5% 0;
-    cursor:pointer;
-
+    margin: 0% 1% 0.5% 0;
+    cursor: pointer;
 }
 
-#imgcontainereg219{
+#imgcontainereg219 {
     width: 19.4%;
     display: inline-block;
-      margin: 0% 1% 0.5% 0;
-    cursor:pointer;
-
+    margin: 0% 1% 0.5% 0;
+    cursor: pointer;
 }
+
 
 /*------ glitter guide-------*/
 
-#imgcontainergg0{
+#imgcontainergg0 {
     width: 19.3%;
     display: inline-block;
-      margin: 0% 1% 0.5% 0;
-    cursor:pointer;
-
+    margin: 0% 1% 0.5% 0;
+    cursor: pointer;
 }
 
-#imgcontainergg1{
+#imgcontainergg1 {
     width: 18%;
     display: inline-block;
-      margin: 0% 1% 0.5% 0;
-    cursor:pointer;
-
+    margin: 0% 1% 0.5% 0;
+    cursor: pointer;
 }
 
-#imgcontainergg2{
+#imgcontainergg2 {
     width: 16.4%;
     display: inline-block;
-      margin: 0% 1% 0.5% 0;
-    cursor:pointer;
-
+    margin: 0% 1% 0.5% 0;
+    cursor: pointer;
 }
 
-#imgcontainergg3{
+#imgcontainergg3 {
     width: 16.5%;
     display: inline-block;
-      margin: 0% 1% 0.5% 0;
-    cursor:pointer;
-
+    margin: 0% 1% 0.5% 0;
+    cursor: pointer;
 }
 
-#imgcontainergg4{
+#imgcontainergg4 {
     width: 17.7%;
     display: inline-block;
-      margin: 0% 1% 0.5% 0;
-    cursor:pointer;
-
+    margin: 0% 1% 0.5% 0;
+    cursor: pointer;
 }
 
-#imgcontainergg5{
+#imgcontainergg5 {
     width: 24%;
     display: inline-block;
-      margin: 0% 1% 0.5% 0;
-    cursor:pointer;
-
+    margin: 0% 1% 0.5% 0;
+    cursor: pointer;
 }
 
-#imgcontainergg6{
+#imgcontainergg6 {
     width: 24.1%;
     display: inline-block;
-      margin: 0% 1% 0.5% 0;
-    cursor:pointer;
-
+    margin: 0% 1% 0.5% 0;
+    cursor: pointer;
 }
 
-#imgcontainergg7{
+#imgcontainergg7 {
     width: 16.2%;
     display: inline-block;
-      margin: 0% 1% 0.5% 0;
-    cursor:pointer;
-
+    margin: 0% 1% 0.5% 0;
+    cursor: pointer;
 }
+
 
 /*--------forbes---------*/
-#imgcontainerf0{
+
+#imgcontainerf0 {
     width: 19.9%;
     display: inline-block;
-      margin: 0% 1% 0.5% 0;
-    cursor:pointer;
-
+    margin: 0% 1% 0.5% 0;
+    cursor: pointer;
 }
 
-#imgcontainerf1{
+#imgcontainerf1 {
     width: 27%;
     display: inline-block;
-      margin: 0% 1% 0.5% 0;
-    cursor:pointer;
-
+    margin: 0% 1% 0.5% 0;
+    cursor: pointer;
 }
 
-#imgcontainerf2{
+#imgcontainerf2 {
     width: 26.3%;
     display: inline-block;
-      margin: 0% 1% 0.5% 0;
-    cursor:pointer;
-
+    margin: 0% 1% 0.5% 0;
+    cursor: pointer;
 }
 
-#imgcontainerf3{
+#imgcontainerf3 {
     width: 16.55%;
     display: inline-block;
-      margin: 0% 1% 0.5% 0;
-    cursor:pointer;
-
+    margin: 0% 1% 0.5% 0;
+    cursor: pointer;
 }
 
-#imgcontainerf4{
+#imgcontainerf4 {
     width: 23.5%;
     display: inline-block;
-      margin: 0% 1% 0.5% 0;
-    cursor:pointer;
-
+    margin: 0% 1% 0.5% 0;
+    cursor: pointer;
 }
 
-#imgcontainerf5{
+#imgcontainerf5 {
     width: 35%;
     display: inline-block;
-      margin: 0% 1% 0.5% 0;
-    cursor:pointer;
-
+    margin: 0% 1% 0.5% 0;
+    cursor: pointer;
 }
 
-#projects{
-    margin-left:0.4%;
-    margin-right:0.7%;
+#projects {
+    margin-left: 0.4%;
+    margin-right: 0.7%;
 }
 
 #ninja-slider {
@@ -581,8 +547,8 @@ margin: 0% 1% 0% 0;
     display: block;
 }
 
-#ninja-slider.fullscreen .fs-icon::before {    display: block;
-
+#ninja-slider.fullscreen .fs-icon::before {
+    display: block;
 }
 
 #ninja-slider .slider-inner {
@@ -637,6 +603,7 @@ margin: 0% 1% 0% 0;
 
 
 
+
 /* --------- slider image ------- */
 
 #ninja-slider .ns-img {
@@ -649,8 +616,9 @@ margin: 0% 1% 0% 0;
     height: 100%;
     background-repeat: no-repeat;
     background-position: center center;
-        margin-top: 5%;
+    margin-top: 5%;
 }
+
 
 
 
@@ -668,6 +636,7 @@ margin: 0% 1% 0% 0;
     color: #ccc;
     box-sizing: border-box;
 }
+
 
 
 
@@ -725,6 +694,7 @@ margin: 0% 1% 0% 0;
 }
 
 
+
 /* arrows */
 
 #ninja-slider-prev::before,
@@ -758,6 +728,7 @@ margin: 0% 1% 0% 0;
 
 
 
+
 /*pagination num within the arrow buttons*/
 
 #ninja-slider-prev:hover,
@@ -787,6 +758,7 @@ margin: 0% 1% 0% 0;
 
 
 
+
 /*------ pager(nav bullets) ------*/
 
 
@@ -803,6 +775,7 @@ margin: 0% 1% 0% 0;
     -webkit-user-select: none;
     user-select: none;
 }
+
 
 
 
@@ -838,6 +811,7 @@ ul li {
     padding: 10px 0;
 }
 
+
 /*header {
     display: block;
     padding: 60px 0 10px;
@@ -872,7 +846,513 @@ header a.active {
     cursor: pointer;
 }
 
-.x{
-        margin-top: 31%;
+.x {
+    margin-top: 31%;
     margin-right: 26%;
+}
+
+
+
+@media only screen and (max-width: 768px) and (orientation: portrait) {
+
+
+    #imgcontainer0 {
+        width: 100%;
+        display: block;
+        margin: 0% 0% 3.5% 0%;
+        cursor: pointer;
+    }
+
+
+    #imgcontainer1 {
+        width: 100%;
+        display: block;
+        margin: 0% 0% 3.5% 0%;
+        cursor: pointer;
+    }
+
+
+    #imgcontainer2 {
+        width: 100%;
+        display: block;
+        margin: 0% 0% 3.5% 0%;
+        cursor: pointer;
+    }
+
+
+    #imgcontainer3 {
+        width: 100%;
+        display: block;
+        margin: 0% 0% 3.5% 0%;
+        cursor: pointer;
+    }
+
+
+    #imgcontainer4 {
+        width: 100%;
+        display: block;
+        margin: 0% 0% 3.5% 0%;
+        cursor: pointer;
+    }
+
+    #imgcontainers0 {
+        width: 100%;
+        display: block;
+        margin: 0% 0% 3.5% 0%;
+        cursor: pointer;
+    }
+
+
+    #imgcontainers1 {
+         width: 100%;
+        display: block;
+        margin: 0% 0% 3.5% 0%;
+        cursor: pointer;
+    }
+      #imgcontainercb0 {
+       width: 100%;
+        display: block;
+        margin: 0% 0% 3.5% 0%;
+        cursor: pointer;
+}
+
+    #imgcontainercb1 {
+       width: 100%;
+        display: block;
+        margin: 0% 0% 3.5% 0%;
+        cursor: pointer;
+}
+
+#imgcontainercb2 {
+      width: 100%;
+        display: block;
+        margin: 0% 0% 3.5% 0%;
+        cursor: pointer;
+}
+
+
+#imgcontainercb3 {
+      width: 100%;
+        display: block;
+        margin: 0% 0% 3.5% 0%;
+        cursor: pointer;
+}
+
+#imgcontainercb4 {
+    width: 100%;
+        display: block;
+        margin: 0% 0% 3.5% 0%;
+        cursor: pointer;
+}
+
+#imgcontainerd0 {
+   width: 100%;
+        display: block;
+        margin: 0% 0% 3.5% 0%;
+        cursor: pointer;
+}
+
+#imgcontainerd1 {
+   width: 100%;
+        display: block;
+        margin: 0% 0% 3.5% 0%;
+        cursor: pointer;
+}
+
+#imgcontainerd2 {
+   width: 100%;
+        display: block;
+        margin: 0% 0% 3.5% 0%;
+        cursor: pointer;
+}
+
+#imgcontainerd3 {
+   width: 100%;
+        display: block;
+        margin: 0% 0% 3.5% 0%;
+        cursor: pointer;
+}
+
+#imgcontainerd4 {
+     width: 100%;
+        display: block;
+        margin: 0% 0% 3.5% 0%;
+        cursor: pointer;
+}
+
+#imgcontainerd5 {
+   width: 100%;
+        display: block;
+        margin: 0% 0% 3.5% 0%;
+        cursor: pointer;
+}
+
+#imgcontainereg0 {
+    width: 100%;
+        display: block;
+        margin: 0% 0% 3.5% 0%;
+        cursor: pointer;
+}
+
+
+#imgcontainereg1 {
+     width: 100%;
+        display: block;
+        margin: 0% 0% 3.5% 0%;
+        cursor: pointer;
+}
+
+#imgcontainereg2 {
+  width: 100%;
+        display: block;
+        margin: 0% 0% 3.5% 0%;
+        cursor: pointer;
+}
+
+#imgcontainereg3 {
+    width: 100%;
+        display: block;
+        margin: 0% 0% 3.5% 0%;
+        cursor: pointer;
+}
+
+#imgcontainereg4 {
+   width: 100%;
+        display: block;
+        margin: 0% 0% 3.5% 0%;
+        cursor: pointer;
+}
+
+#imgcontainereg5 {
+    width: 100%;
+        display: block;
+        margin: 0% 0% 3.5% 0%;
+        cursor: pointer;
+}
+
+#imgcontainereg6 {
+     width: 100%;
+        display: block;
+        margin: 0% 0% 3.5% 0%;
+        cursor: pointer;
+}
+
+#imgcontainereg7 {
+    width: 100%;
+        display: block;
+        margin: 0% 0% 3.5% 0%;
+        cursor: pointer;
+}
+
+#imgcontainereg8 {
+  width: 100%;
+        display: block;
+        margin: 0% 0% 3.5% 0%;
+        cursor: pointer;
+}
+
+#imgcontainereg9 {
+      width: 100%;
+        display: block;
+        margin: 0% 0% 3.5% 0%;
+        cursor: pointer;
+}
+
+#imgcontainereg10 {
+   width: 100%;
+        display: block;
+        margin: 0% 0% 3.5% 0%;
+        cursor: pointer;
+}
+
+#imgcontainereg11 {
+  width: 100%;
+        display: block;
+        margin: 0% 0% 3.5% 0%;
+        cursor: pointer;
+}
+
+#imgcontainereg12 {
+    width: 100%;
+        display: block;
+        margin: 0% 0% 3.5% 0%;
+        cursor: pointer;
+}
+
+#imgcontainereg13 {
+     width: 100%;
+        display: block;
+        margin: 0% 0% 3.5% 0%;
+        cursor: pointer;
+}
+
+#imgcontainereg14 {
+    width: 100%;
+        display: block;
+        margin: 0% 0% 3.5% 0%;
+        cursor: pointer;
+}
+
+#imgcontainereg15 {
+   width: 100%;
+        display: block;
+        margin: 0% 0% 3.5% 0%;
+        cursor: pointer;
+}
+
+
+/* -------------everygirl2--------------*/
+
+#imgcontainereg20 {
+   width: 100%;
+        display: block;
+        margin: 0% 0% 3.5% 0%;
+        cursor: pointer;
+}
+
+#imgcontainereg21 {
+     width: 100%;
+        display: block;
+        margin: 0% 0% 3.5% 0%;
+        cursor: pointer;
+}
+
+#imgcontainereg22 {
+  width: 100%;
+        display: block;
+        margin: 0% 0% 3.5% 0%;
+        cursor: pointer;
+}
+
+#imgcontainereg23 {
+   width: 100%;
+        display: block;
+        margin: 0% 0% 3.5% 0%;
+        cursor: pointer;
+}
+
+#imgcontainereg24 {
+   width: 100%;
+        display: block;
+        margin: 0% 0% 3.5% 0%;
+        cursor: pointer;
+}
+
+#imgcontainereg25 {
+    width: 100%;
+        display: block;
+        margin: 0% 0% 3.5% 0%;
+        cursor: pointer;
+}
+
+#imgcontainereg26 {
+  width: 100%;
+        display: block;
+        margin: 0% 0% 3.5% 0%;
+        cursor: pointer;
+}
+
+#imgcontainereg27 {
+   width: 100%;
+        display: block;
+        margin: 0% 0% 3.5% 0%;
+        cursor: pointer;
+}
+
+#imgcontainereg28 {
+  width: 100%;
+        display: block;
+        margin: 0% 0% 3.5% 0%;
+        cursor: pointer;
+}
+
+#imgcontainereg29 {
+  width: 100%;
+        display: block;
+        margin: 0% 0% 3.5% 0%;
+        cursor: pointer;}
+
+#imgcontainereg210 {
+    width: 100%;
+        display: block;
+        margin: 0% 0% 3.5% 0%;
+        cursor: pointer;
+}
+
+#imgcontainereg211 {
+  width: 100%;
+        display: block;
+        margin: 0% 0% 3.5% 0%;
+        cursor: pointer;
+}
+
+#imgcontainereg212 {
+  width: 100%;
+        display: block;
+        margin: 0% 0% 3.5% 0%;
+        cursor: pointer;
+}
+
+#imgcontainereg213 {
+  width: 100%;
+        display: block;
+        margin: 0% 0% 3.5% 0%;
+        cursor: pointer;
+}
+
+#imgcontainereg214 {
+   width: 100%;
+        display: block;
+        margin: 0% 0% 3.5% 0%;
+        cursor: pointer;
+}
+
+#imgcontainereg215 {
+    width: 100%;
+        display: block;
+        margin: 0% 0% 3.5% 0%;
+        cursor: pointer;
+}
+
+#imgcontainereg216 {
+   width: 100%;
+        display: block;
+        margin: 0% 0% 3.5% 0%;
+        cursor: pointer;
+}
+
+#imgcontainereg217 {
+   width: 100%;
+        display: block;
+        margin: 0% 0% 3.5% 0%;
+        cursor: pointer;
+}
+
+#imgcontainereg218 {
+    width: 100%;
+        display: block;
+        margin: 0% 0% 3.5% 0%;
+        cursor: pointer;
+}
+
+#imgcontainereg219 {
+   width: 100%;
+        display: block;
+        margin: 0% 0% 3.5% 0%;
+        cursor: pointer;
+}
+
+
+/*------ glitter guide-------*/
+
+#imgcontainergg0 {
+   width: 100%;
+        display: block;
+        margin: 0% 0% 3.5% 0%;
+        cursor: pointer;
+}
+
+#imgcontainergg1 {
+    width: 100%;
+        display: block;
+        margin: 0% 0% 3.5% 0%;
+        cursor: pointer;
+}
+
+#imgcontainergg2 {
+     width: 100%;
+        display: block;
+        margin: 0% 0% 3.5% 0%;
+        cursor: pointer;
+}
+
+#imgcontainergg3 {
+    width: 100%;
+        display: block;
+        margin: 0% 0% 3.5% 0%;
+        cursor: pointer;
+}
+
+#imgcontainergg4 {
+   width: 100%;
+        display: block;
+        margin: 0% 0% 3.5% 0%;
+        cursor: pointer;
+}
+
+#imgcontainergg5 {
+  width: 100%;
+        display: block;
+        margin: 0% 0% 3.5% 0%;
+        cursor: pointer;
+}
+
+#imgcontainergg6 {
+  width: 100%;
+        display: block;
+        margin: 0% 0% 3.5% 0%;
+        cursor: pointer;
+}
+
+#imgcontainergg7 {
+    width: 100%;
+        display: block;
+        margin: 0% 0% 3.5% 0%;
+        cursor: pointer;
+}
+
+
+/*--------forbes---------*/
+
+#imgcontainerf0 {
+  width: 100%;
+        display: block;
+        margin: 0% 0% 3.5% 0%;
+        cursor: pointer;
+}
+
+#imgcontainerf1 {
+    width: 100%;
+        display: block;
+        margin: 0% 0% 3.5% 0%;
+        cursor: pointer;
+}
+
+#imgcontainerf2 {
+    width: 100%;
+        display: block;
+        margin: 0% 0% 3.5% 0%;
+        cursor: pointer;
+}
+
+#imgcontainerf3 {
+  width: 100%;
+        display: block;
+        margin: 0% 0% 3.5% 0%;
+        cursor: pointer;
+}
+
+#imgcontainerf4 {
+   width: 100%;
+        display: block;
+        margin: 0% 0% 3.5% 0%;
+        cursor: pointer;
+}
+
+#imgcontainerf5 {
+   width: 100%;
+        display: block;
+        margin: 0% 0% 3.5% 0%;
+        cursor: pointer;
+}
+
+
+    #ninja-slider {
+        display: none;
+    }
+
+}
+@media only screen and (max-width: 768px) and (orientation: landscape) {
+        #ninja-slider {
+   display:none;
 }

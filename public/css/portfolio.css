@@ -131,3 +131,61 @@ div#portfolioscroll::-webkit-scrollbar-thumb {
     -webkit-appearance: none;
     width: 0.3px;
 }
+
+@media only screen and (max-width: 768px) and (orientation: portrait) {
+    .imgcontainer {
+    display: block;
+    white-space: nowrap;
+    text-decoration: none;
+    position: relative;
+    width:100%;
+    margin: 0% 0% 3.5% 0%;
+}
+
+
+#portfolioscroll {
+    margin-left: 3.5%;
+    margin-right: 3.5%;
+    margin-top: 3.5%;
+    overflow-x:hidden;
+    overflow-y: hidden;
+
+}
+
+
+.image .portfoliopics {
+    opacity: 1;
+    display: block;
+    width: 100%;
+    height: auto;
+    backface-visibility: hidden;
+}
+
+.imgcontainer .image {
+    opacity: 0.3;
+}
+
+.imgcontainer .portfoliopics {
+    opacity: 0.3;
+}
+
+.imgcontainer .middle {
+    opacity: 1;
+}
+
+
+}
+
+@media only screen and (max-width: 768px) and (orientation: landscape) {
+    .imgcontainer .image {
+    opacity: 0.3;
+}
+
+.imgcontainer .portfoliopics {
+    opacity: 0.3;
+}
+
+.imgcontainer .middle {
+    opacity: 1;
+}
+}
