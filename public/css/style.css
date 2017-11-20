@@ -17,6 +17,9 @@ body {
     margin-top: 1.7%;
 }
 
+
+
+
 #copyright2 {
     float: left;
     margin-left: 40px;
@@ -437,6 +440,14 @@ a:visited {
 #main {
     transition: margin-left .5s;
     padding: 20px;
+}
+
+
+#lolosshop{
+   
+    width: 50%;
+    margin-top: 0%;
+    margin-left: 25%;
 }
 
 @media screen and (max-height: 450px) {
