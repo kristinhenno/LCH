@@ -44,13 +44,13 @@ function fsIconClick(isFullscreen) {
 $(document).ready(function() {
 
     for (i = 0; i < lolo.length; i++) {
-        $("#projects").append("<div class='imgcontainer" + [i] + "'><img onclick='lightbox(" + [i] + ")' id='lolo" + [i] + "' src='/public/assets/images/Lolo/" + lolo[i] + ".jpg'/><div id='myModal' class='modal'> <span class = 'close'>&times;</span><img class='modal-content' id='img01'></div></div>");
+        $("#projects").append("<div class='imgcontainer" + [i] + "'><img onclick='lightbox(" + [i] + ")' id='lolo" + [i] + "' src='/assets/images/Lolo/" + lolo[i] + ".jpg'/><div id='myModal' class='modal'> <span class = 'close'>&times;</span><img class='modal-content' id='img01'></div></div>");
 
     }
     if ($(window).width() > 769) {
 
         for (i = 0; i < lolo.length; i++) {
-            $("#ninja").append("<li><a class='ns-img' href='/public/assets/images/Lolo/" + lolo[i] + ".jpg'></a></li>")
+            $("#ninja").append("<li><a class='ns-img' href='/assets/images/Lolo/" + lolo[i] + ".jpg'></a></li>")
 
         }
     }

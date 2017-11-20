@@ -42,13 +42,13 @@ function fsIconClick(isFullscreen) {
 
 $(document).ready(function() {
     for (i = 0; i < cowboysindians.length; i++) {
-        $("#projects").append("<div id='imgcontainercb" + [i] + "'><img onclick='lightbox(" + [i] + ")' class='cowboysindians' src='/public/assets/images/Press/CowboysIndians/" + cowboysindians[i] + ".jpg'/><div id='myModal' class='modal'> <span class = 'close'>&times;</span><img class='modal-content' id='img01'></div></div>");
+        $("#projects").append("<div id='imgcontainercb" + [i] + "'><img onclick='lightbox(" + [i] + ")' class='cowboysindians' src='/assets/images/Press/CowboysIndians/" + cowboysindians[i] + ".jpg'/><div id='myModal' class='modal'> <span class = 'close'>&times;</span><img class='modal-content' id='img01'></div></div>");
 
     }
  if ($(window).width() > 769) {
 
     for (i = 0; i < cowboysindians.length; i++) {
-        $("#ninja").append("<li><a class='ns-img' href='/public/assets/images/Press/CowboysIndians/" + cowboysindians[i] + ".jpg'></a></li>")
+        $("#ninja").append("<li><a class='ns-img' href='/assets/images/Press/CowboysIndians/" + cowboysindians[i] + ".jpg'></a></li>")
 
     }
 

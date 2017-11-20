@@ -42,13 +42,13 @@ function fsIconClick(isFullscreen) {
 
 $(document).ready(function() {
     for (i = 0; i < californiahomes.length; i++) {
-        $("#projects").append("<div id='imgcontainer" + [i] + "'><img onclick='lightbox(" + [i] + ")' class='californiahomes' src='/public/assets/images/Press/CaliforniaHomes/" + californiahomes[i] + ".jpg'/><div id='myModal' class='modal'> <span class = 'close'>&times;</span><img class='modal-content' id='img01'></div></div>");
+        $("#projects").append("<div id='imgcontainer" + [i] + "'><img onclick='lightbox(" + [i] + ")' class='californiahomes' src='/assets/images/Press/CaliforniaHomes/" + californiahomes[i] + ".jpg'/><div id='myModal' class='modal'> <span class = 'close'>&times;</span><img class='modal-content' id='img01'></div></div>");
 
     }
  if ($(window).width() > 769) {
 
     for (i = 0; i < californiahomes.length; i++) {
-        $("#ninja").append("<li><a class='ns-img' href='/public/assets/images/Press/CaliforniaHomes/" + californiahomes[i] + ".jpg'></a></li>")
+        $("#ninja").append("<li><a class='ns-img' href='/assets/images/Press/CaliforniaHomes/" + californiahomes[i] + ".jpg'></a></li>")
 
     }
 
