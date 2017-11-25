@@ -2,6 +2,9 @@ body {
     font-family: 'Quicksand', sans-serif;
 }
 
+#photographers{
+        font-size: 10px;
+}
 
 #copyrightlolosshop {
     float: left;
@@ -23,7 +26,7 @@ body {
 #copyright2 {
     float: left;
     margin-left: 40px;
-    margin-top: 4%;
+    margin-top: 2.3%;
     font-weight: lighter;
     color: #767777;
 }
@@ -31,13 +34,13 @@ body {
 #socialmedia2 {
     float: right;
     margin-right: 40px;
-    margin-top: 3.7%;
+    margin-top: 2%;
 }
 
 #copyrightbung {
     float: left;
     margin-left: 40px;
-    margin-top: 4.2%;
+    margin-top:2.4%;
     font-weight: lighter;
     color: #767777;
 }
@@ -45,19 +48,33 @@ body {
 #socialmediabung {
     float: right;
     margin-right: 40px;
-    margin-top: 3.9%;
+    margin-top: 2.1%;
+}
+
+#copyrightmaison{
+    float: left;
+    margin-left: 40px;
+    margin-top:2.1%;
+    font-weight: lighter;
+    color: #767777;
+}
+
+#socialmediamaison {
+    float: right;
+    margin-right: 40px;
+    margin-top: 1.8%;
 }
 
 #socialmediaboho {
     float: right;
     margin-right: 40px;
-    margin-top: 3.85%;
+    margin-top: 2.05%;
 }
 
 #copyrightboho {
     float: left;
     margin-left: 40px;
-    margin-top: 4.15%;
+    margin-top: 2.35%;
     font-weight: lighter;
     color: #767777;
 }
@@ -65,13 +82,13 @@ body {
 #socialmediacabana {
     float: right;
     margin-right: 40px;
-    margin-top: 3.6%;
+    margin-top: 2.1%;
 }
 
 #copyrightcabana {
     float: left;
     margin-left: 40px;
-    margin-top: 3.9%;
+    margin-top: 2.4%;
     font-weight: lighter;
     color: #767777;
 }
@@ -79,13 +96,13 @@ body {
 #socialmediasf {
     float: right;
     margin-right: 40px;
-    margin-top: 3.95%;
+    margin-top: 2.05%;
 }
 
 #copyrightsf {
     float: left;
     margin-left: 40px;
-    margin-top: 4.25%;
+    margin-top: 2.35%;
     font-weight: lighter;
     color: #767777;
 }
@@ -123,13 +140,13 @@ body {
 #socialmedia5 {
     float: right;
     margin-right: 40px;
-    margin-top: 41.8%;
+    margin-top: 45.2%;
 }
 
 #copyright5 {
     float: left;
     margin-left: 40px;
-    margin-top: 42.1%;
+    margin-top: 45.5%;
     font-weight: lighter;
     color: #767777;
 }
@@ -284,8 +301,8 @@ footer {
 
 #homeimages {
     margin-top: 3.5%;
-    margin-left: 13.2%;
-    width: 74%;
+    margin-left: 8.5%;
+    width: 83%;
     position: absolute;
     display: block;
     z-index: 10;
@@ -293,8 +310,8 @@ footer {
 
 #homeimages2 {
     margin-top: 3.5%;
-    margin-left: 13.2%;
-    width: 74%;
+    margin-left: 8.5%;
+    width: 83%;
     position: absolute;
     display: block;
 }

@@ -15,14 +15,14 @@
     white-space: nowrap;
     text-decoration: none;
     position: relative;
-    width:35%;
-    margin: 0% 1% 0.5% 0;
+    width:40.5%;
+    margin: 0% 1% 1% 0;
 }
 
 
 #portfolioscroll {
-    margin-left: 40px;
-    margin-right: 40px;
+    margin-left: 44px;
+    margin-right: 44px;
     margin-top: 3.5%;
     overflow-x:scroll;
     overflow-y: hidden;
@@ -130,6 +130,7 @@ div#portfolioscroll::-webkit-scrollbar-thumb {
 ::-webkit-scrollbar {
     -webkit-appearance: none;
     width: 0.3px;
+        height: 10px;
 }
 
 @media only screen and (max-width: 768px) and (orientation: portrait) {

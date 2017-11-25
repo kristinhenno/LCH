@@ -4,41 +4,41 @@
 }
 
 #imgcontainer0 {
-    width: 45.2%;
+        width: 52.6%;
     display: inline-block;
-    margin: 0% 1.2% 0.5% 0;
+    margin: 0% 1% 1% 0;
     cursor: pointer;
 }
 
 
 #imgcontainer1 {
-    width: 50.3%;
+    width: 58.6%;
     display: inline-block;
-    margin: 0% 1.2% 0.5% 0;
+    margin: 0% 1% 1% 0;
     cursor: pointer;
 }
 
 
 #imgcontainer2 {
-    width: 51.9%;
+        width: 60.3%;
     display: inline-block;
-    margin: 0% 1.2% 0.5% 0;
+    margin: 0% 1% 1% 0;
     cursor: pointer;
 }
 
 
 #imgcontainer3 {
-    width: 51.9%;
+        width: 60.3%;
     display: inline-block;
-    margin: 0% 1% 0.5% 0;
+    margin: 0% 1% 1% 0;
     cursor: pointer;
 }
 
 
 #imgcontainer4 {
-    width: 23.1%;
+    width: 26.7%;
     display: inline-block;
-    margin: 0% 1% 0.5% 0;
+    margin: 0% 1% 1% 0;
     cursor: pointer;
 }
 
