@@ -2,14 +2,14 @@ body {
     font-family: 'Quicksand', sans-serif;
 }
 
-#photographers{
-        font-size: 10px;
+#photographers {
+    font-size: 10px;
 }
 
 #copyrightlolosshop {
     float: left;
     margin-left: 40px;
-    margin-top: 2%;
+        margin-top: 8%;;
     font-weight: lighter;
     color: #767777;
 }
@@ -17,7 +17,7 @@ body {
 #socialmedialolosshop {
     float: right;
     margin-right: 40px;
-    margin-top: 1.7%;
+    margin-top: 7.7%;
 }
 
 
@@ -40,7 +40,7 @@ body {
 #copyrightbung {
     float: left;
     margin-left: 40px;
-    margin-top:2.4%;
+    margin-top: 2.4%;
     font-weight: lighter;
     color: #767777;
 }
@@ -51,10 +51,10 @@ body {
     margin-top: 2.1%;
 }
 
-#copyrightmaison{
+#copyrightmaison {
     float: left;
     margin-left: 40px;
-    margin-top:2.1%;
+    margin-top: 2.1%;
     font-weight: lighter;
     color: #767777;
 }
@@ -112,13 +112,13 @@ body {
 #socialmedia3 {
     float: right;
     margin-right: 40px;
-    margin-top: 3.18%;
+    margin-top: 1.4%;
 }
 
 #copyright3 {
     float: left;
     margin-left: 40px;
-    margin-top: 3.38%;
+       margin-top: 1.7%;
     font-weight: lighter;
     color: #767777;
 }
@@ -126,13 +126,13 @@ body {
 #socialmedia4 {
     float: right;
     margin-right: 40px;
-    margin-top: 4.1%;
+    margin-top: 3.7%;
 }
 
 #copyright4 {
     float: left;
     margin-left: 40px;
-    margin-top: 4.4%;
+        margin-top: 4%;
     font-weight: lighter;
     color: #767777;
 }
@@ -154,7 +154,7 @@ body {
 #copyright6 {
     float: left;
     margin-left: 40px;
-    margin-top: 4%;
+    margin-top: 2.45%;
     font-weight: lighter;
     color: #767777;
 }
@@ -162,13 +162,13 @@ body {
 #socialmedia6 {
     float: right;
     margin-right: 40px;
-    margin-top: 3.7%;
+    margin-top: 2.15%;
 }
 
 #copyright6-1 {
     float: left;
     margin-left: 40px;
-    margin-top: 3.6%;
+        margin-top: 2.4%;
     font-weight: lighter;
     color: #767777;
 }
@@ -176,13 +176,13 @@ body {
 #socialmedia6-1 {
     float: right;
     margin-right: 40px;
-    margin-top: 3.3%;
+    margin-top: 2.1%;
 }
 
 #copyright7 {
     float: left;
     margin-left: 40px;
-    margin-top: 4.7%;
+        margin-top: 2.9%;
     font-weight: lighter;
     color: #767777;
 }
@@ -190,13 +190,13 @@ body {
 #socialmedia7 {
     float: right;
     margin-right: 40px;
-    margin-top: 4.4%;
+    margin-top: 2.6%;
 }
 
 #copyright8 {
     float: left;
     margin-left: 40px;
-    margin-top: 4%;
+        margin-top: 2.4%;
     font-weight: lighter;
     color: #767777;
 }
@@ -204,13 +204,13 @@ body {
 #socialmedia8 {
     float: right;
     margin-right: 40px;
-    margin-top: 3.7%;
+    margin-top: 2.1%;
 }
 
 #copyright9 {
     float: left;
     margin-left: 40px;
-    margin-top: 4.15%;
+        margin-top: 2.3%;
     font-weight: lighter;
     color: #767777;
 }
@@ -218,13 +218,13 @@ body {
 #socialmedia9 {
     float: right;
     margin-right: 40px;
-    margin-top: 3.85%;
+    margin-top: 2%;
 }
 
 #copyrighteg {
     float: left;
     margin-left: 40px;
-    margin-top: 3.8%;
+        margin-top: 2.3%;
     font-weight: lighter;
     color: #767777;
 }
@@ -232,13 +232,13 @@ body {
 #socialmediaeg {
     float: right;
     margin-right: 40px;
-    margin-top: 3.7%;
+    margin-top: 2%;
 }
 
 #copyrighteg2 {
     float: left;
     margin-left: 40px;
-    margin-top: 4%;
+    margin-top: 2.1%;
     font-weight: lighter;
     color: #767777;
 }
@@ -246,13 +246,13 @@ body {
 #socialmediaeg2 {
     float: right;
     margin-right: 40px;
-    margin-top: 3.6%;
+    margin-top: 1.8%;
 }
 
 #copyrightgg {
     float: left;
     margin-left: 40px;
-    margin-top: 3.35%;
+        margin-top: 2.35%;
     font-weight: lighter;
     color: #767777;
 }
@@ -260,13 +260,13 @@ body {
 #socialmediagg {
     float: right;
     margin-right: 40px;
-    margin-top: 3.15%;
+    margin-top: 2.05%;
 }
 
 #copyrightf {
     float: left;
     margin-left: 40px;
-    margin-top: 3.3%;
+    margin-top: 1.95%;
     font-weight: lighter;
     color: #767777;
 }
@@ -274,15 +274,15 @@ body {
 #socialmediaf {
     float: right;
     margin-right: 40px;
-    margin-top: 3%;
+    margin-top: 1.65%;
 }
 
 
 
 #aboutlolo {
     margin-top: 2.2%;
-    width: 72%;
-    margin-left: 13.6%;
+    width: 82%;
+    margin-left: 11.2%;
 }
 
 
@@ -355,6 +355,7 @@ header {
     position: relative;
     font-family: 'Quicksand', sans-serif;
 }
+
 .lch1 {
     padding-top: 0.5%;
     padding-left: 13px;
@@ -363,6 +364,7 @@ header {
     position: relative;
     font-family: 'Quicksand', sans-serif;
 }
+
 .lch2 {
     padding-top: 0.5%;
     padding-left: 13px;
@@ -371,6 +373,7 @@ header {
     position: relative;
     font-family: 'Quicksand', sans-serif;
 }
+
 .lch3 {
     padding-top: 0.5%;
     padding-left: 13px;
@@ -379,6 +382,7 @@ header {
     position: relative;
     font-family: 'Quicksand', sans-serif;
 }
+
 .lch4 {
     padding-top: 0.5%;
     padding-left: 13px;
@@ -396,6 +400,7 @@ header {
     position: relative;
     font-family: 'Quicksand', sans-serif;
 }
+
 h1 {
     margin: 0;
 }
@@ -460,8 +465,8 @@ a:visited {
 }
 
 
-#lolosshop{
-   
+#lolosshop {
+
     width: 50%;
     margin-top: 0%;
     margin-left: 25%;
@@ -491,29 +496,29 @@ a:visited {
         width: 84%;
     }
 
-     .lch2 {
-         margin-top: -0.2px;
+    .lch2 {
+        margin-top: -0.2px;
         margin-left: 27px;
         position: relative;
         width: 84%;
     }
 
-    .lch3{
-         margin-top: -0.2px;
+    .lch3 {
+        margin-top: -0.2px;
         margin-left: 27px;
         position: relative;
         width: 84%;
     }
 
-    .lch4{
-      margin-top: -0.2px;
+    .lch4 {
+        margin-top: -0.2px;
         margin-left: 27px;
         position: relative;
         width: 84%;
     }
 
-    .lch5{
-         margin-top: -0.1px;
+    .lch5 {
+        margin-top: -0.1px;
         margin-left: 27px;
         position: relative;
         width: 84%;
@@ -578,7 +583,7 @@ a:visited {
         margin-right: 0px;
     }
 
-        #socialmedia8 {
+    #socialmedia8 {
         margin-top: 20px;
         float: center;
         float: none;
@@ -596,7 +601,7 @@ a:visited {
         margin-left: 0px;
         margin-right: 0px;
     }
-           #socialmedia9 {
+    #socialmedia9 {
         margin-top: 20px;
         float: center;
         float: none;
@@ -656,7 +661,7 @@ a:visited {
         margin-left: 0px;
         margin-right: 0px;
     }
- #socialmedia6 {
+    #socialmedia6 {
         margin-top: 20px;
         float: center;
         float: none;
@@ -675,7 +680,7 @@ a:visited {
         margin-right: 0px;
     }
 
-     #socialmedia7 {
+    #socialmedia7 {
         margin-top: 20px;
         float: center;
         float: none;
@@ -693,7 +698,7 @@ a:visited {
         margin-left: 0px;
         margin-right: 0px;
     }
- #socialmedia6-1 {
+    #socialmedia6-1 {
         margin-top: 20px;
         float: center;
         float: none;
@@ -711,7 +716,7 @@ a:visited {
         margin-left: 0px;
         margin-right: 0px;
     }
-      #socialmediabung {
+    #socialmediabung {
         margin-top: 20px;
         float: center;
         float: none;
@@ -730,7 +735,7 @@ a:visited {
         margin-right: 0px;
     }
 
-       #socialmediaboho {
+    #socialmediaboho {
         margin-top: 20px;
         float: center;
         float: none;
@@ -749,7 +754,7 @@ a:visited {
         margin-right: 0px;
     }
 
-          #socialmediacabana {
+    #socialmediacabana {
         margin-top: 20px;
         float: center;
         float: none;
@@ -768,7 +773,7 @@ a:visited {
         margin-right: 0px;
     }
 
-       #socialmediasf {
+    #socialmediasf {
         margin-top: 20px;
         float: center;
         float: none;
@@ -787,7 +792,7 @@ a:visited {
         margin-right: 0px;
     }
 
-        #socialmediaeg {
+    #socialmediaeg {
         margin-top: 20px;
         float: center;
         float: none;
@@ -806,8 +811,8 @@ a:visited {
         margin-right: 0px;
     }
 
-        
-                #socialmedia4{
+
+    #socialmedia4 {
         margin-top: 20px;
         float: center;
         float: none;
@@ -825,7 +830,7 @@ a:visited {
         margin-left: 0px;
         margin-right: 0px;
     }
-        #socialmediaeg2 {
+    #socialmediaeg2 {
         margin-top: 20px;
         float: center;
         float: none;
@@ -844,7 +849,7 @@ a:visited {
         margin-right: 0px;
     }
 
-          #socialmediagg {
+    #socialmediagg {
         margin-top: 20px;
         float: center;
         float: none;
@@ -863,7 +868,7 @@ a:visited {
         margin-right: 0px;
     }
 
-          #socialmediaf {
+    #socialmediaf {
         margin-top: 20px;
         float: center;
         float: none;
@@ -882,7 +887,7 @@ a:visited {
         margin-right: 0px;
     }
 
-           #socialmedia2 {
+    #socialmedia2 {
         margin-top: 20px;
         float: center;
         float: none;
@@ -946,7 +951,7 @@ a:visited {
 }
 
 @media only screen and (max-width: 768px) and (orientation: landscape) {
-       .sidenav {
+    .sidenav {
         height: 100%;
         width: 20%;
         position: absolute;
@@ -972,5 +977,4 @@ a:visited {
         font-weight: lighter;
         text-align: left;
     }
-
 }

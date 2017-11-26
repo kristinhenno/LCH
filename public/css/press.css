@@ -1,7 +1,8 @@
-#californiacover{
-	width:100%;
+#californiacover {
+    width: 100%;
 }
-#portfolioscroll{
+
+#portfolioscroll {
     margin-top: 3.5%;
 }
 
@@ -10,8 +11,8 @@
     white-space: nowrap;
     text-decoration: none;
     position: relative;
-    width:29%;
-    margin: 0% 1% 0.5% 0;
+    width: 33.4%;
+    margin: 0% 1% 1% 0;
 }
 
 .imgcontainer2 {
@@ -19,8 +20,8 @@
     white-space: nowrap;
     text-decoration: none;
     position: relative;
-    width: 26.35%;
-    margin: 0% 1% 0.5% 0;
+       width: 30.35%;
+    margin: 0% 1% 1% 0;
 }
 
 .imgcontainer3 {
@@ -28,8 +29,8 @@
     white-space: nowrap;
     text-decoration: none;
     position: relative;
-    width:26.6%;
-    margin: 0% 1% 0.5% 0;
+        width: 30.6%;
+    margin: 0% 1% 1% 0;
 }
 
 .imgcontainer4 {
@@ -37,8 +38,8 @@
     white-space: nowrap;
     text-decoration: none;
     position: relative;
-    width:31.4%;
-    margin: 0% 1% 0.5% 0;
+    width: 35.9%;
+    margin: 0% 1% 1% 0;
 }
 
 .imgcontainer5 {
@@ -46,8 +47,8 @@
     white-space: nowrap;
     text-decoration: none;
     position: relative;
-    width:38%;
-    margin: 0% 1% 0.5% 0;
+   width: 43.9%;
+    margin: 0% 1% 1% 0;
 }
 
 .imgcontainer6 {
@@ -55,26 +56,26 @@
     white-space: nowrap;
     text-decoration: none;
     position: relative;
-    width:33%;
-    margin: 0% 1% 0.5% 0;
+        width: 38.2%;
+    margin: 0% 1% 1% 0;
 }
 
-.imgcontainer7{
+.imgcontainer7 {
     display: inline-block;
     white-space: nowrap;
     text-decoration: none;
     position: relative;
-    width:32%;
-    margin: 0% 1% 0.5% 0;
+    width: 36%;
+    margin: 0% 1% 1% 0;
 }
 
-.imgcontainer8{
+.imgcontainer8 {
     display: inline-block;
     white-space: nowrap;
     text-decoration: none;
     position: relative;
-    width:30%;
-    margin: 0% 1% 0% 0;
+    width: 34.5%;
+    margin: 0% 1% 1% 0;
 }
 
 .imgcontainer2:hover .image {
@@ -181,334 +182,334 @@
     transition: .5s ease;
     opacity: 1;
 }
+
 @media only screen and (max-width: 768px) and (orientation: portrait) {
     .imgcontainer {
-    display: block;
-    white-space: nowrap;
-    text-decoration: none;
-    position: relative;
-    width:100%;
-    margin: 0% 0% 3.5% 0%;
+        display: block;
+        white-space: nowrap;
+        text-decoration: none;
+        position: relative;
+        width: 100%;
+        margin: 0% 0% 3.5% 0%;
+    }
+
+    .imgcontainer1 {
+        display: block;
+        white-space: nowrap;
+        text-decoration: none;
+        position: relative;
+        width: 100%;
+        margin: 0% 0% 3.5% 0%;
+    }
+
+    .imgcontainer2 {
+        display: block;
+        white-space: nowrap;
+        text-decoration: none;
+        position: relative;
+        width: 100%;
+        margin: 0% 0% 3.5% 0%;
+    }
+
+    .imgcontainer3 {
+        display: block;
+        white-space: nowrap;
+        text-decoration: none;
+        position: relative;
+        width: 100%;
+        margin: 0% 0% 3.5% 0%;
+    }
+
+    .imgcontainer4 {
+        display: block;
+        white-space: nowrap;
+        text-decoration: none;
+        position: relative;
+        width: 100%;
+        margin: 0% 0% 3.5% 0%;
+    }
+
+    .imgcontainer5 {
+        display: block;
+        white-space: nowrap;
+        text-decoration: none;
+        position: relative;
+        width: 100%;
+        margin: 0% 0% 3.5% 0%;
+    }
+
+    .imgcontainer6 {
+        display: block;
+        white-space: nowrap;
+        text-decoration: none;
+        position: relative;
+        width: 100%;
+        margin: 0% 0% 3.5% 0%;
+    }
+    .imgcontainer7 {
+        display: block;
+        white-space: nowrap;
+        text-decoration: none;
+        position: relative;
+        width: 100%;
+        margin: 0% 0% 3.5% 0%;
+    }
+    .imgcontainer8 {
+        display: block;
+        white-space: nowrap;
+        text-decoration: none;
+        position: relative;
+        width: 100%;
+        margin: 0% 0% 3.5% 0%;
+    }
+
+
+
+
+
+
+    #portfolioscroll {
+        margin-left: 3.5%;
+        margin-right: 3.5%;
+        margin-top: 3.5%;
+        overflow-x: hidden;
+        overflow-y: hidden;
+    }
+
+
+    .image .portfoliopics {
+        opacity: 1;
+        display: block;
+        width: 100%;
+        height: auto;
+        backface-visibility: hidden;
+    }
+    .imgcontainer .image {
+        opacity: 0.3;
+    }
+
+    .imgcontainer .portfoliopics {
+        opacity: 0.3;
+    }
+
+    .imgcontainer .middle {
+        opacity: 1;
+    }
+
+    .imgcontainer1 .image {
+        opacity: 0.3;
+    }
+
+    .imgcontainer1 .portfoliopics {
+        opacity: 0.3;
+    }
+
+    .imgcontainer1 .middle {
+        opacity: 1;
+    }
+
+
+    .imgcontainer2 .image {
+        opacity: 0.3;
+    }
+
+    .imgcontainer2 .portfoliopics {
+        opacity: 0.3;
+    }
+
+    .imgcontainer2 .middle {
+        opacity: 1;
+    }
+
+    .imgcontainer3 .image {
+        opacity: 0.3;
+    }
+
+    .imgcontainer3 .portfoliopics {
+        opacity: 0.3;
+    }
+
+    .imgcontainer3 .middle {
+        opacity: 1;
+    }
+
+    .imgcontainer4 .image {
+        opacity: 0.3;
+    }
+
+    .imgcontainer4 .portfoliopics {
+        opacity: 0.3;
+    }
+
+    .imgcontainer4 .middle {
+        opacity: 1;
+    }
+
+    .imgcontainer5 .image {
+        opacity: 0.3;
+    }
+
+    .imgcontainer5 .portfoliopics {
+        opacity: 0.3;
+    }
+
+    .imgcontainer5 .middle {
+        opacity: 1;
+    }
+
+    .imgcontainer6 .image {
+        opacity: 0.3;
+    }
+
+    .imgcontainer6 .portfoliopics {
+        opacity: 0.3;
+    }
+
+    .imgcontainer6 .middle {
+        opacity: 1;
+    }
+
+    .imgcontainer7 .image {
+        opacity: 0.3;
+    }
+
+    .imgcontainer7 .portfoliopics {
+        opacity: 0.3;
+    }
+
+    .imgcontainer7 .middle {
+        opacity: 1;
+    }
+
+    .imgcontainer8 .image {
+        opacity: 0.3;
+    }
+
+    .imgcontainer8 .portfoliopics {
+        opacity: 0.3;
+    }
+
+    .imgcontainer8 .middle {
+        opacity: 1;
+    }
 }
 
-.imgcontainer1 {
-    display: block;
-    white-space: nowrap;
-    text-decoration: none;
-    position: relative;
-    width:100%;
-    margin: 0% 0% 3.5% 0%;
-}
-
-.imgcontainer2 {
-    display: block;
-    white-space: nowrap;
-    text-decoration: none;
-    position: relative;
-    width:100%;
-    margin: 0% 0% 3.5% 0%;
-}
-
-.imgcontainer3 {
-    display: block;
-    white-space: nowrap;
-    text-decoration: none;
-    position: relative;
-    width:100%;
-    margin: 0% 0% 3.5% 0%;
-}
-
-.imgcontainer4 {
-    display: block;
-    white-space: nowrap;
-    text-decoration: none;
-    position: relative;
-    width:100%;
-    margin: 0% 0% 3.5% 0%;
-}
-
-.imgcontainer5 {
-    display: block;
-    white-space: nowrap;
-    text-decoration: none;
-    position: relative;
-    width:100%;
-    margin: 0% 0% 3.5% 0%;
-}
-
-.imgcontainer6 {
-    display: block;
-    white-space: nowrap;
-    text-decoration: none;
-    position: relative;
-    width:100%;
-    margin: 0% 0% 3.5% 0%;
-}
-.imgcontainer7 {
-    display: block;
-    white-space: nowrap;
-    text-decoration: none;
-    position: relative;
-    width:100%;
-    margin: 0% 0% 3.5% 0%;
-}
-.imgcontainer8 {
-    display: block;
-    white-space: nowrap;
-    text-decoration: none;
-    position: relative;
-    width:100%;
-    margin: 0% 0% 3.5% 0%;
-}
-
-
-
-
-
-
-#portfolioscroll {
-    margin-left: 3.5%;
-    margin-right: 3.5%;
-    margin-top: 3.5%;
-    overflow-x:hidden;
-    overflow-y: hidden;
-
-}
-
-
-.image .portfoliopics {
-    opacity: 1;
-    display: block;
-    width: 100%;
-    height: auto;
-    backface-visibility: hidden;
-}
-.imgcontainer .image {
-    opacity: 0.3;
-}
-
-.imgcontainer .portfoliopics {
-    opacity: 0.3;
-}
-
-.imgcontainer .middle {
-    opacity: 1;
-}
-
-.imgcontainer1 .image {
-    opacity: 0.3;
-}
-
-.imgcontainer1 .portfoliopics {
-    opacity: 0.3;
-}
-
-.imgcontainer1 .middle {
-    opacity: 1;
-}
-
-
-.imgcontainer2 .image {
-    opacity: 0.3;
-}
-
-.imgcontainer2 .portfoliopics {
-    opacity: 0.3;
-}
-
-.imgcontainer2 .middle {
-    opacity: 1;
-}
-
-.imgcontainer3 .image {
-    opacity: 0.3;
-}
-
-.imgcontainer3 .portfoliopics {
-    opacity: 0.3;
-}
-
-.imgcontainer3 .middle {
-    opacity: 1;
-}
-
-.imgcontainer4 .image {
-    opacity: 0.3;
-}
-
-.imgcontainer4 .portfoliopics {
-    opacity: 0.3;
-}
-
-.imgcontainer4 .middle {
-    opacity: 1;
-}
-
-.imgcontainer5 .image {
-    opacity: 0.3;
-}
-
-.imgcontainer5 .portfoliopics {
-    opacity: 0.3;
-}
-
-.imgcontainer5 .middle {
-    opacity: 1;
-}
-
-.imgcontainer6 .image {
-    opacity: 0.3;
-}
-
-.imgcontainer6 .portfoliopics {
-    opacity: 0.3;
-}
-
-.imgcontainer6 .middle {
-    opacity: 1;
-}
-
-.imgcontainer7 .image {
-    opacity: 0.3;
-}
-
-.imgcontainer7 .portfoliopics {
-    opacity: 0.3;
-}
-
-.imgcontainer7 .middle {
-    opacity: 1;
-}
-
-.imgcontainer8 .image {
-    opacity: 0.3;
-}
-
-.imgcontainer8 .portfoliopics {
-    opacity: 0.3;
-}
-
-.imgcontainer8 .middle {
-    opacity: 1;
-}
-
-}
 @media only screen and (max-width: 768px) and (orientation: landscape) {
 
 
-.image .portfoliopics {
-    opacity: 1;
-    display: block;
-    width: 100%;
-    height: auto;
-    backface-visibility: hidden;
-}
-.imgcontainer .image {
-    opacity: 0.3;
-}
+    .image .portfoliopics {
+        opacity: 1;
+        display: block;
+        width: 100%;
+        height: auto;
+        backface-visibility: hidden;
+    }
+    .imgcontainer .image {
+        opacity: 0.3;
+    }
 
-.imgcontainer .portfoliopics {
-    opacity: 0.3;
-}
+    .imgcontainer .portfoliopics {
+        opacity: 0.3;
+    }
 
-.imgcontainer .middle {
-    opacity: 1;
-}
+    .imgcontainer .middle {
+        opacity: 1;
+    }
 
-.imgcontainer1 .image {
-    opacity: 0.3;
-}
+    .imgcontainer1 .image {
+        opacity: 0.3;
+    }
 
-.imgcontainer1 .portfoliopics {
-    opacity: 0.3;
-}
+    .imgcontainer1 .portfoliopics {
+        opacity: 0.3;
+    }
 
-.imgcontainer1 .middle {
-    opacity: 1;
-}
+    .imgcontainer1 .middle {
+        opacity: 1;
+    }
 
 
-.imgcontainer2 .image {
-    opacity: 0.3;
-}
+    .imgcontainer2 .image {
+        opacity: 0.3;
+    }
 
-.imgcontainer2 .portfoliopics {
-    opacity: 0.3;
-}
+    .imgcontainer2 .portfoliopics {
+        opacity: 0.3;
+    }
 
-.imgcontainer2 .middle {
-    opacity: 1;
-}
+    .imgcontainer2 .middle {
+        opacity: 1;
+    }
 
-.imgcontainer3 .image {
-    opacity: 0.3;
-}
+    .imgcontainer3 .image {
+        opacity: 0.3;
+    }
 
-.imgcontainer3 .portfoliopics {
-    opacity: 0.3;
-}
+    .imgcontainer3 .portfoliopics {
+        opacity: 0.3;
+    }
 
-.imgcontainer3 .middle {
-    opacity: 1;
-}
+    .imgcontainer3 .middle {
+        opacity: 1;
+    }
 
-.imgcontainer4 .image {
-    opacity: 0.3;
-}
+    .imgcontainer4 .image {
+        opacity: 0.3;
+    }
 
-.imgcontainer4 .portfoliopics {
-    opacity: 0.3;
-}
+    .imgcontainer4 .portfoliopics {
+        opacity: 0.3;
+    }
 
-.imgcontainer4 .middle {
-    opacity: 1;
-}
+    .imgcontainer4 .middle {
+        opacity: 1;
+    }
 
-.imgcontainer5 .image {
-    opacity: 0.3;
-}
+    .imgcontainer5 .image {
+        opacity: 0.3;
+    }
 
-.imgcontainer5 .portfoliopics {
-    opacity: 0.3;
-}
+    .imgcontainer5 .portfoliopics {
+        opacity: 0.3;
+    }
 
-.imgcontainer5 .middle {
-    opacity: 1;
-}
+    .imgcontainer5 .middle {
+        opacity: 1;
+    }
 
-.imgcontainer6 .image {
-    opacity: 0.3;
-}
+    .imgcontainer6 .image {
+        opacity: 0.3;
+    }
 
-.imgcontainer6 .portfoliopics {
-    opacity: 0.3;
-}
+    .imgcontainer6 .portfoliopics {
+        opacity: 0.3;
+    }
 
-.imgcontainer6 .middle {
-    opacity: 1;
-}
+    .imgcontainer6 .middle {
+        opacity: 1;
+    }
 
-.imgcontainer7 .image {
-    opacity: 0.3;
-}
+    .imgcontainer7 .image {
+        opacity: 0.3;
+    }
 
-.imgcontainer7 .portfoliopics {
-    opacity: 0.3;
-}
+    .imgcontainer7 .portfoliopics {
+        opacity: 0.3;
+    }
 
-.imgcontainer7 .middle {
-    opacity: 1;
-}
+    .imgcontainer7 .middle {
+        opacity: 1;
+    }
 
-.imgcontainer8 .image {
-    opacity: 0.3;
-}
+    .imgcontainer8 .image {
+        opacity: 0.3;
+    }
 
-.imgcontainer8 .portfoliopics {
-    opacity: 0.3;
-}
+    .imgcontainer8 .portfoliopics {
+        opacity: 0.3;
+    }
 
-.imgcontainer8 .middle {
-    opacity: 1;
-}
+    .imgcontainer8 .middle {
+        opacity: 1;
+    }
 }

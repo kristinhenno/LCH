@@ -1,42 +1,41 @@
-#desk {
-    margin-left: 10%;
-    width: 52%;
-    margin-top: 3.5%;
-}
+        #desk {
+        margin-left: 6%;
+           width: 57%;
+        margin-top: 3.5%;
+    }
 
-#contactinfo {
-    font-weight: lighter;
-    color: #767777;
-    position: absolute;
-    margin-top: 18.5%;
-    margin-left: 65%;
-}
-
-.contact {
-    font-size: 1em;
-}
-
-@media only screen and (max-width: 768px) and (orientation: portrait) {
     #contactinfo {
         font-weight: lighter;
         color: #767777;
-        position: relative;
-        margin: 30px 3.5% 10px .5%;
-        text-align: center;
-        width: 100%;
+        position: absolute;
+        margin-top: 18.5%;
+        margin-left: 66%;
     }
 
-    #desk {
-        float: none;
-        width: 74%;
-        margin: 3.5% 0% 0% 15%;
-        position: relative;
-        text-align: center;
+    .contact {
+        font-size: 1em;
     }
-}
 
-@media only screen and (max-width: 768px) and (orientation: landscape) {
-     #contactinfo {
-        font-size: 10px;
+    @media only screen and (max-width: 768px) and (orientation: portrait) {
+        #contactinfo {
+            font-weight: lighter;
+            color: #767777;
+            position: relative;
+            margin: 30px 3.5% 10px .5%;
+            text-align: center;
+            width: 100%;
+        }
 
-}
+        #desk {
+            float: none;
+            width: 74%;
+            margin: 3.5% 0% 0% 15%;
+            position: relative;
+            text-align: center;
+        }
+    }
+
+    @media only screen and (max-width: 768px) and (orientation: landscape) {
+        #contactinfo {
+            font-size: 10px;
+        }
