@@ -11,7 +11,10 @@
     "path": "^0.12.7",
     "request": "^2.83.0"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "flightplan": "^0.6.17",
+    "fly": "^2.0.6"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
