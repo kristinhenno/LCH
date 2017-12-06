@@ -1,6 +1,6 @@
 var button = document.getElementById("button");
 var d3 = document.getElementById("d3");
-var californiahomes = ["0", "1", "2", "3", "4"];
+var californiahomes = ["0", "1", "2", "3"];
 
 function openNav() {
     button.style.display = "none";
