@@ -1,3 +1,51 @@
+.coverpic1 {
+    color: white;
+    font-size: 16px;
+    padding: 16px 0px;
+    width:144%;
+    margin-left: -24%;
+}
+
+.coverpic2 {
+    color: white;
+    font-size: 16px;
+    padding: 16px 0px;
+    width:122%;
+    margin-left: -6%;
+}
+
+.coverpic3 {
+    color: white;
+    font-size: 16px;
+    padding: 16px 0px;
+    width:99%;
+    margin-left: 6%;
+}
+
+.coverpic4 {
+    color: white;
+    font-size: 16px;
+    padding: 16px 0px;
+    width:114%;
+    margin-left: -1%;
+}
+
+.coverpic5 {
+    color: white;
+    font-size: 16px;
+    padding: 16px 0px;
+    width:121%;
+    margin-left: -14%;
+}
+
+.coverpic6 {
+    color: white;
+    font-size: 16px;
+    padding: 16px 0px;
+    width:121%;
+    margin-left: -5%;
+}
+
 #californiacover {
     width: 100%;
 }
