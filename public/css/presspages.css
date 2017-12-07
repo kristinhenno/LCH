@@ -498,6 +498,85 @@
                  cursor: pointer;
              }
 
+
+             #imgcontainerd20 {
+                    width: 30%;
+                 display: inline-block;
+                 margin: 0% 1% 1% 0;
+                 cursor: pointer;
+             }
+
+             #imgcontainerd21 {
+                 width: 34.3%;
+                 display: inline-block;
+                 margin: 0% 1% 1% 0;
+                 cursor: pointer;
+             }
+
+              #imgcontainerd22 {
+                 width: 26.3%;
+                 display: inline-block;
+                 margin: 0% 1% 1% 0;
+                 cursor: pointer;
+             }
+
+              #imgcontainerd23 {
+                    width: 27%;
+                 display: inline-block;
+                 margin: 0% 1% 1% 0;
+                 cursor: pointer;
+             }
+
+              #imgcontainerd24 {
+                      width: 32.2%;
+                 display: inline-block;
+                 margin: 0% 1% 1% 0;
+                 cursor: pointer;
+             }
+            
+             #imgcontainerd25 {
+                 width: 31.7%;
+                 display: inline-block;
+                 margin: 0% 1% 1% 0;
+                 cursor: pointer;
+             }
+
+              #imgcontainerd26 {
+                width: 31.5%;
+                 display: inline-block;
+                 margin: 0% 1% 1% 0;
+                 cursor: pointer;
+             }
+
+              #imgcontainerd27 {
+                      width: 31.8%;
+                 display: inline-block;
+                 margin: 0% 1% 1% 0;
+                 cursor: pointer;
+             }
+
+              #imgcontainerd28 {
+               width: 30.5%;
+                 display: inline-block;
+                 margin: 0% 1% 1% 0;
+                 cursor: pointer;
+             }
+            
+             #imgcontainerd29 {
+                width: 44.8%;
+                 display: inline-block;
+                 margin: 0% 1% 1% 0;
+                 cursor: pointer;
+             }
+
+              #imgcontainerd210 {
+                    width: 27%;
+                 display: inline-block;
+                 margin: 0% 1% 1% 0;
+                 cursor: pointer;
+             }
+
+        
              #projects {
                  margin-left: 0.4%;
                  margin-right: 0.7%;
@@ -1293,7 +1372,82 @@
                      cursor: pointer;
                  }
 
+ #imgcontainerd20 {
+                     width: 100%;
+                     display: block;
+                     margin: 0% 0% 3.5% 0%;
+                     cursor: pointer;
+                 }
 
+ #imgcontainerd21 {
+                     width: 100%;
+                     display: block;
+                     margin: 0% 0% 3.5% 0%;
+                     cursor: pointer;
+                 }
+
+                  #imgcontainerd22 {
+                     width: 100%;
+                     display: block;
+                     margin: 0% 0% 3.5% 0%;
+                     cursor: pointer;
+                 }
+
+ #imgcontainerd23 {
+                     width: 100%;
+                     display: block;
+                     margin: 0% 0% 3.5% 0%;
+                     cursor: pointer;
+                 }
+
+                  #imgcontainerd24 {
+                     width: 100%;
+                     display: block;
+                     margin: 0% 0% 3.5% 0%;
+                     cursor: pointer;
+                 }
+
+                  #imgcontainerd25 {
+                     width: 100%;
+                     display: block;
+                     margin: 0% 0% 3.5% 0%;
+                     cursor: pointer;
+                 }
+
+                  #imgcontainerd26 {
+                     width: 100%;
+                     display: block;
+                     margin: 0% 0% 3.5% 0%;
+                     cursor: pointer;
+                 }
+
+                  #imgcontainerd27 {
+                     width: 100%;
+                     display: block;
+                     margin: 0% 0% 3.5% 0%;
+                     cursor: pointer;
+                 }
+
+                  #imgcontainerd28 {
+                     width: 100%;
+                     display: block;
+                     margin: 0% 0% 3.5% 0%;
+                     cursor: pointer;
+                 }
+
+                  #imgcontainerd29 {
+                     width: 100%;
+                     display: block;
+                     margin: 0% 0% 3.5% 0%;
+                     cursor: pointer;
+                 }
+
+                  #imgcontainerd210 {
+                     width: 100%;
+                     display: block;
+                     margin: 0% 0% 3.5% 0%;
+                     cursor: pointer;
+                 }
                  #ninja-slider {
                      display: none;
                  }
