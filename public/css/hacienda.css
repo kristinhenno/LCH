@@ -305,7 +305,11 @@
     user-select: none;
 }
 
-
+.x {
+   width: 45%;
+   margin-top: 12%;
+    margin-right: 12%;
+}
 
 
 /*Responsive settings*/
@@ -375,10 +379,6 @@ header a.active {
     cursor: pointer;
 }
 
-.x {
-    margin-top: 31%;
-    margin-right: 26%;
-}
 
 @media only screen and (max-width: 768px) and (orientation: portrait) {
     #imgcontainer0 {

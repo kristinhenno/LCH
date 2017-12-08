@@ -503,8 +503,9 @@ header a.active {
 }
 
 .x {
-    margin-top: 31%;
-    margin-right: 26%;
+   width: 45%;
+   margin-top: 12%;
+    margin-right: 12%;
 }
 
 @media only screen and (max-width: 768px) and (orientation: portrait) {

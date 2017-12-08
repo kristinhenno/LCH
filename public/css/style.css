@@ -356,7 +356,7 @@ header {
 }
 
 .lch {
-    padding-top: 0.63%;
+    padding-top: 0.65%;
     padding-left: 13px;
     width: 85%;
     max-width: 1175px;
@@ -365,48 +365,53 @@ header {
 }
 
 .lch1 {
-    padding-top: 0.63%;
-    padding-left: 13px;
-    width: 85%;
+    padding-top: 0.46%;
+    padding-left: 6px;
+        width: 75%;
     max-width: 1175px;
     position: relative;
     font-family: 'Quicksand', sans-serif;
+    margin-left:-1%; 
 }
 
 .lch2 {
-    padding-top: 0.63%;
-    padding-left: 13px;
-    width: 85%;
+      padding-top: 0.46%;
+    padding-left: 6px;
+        width: 75%;
     max-width: 1175px;
     position: relative;
     font-family: 'Quicksand', sans-serif;
+    margin-left:-1%; 
 }
 
 .lch3 {
-    padding-top: 0.63%;
-    padding-left: 13px;
-    width: 85%;
+     padding-top: 0.46%;
+    padding-left: 6px;
+        width: 75%;
     max-width: 1175px;
     position: relative;
     font-family: 'Quicksand', sans-serif;
+    margin-left:-1%; 
 }
 
 .lch4 {
-    padding-top: 0.63%;
-    padding-left: 13px;
-    width: 85%;
+    padding-top: 0.46%;
+    padding-left: 6px;
+        width: 75%;
     max-width: 1175px;
     position: relative;
     font-family: 'Quicksand', sans-serif;
+    margin-left:-1%; 
 }
 
 .lch5 {
-    padding-top: 0.63%;
-    padding-left: 13px;
-    width: 85%;
+   padding-top: 0.46%;
+    padding-left: 6px;
+        width: 75%;
     max-width: 1175px;
     position: relative;
     font-family: 'Quicksand', sans-serif;
+    margin-left:-1%; 
 }
 
 h1 {
