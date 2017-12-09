@@ -676,10 +676,10 @@
                  display: block;
                  position: absolute;
                  width: 100%;
-                 height: 100%;
+                 height: 114%;
                  background-repeat: no-repeat;
                  background-position: center center;
-                 margin-top: 5%;
+                 margin-top: 1%;
              }
              /*---------- Captions -------------------*/
 
@@ -738,12 +738,12 @@
 
 
              #ninja-slider-prev {
-                 left: -42px;
+                 left: -60px;
                  /*set it with a positive value if .slider-inner does not have max-width setting.*/
              }
 
              #ninja-slider-next {
-                 right: -42px;
+                 right: -60px;
              }
              /* arrows */
 
