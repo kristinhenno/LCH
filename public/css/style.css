@@ -1,3 +1,7 @@
+.zoom {
+  zoom: 150%;
+}
+
 body {
     font-family: 'Quicksand', sans-serif;
 }
@@ -124,13 +128,13 @@ body {
 #socialmedia3 {
     float: right;
     margin-right: 40px;
-    margin-top: 1.7%;
+    margin-top: .7%;
 }
 
 #copyright3 {
     float: left;
     margin-left: 40px;
-       margin-top: 2%;
+       margin-top: 1%;
     font-weight: lighter;
     color: #767777;
 }
@@ -292,9 +296,9 @@ body {
 
 
 #aboutlolo {
-    margin-top: 2.2%;
-    width: 82%;
-    margin-left: 11.2%;
+      margin-top: 1.6%;
+    width: 80%;
+    margin-left: 6.5%;
 }
 
 
