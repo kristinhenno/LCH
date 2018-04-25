@@ -308,6 +308,7 @@ body {
     color: #767777;
     letter-spacing: 2px;
     margin-left: -1.7%;
+    text-align: center;
 }
 
 
@@ -987,6 +988,7 @@ a:visited {
         background-color: #ffffff;
         opacity: 0.9;
         transition: 0.5s;
+        margin-top: 5%;
     }
 
     .sidenav a {
@@ -1003,18 +1005,23 @@ a:visited {
         font-weight: lighter;
     }
     #aboutlolo {
-        margin-top: 2%;
+        margin-top: 5%;
         width: 100%;
     }
     #laurentext {
-        margin-top: 2%;
+        margin-top: 10%;
         font-size: 1em;
         line-height: 2;
         color: #767777;
         letter-spacing: 2px;
         margin-left: 1%;
         margin-right: 1%;
+        text-align: center;
         /*    margin-left: 0.5%;*/
+    }
+
+    #box1{
+        margin-top: 9%;
     }
 }
 

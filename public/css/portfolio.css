@@ -3,6 +3,7 @@
     white-space: nowrap;
     text-decoration: none;
     display: inline-block;
+
 }
 
 .portfoliopics {
@@ -174,6 +175,10 @@ div#portfolioscroll::-webkit-scrollbar-thumb {
     opacity: 1;
 }
 
+
+#projects{
+    margin-top: 7%;
+}
 
 }
 
