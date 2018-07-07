@@ -42,7 +42,7 @@ function fsIconClick(isFullscreen) {
 
 $(document).ready(function() {
     for (i = 0; i < domino.length; i++) {
-        $("#projects").append("<div id='imgcontainerd2" + [i] + "'><img onclick='lightbox(" + [i] + ")' class='californiahomes' src='/assets/images/Press/Domino2/" + domino[i] + ".jpg'/><div id='myModal' class='modal'> <span class = 'close'>&times;</span><img class='modal-content' id='img01'></div></div>");
+        $("#projects").append("<div id='imgcontainerd2" + [i] + "'><img onclick='lightbox(" + [i] + ")' id='k" + [i] + "' class='californiahomes' src='/assets/images/Press/Domino2/" + domino[i] + ".jpg'/><div id='myModal' class='modal'> <span class = 'close'>&times;</span><img class='modal-content' id='img01'></div></div>");
 
     }
  if ($(window).width() > 769) {

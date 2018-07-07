@@ -44,7 +44,7 @@ function fsIconClick(isFullscreen) {
 
 $(document).ready(function() {
     for (i = 0; i < maison.length; i++) {
-        $("#projects").append("<div id='imgcontainer" + [i] + "'><img onclick='lightbox(" + [i] + ")' class='maison' src='/assets/images/Maison/" + maison[i] + ".jpg'/><div id='myModal' class='modal'> <span class = 'close'>&times;</span><img class='modal-content' id='img01'></div></div>");
+        $("#projects").append("<div id='imgcontainer" + [i] + "'><img onclick='lightbox(" + [i] + ")' id='k" + [i] + "' class='maison' src='/assets/images/Maison/" + maison[i] + ".jpg'/><div id='myModal' class='modal'> <span class = 'close'>&times;</span><img class='modal-content' id='img01'></div></div>");
 
     }
 

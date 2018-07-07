@@ -42,7 +42,7 @@ function fsIconClick(isFullscreen) {
 
 $(document).ready(function() {
     for (i = 0; i < hacienda.length; i++) {
-        $("#projects").append("<div id='imgcontainer" + [i] + "'><img onclick='lightbox(" + [i] + ")' class='hacienda' src='/assets/images/Hacienda/" + hacienda[i] + ".jpg'/><div id='myModal' class='modal'> <span class = 'close'>&times;</span><img class='modal-content' id='img01'></div></div>");
+        $("#projects").append("<div id='imgcontainer" + [i] + "'><img onclick='lightbox(" + [i] + ")' class='hacienda'  id='k" + [i] + "' src='/assets/images/Hacienda/" + hacienda[i] + ".jpg'/><div id='myModal' class='modal'> <span class = 'close'>&times;</span><img class='modal-content' id='img01'></div></div>");
 
     }
   if ($(window).width() > 769) {

@@ -42,7 +42,7 @@ function fsIconClick(isFullscreen) {
 
 $(document).ready(function() {
     for (i = 0; i < cabana.length; i++) {
-        $("#projects").append("<div id='imgcontainer" + [i] + "'><img onclick='lightbox(" + [i] + ")' class='cabana' src='/assets/images/Cabana/" + cabana[i] + ".jpg'/><div id='myModal' class='modal'> <span class = 'close'>&times;</span><img class='modal-content' id='img01'></div></div>");
+        $("#projects").append("<div id='imgcontainer" + [i] + "'><img onclick='lightbox(" + [i] + ")' id='k" + [i] + "' class='cabana' src='/assets/images/Cabana/" + cabana[i] + ".jpg'/><div id='myModal' class='modal'> <span class = 'close'>&times;</span><img class='modal-content' id='img01'></div></div>");
 
     }
 

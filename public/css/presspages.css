@@ -6,6 +6,57 @@
              .cowboysindians {
                  width: 100%;
              }
+               /* -------------sblife--------------*/
+
+
+             #imgcontainersblife0 {
+                 width: 31.4%;
+                 display: inline-block;
+                 margin: 0% 1% 1% 0;
+                 cursor: pointer;
+             }
+
+             #imgcontainersblife1 {
+                 width: 31.5%;
+                 display: inline-block;
+                 margin: 0% 1% 1% 0;
+                 cursor: pointer;
+             }
+
+             #imgcontainersblife2 {
+                 width: 31.5%;
+                 display: inline-block;
+                 margin: 0% 1% 1% 0;
+                 cursor: pointer;
+             }
+
+             #imgcontainersblife3 {
+                 width: 31.5%;
+                 display: inline-block;
+                 margin: 0% 1% 1% 0;
+                 cursor: pointer;
+             }
+
+             #imgcontainersblife4 {
+                 width: 31.5%;
+                 display: inline-block;
+                 margin: 0% 1% 0.5% 0;
+                 cursor: pointer;
+             }
+
+             #imgcontainersblife5 {
+                 width: 31.5%;
+                 display: inline-block;
+                 margin: 0% 1% 0.5% 0;
+                 cursor: pointer;
+             }
+
+             #imgcontainersblife6 {
+                     width: 31.5%;
+                 display: inline-block;
+                 margin: 0% 1% 1% 0;
+                 cursor: pointer;
+             }
              /*californiahomes*/
 
              #imgcontainer0 {
@@ -256,6 +307,7 @@
                  cursor: pointer;
              }
              /* -------------everygirl2--------------*/
+
 
              #imgcontainereg20 {
                      width: 30.8%;
@@ -889,9 +941,73 @@
 
 
              @media only screen and (max-width: 768px) and (orientation: portrait) {
+#k0{
+    margin-top:36px;
+}
+    #imgcontainersb0 {
+        margin-top:50px;
+                     width: 100%;
+                     display: block;
+                     margin: 0% 0% 3.5% 0%;
+                     cursor: pointer;
+                 }
+
+ #imgcontainersblife0 {
+    
+    
+     margin-top:50px;
+                     width: 100%;
+                     display: block;
+                     margin: 0% 0% 3.5% 0%;
+                     cursor: pointer;
+                 }
+                 #imgcontainersblife1 {
+                     width: 100%;
+                     display: block;
+                     margin: 0% 0% 3.5% 0%;
+                     cursor: pointer;
+                 }
 
 
+                 #imgcontainersblife2 {
+                     width: 100%;
+                     display: block;
+                     margin: 0% 0% 3.5% 0%;
+                     cursor: pointer;
+                 }
+
+
+                 #imgcontainerlife3 {
+                     width: 100%;
+                     display: block;
+                     margin: 0% 0% 3.5% 0%;
+                     cursor: pointer;
+                 }
+
+
+                 #imgcontainersblife4 {
+                     width: 100%;
+                     display: block;
+                     margin: 0% 0% 3.5% 0%;
+                     cursor: pointer;
+                 }
+
+                 #imgcontainersblife5 {
+                     width: 100%;
+                     display: block;
+                     margin: 0% 0% 3.5% 0%;
+                     cursor: pointer;
+                 }
+
+
+                 #imgcontainersblife6  {
+                     width: 100%;
+                     display: block;
+                     margin: 0% 0% 3.5% 0%;
+                     cursor: pointer;
+                 }
                  #imgcontainer0 {
+                     margin-top:50px;
                      width: 100%;
                      display: block;
                      margin: 0% 0% 3.5% 0%;
@@ -931,6 +1047,7 @@
                  }
 
                  #imgcontainers0 {
+                     margin-top:50px;
                      width: 100%;
                      display: block;
                      margin: 0% 0% 3.5% 0%;
@@ -945,6 +1062,7 @@
                      cursor: pointer;
                  }
                  #imgcontainercb0 {
+                     margin-top:50px;
                      width: 100%;
                      display: block;
                      margin: 0% 0% 3.5% 0%;
@@ -981,6 +1099,7 @@
                  }
 
                  #imgcontainerd0 {
+                     margin-top:50px;
                      width: 100%;
                      display: block;
                      margin: 0% 0% 3.5% 0%;
@@ -1023,6 +1142,7 @@
                  }
 
                  #imgcontainereg0 {
+                     margin-top:50px;
                      width: 100%;
                      display: block;
                      margin: 0% 0% 3.5% 0%;
@@ -1136,6 +1256,7 @@
                  }
                  /* -------------everygirl2--------------*/
                  #imgcontainereg20 {
+                     margin-top:50px;
                      width: 100%;
                      display: block;
                      margin: 0% 0% 3.5% 0%;
@@ -1276,6 +1397,7 @@
                  }
                  /*------ glitter guide-------*/
                  #imgcontainergg0 {
+                     margin-top:50px;
                      width: 100%;
                      display: block;
                      margin: 0% 0% 3.5% 0%;
@@ -1332,6 +1454,7 @@
                  }
                  /*--------forbes---------*/
                  #imgcontainerf0 {
+                     margin-top:50px;
                      width: 100%;
                      display: block;
                      margin: 0% 0% 3.5% 0%;
@@ -1372,8 +1495,11 @@
                      margin: 0% 0% 3.5% 0%;
                      cursor: pointer;
                  }
+    }
+    }
 
  #imgcontainerd20 {
+     margin-top:50px;
                      width: 100%;
                      display: block;
                      margin: 0% 0% 3.5% 0%;

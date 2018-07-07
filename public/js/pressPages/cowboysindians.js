@@ -42,7 +42,7 @@ function fsIconClick(isFullscreen) {
 
 $(document).ready(function() {
     for (i = 0; i < cowboysindians.length; i++) {
-        $("#projects").append("<div id='imgcontainercb" + [i] + "'><img onclick='lightbox(" + [i] + ")' class='cowboysindians' src='/assets/images/Press/CowboysIndians/" + cowboysindians[i] + ".jpg'/><div id='myModal' class='modal'> <span class = 'close'>&times;</span><img class='modal-content' id='img01'></div></div>");
+        $("#projects").append("<div id='imgcontainercb" + [i] + "'><img onclick='lightbox(" + [i] + ")' class='cowboysindians' id='k" + [i] + "'  src='/assets/images/Press/CowboysIndians/" + cowboysindians[i] + ".jpg'/><div id='myModal' class='modal'> <span class = 'close'>&times;</span><img class='modal-content' id='img01'></div></div>");
 
     }
  if ($(window).width() > 769) {
