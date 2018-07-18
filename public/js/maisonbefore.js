@@ -1,6 +1,6 @@
 var button = document.getElementById("button");
 var d3 = document.getElementById("d3");
-var lolo = ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15"];
+var lolo = ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16","17","18"];
 
 function openNav() {
     button.style.display = "none";

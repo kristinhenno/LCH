@@ -9,8 +9,8 @@
 
     }
 
-#copyrightmaison{
-        margin-top: 2.4%;
+#copyrightmaison {
+    margin-top: 2.7%;
 }
 
 #socialmediamaison {
@@ -41,7 +41,7 @@
 }
 
 .imgcontainer2 {
-    width: 28.9%;
+    width: 27%;
     display: inline-block;
     margin: 0% 1.2% 1% 0;
     cursor: pointer;
@@ -53,7 +53,7 @@
 }
 
 .imgcontainer3 {
-    width: 60.7%;
+    width: 28.9%;
     display: inline-block;
     margin: 0% 1% 1% 0;
     cursor: pointer;
@@ -65,7 +65,7 @@
 }
 
 .imgcontainer4 {
-    width: 33.5%;
+    width: 60.7%;
     display: inline-block;
     margin: 0% 1% 1% 0;
     cursor: pointer;
@@ -77,7 +77,7 @@
 }
 
 .imgcontainer5 {
-    width: 60.7%;
+    width: 33.5%;
     display: inline-block;
     margin: 0% 1% 1% 0;
     cursor: pointer;
@@ -113,7 +113,7 @@
 }
 
 .imgcontainer8 {
-    width: 26.9%;
+    width: 60.7%;
     display: inline-block;
     margin: 0% 1% 1% 0;
     cursor: pointer;
@@ -125,7 +125,7 @@
 }
 
 .imgcontainer9 {
-    width: 60.7%;
+    width: 27%;
     display: inline-block;
     margin: 0% 1% 1% 0;
     cursor: pointer;
@@ -149,7 +149,7 @@
 }
 
 .imgcontainer11 {
-    width: 60.7%;
+    width: 27%;
     display: inline-block;
     margin: 0% 1% 1% 0;
     cursor: pointer;
@@ -171,7 +171,7 @@
     display: inline-block;
 }
 .imgcontainer13 {
-    width: 60.7%;
+    width: 27%;
     display: inline-block;
     margin: 0% 1% 1% 0;
 }
@@ -181,12 +181,39 @@
     display: inline-block;
 }
 .imgcontainer14 {
-    width: 26.9%;
+     width: 60.7%;
     display: inline-block;
     margin: 0% 1% 1% 0;
 }
 
 #lolo14 {
+    width: 100%;
+    display: inline-block;
+}
+.imgcontainer15 {
+    width: 60.7%;
+    display: inline-block;
+    margin: 0% 1% 1% 0;
+}
+#lolo15 {
+    width: 100%;
+    display: inline-block;
+}
+.imgcontainer16 {
+    width: 60.7%;
+    display: inline-block;
+    margin: 0% 1% 1% 0;
+}
+#lolo16 {
+    width: 100%;
+    display: inline-block;
+}
+.imgcontainer17 {
+    width: 26.9%;
+    display: inline-block;
+    margin: 0% 1% 1% 0;
+}
+#lolo17 {
     width: 100%;
     display: inline-block;
 }
@@ -614,6 +641,36 @@ header a.active {
         cursor: pointer;
     }
     .imgcontainer12 {
+        width: 100%;
+        display: block;
+        margin: 0% 0% 3.5% 0%;
+        cursor: pointer;
+    }
+     .imgcontainer13 {
+        width: 100%;
+        display: block;
+        margin: 0% 0% 3.5% 0%;
+        cursor: pointer;
+    }
+     .imgcontainer14 {
+        width: 100%;
+        display: block;
+        margin: 0% 0% 3.5% 0%;
+        cursor: pointer;
+    }
+     .imgcontainer15 {
+        width: 100%;
+        display: block;
+        margin: 0% 0% 3.5% 0%;
+        cursor: pointer;
+    }
+     .imgcontainer16 {
+        width: 100%;
+        display: block;
+        margin: 0% 0% 3.5% 0%;
+        cursor: pointer;
+    }
+ .imgcontainer17 {
         width: 100%;
         display: block;
         margin: 0% 0% 3.5% 0%;
