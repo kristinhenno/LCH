@@ -3,6 +3,7 @@ var d3 = document.getElementById("d3");
 var boho = ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12",
  "13"];
 
+
 function openNav() {
     button.style.display = "none";
     d3.style.display = "block";
