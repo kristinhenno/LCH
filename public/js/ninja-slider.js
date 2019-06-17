@@ -16,7 +16,7 @@ var nsOptions =
     keyboardNav: true,
     before: null,
     m:false,
-    license: "mylicense"
+    license: "b2a817"
 };
 
 var nslider = new NinjaSlider(nsOptions);

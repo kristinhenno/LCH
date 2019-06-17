@@ -1,6 +1,7 @@
 var button = document.getElementById("button");
 var d3 = document.getElementById("d3");
-var californiahomes = ["0", "1", "2", "3"];
+var ca = ["0", "1", "2", "3", "4"];
+
 
 function openNav() {
     button.style.display = "none";
@@ -38,16 +39,19 @@ function fsIconClick(isFullscreen) {
 
 
 
+
+
 $(document).ready(function() {
-    for (i = 0; i < californiahomes.length; i++) {
-        $("#projects").append("<div id='imgcontainer" + [i] + "'><img onclick='lightbox(" + [i] + ")' id='k" + [i] + "' class='californiahomes' src='/assets/images/Press/CaliforniaHomes/" + californiahomes[i] + ".jpg'/><div id='myModal' class='modal'> <span class = 'close'>&times;</span><img class='modal-content' id='img01'></div></div>");
+    for (i = 0; i < ca.length; i++) {
+        $("#projects").append("<div id='imgcontainer" + [i] + "'><img onclick='lightbox(" + [i] + ")' id='k" + [i] + "' class='boho' src='/assets/images/CaliforniaHomes/" + ca[i] + ".jpg'/><div id='myModal' class='modal'> <span class = 'close'>&times;</span><img class='modal-content' id='img01'></div></div>");
 
     }
+
  if ($(window).width() > 769) {
-    for (i = 0; i < californiahomes.length; i++) {
-        $("#ninja").append("<li><a class='ns-img' href='/assets/images/Press/CaliforniaHomes/" + californiahomes[i] + ".jpg'></a></li>")
+    for (i = 0; i < ca.length; i++) {
+        $("#ninja").append("<li><a class='ns-img' href='/assets/images/CaliforniaHomes/" + ca[i] + ".jpg'></a></li>")
 
     }
-
 }
+
 })
