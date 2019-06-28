@@ -54,9 +54,21 @@
     margin-left: -23%;
 }
 
+.coverpic10 {
+      color: white;
+    font-size: 16px;
+    padding: 16px 0px;
+    width:130%;
+    margin-left: -14%;
+}
+
 
 #californiacover {
     width: 100%;
+}
+
+#luxecover{
+    width:100%;
 }
 
 #portfolioscroll {
@@ -161,6 +173,16 @@
     width: 29%;
     margin: 0% 1% 1% 0;
 }
+
+.imgcontainer10 {
+    display: inline-block;
+    white-space: nowrap;
+    text-decoration: none;
+    position: relative;
+    width: 33.3%;
+    margin: 0% 1% 1% 0;
+}
+
 .imgcontainer0:hover .image {
     transition: .5s ease;
     opacity: 0.3;
@@ -296,6 +318,22 @@
     opacity: 1;
 }
 
+.imgcontainer10:hover .image {
+    transition: .5s ease;
+    opacity: 0.3;
+}
+
+.imgcontainer10:hover .portfoliopics {
+    transition: .5s ease;
+    opacity: 0.3;
+}
+
+.imgcontainer10:hover .middle {
+    transition: .5s ease;
+    opacity: 1;
+}
+
+
 @media only screen and (max-width: 768px) and (orientation: portrait) {
 
     .coverpic3 {
@@ -356,6 +394,13 @@
 
 
 .coverpic7 {
+    color: white;
+    font-size: 16px;
+    padding: 16px 0px;
+        width: 147%;
+    margin-left: -19%;
+}
+.coverpic10 {
     color: white;
     font-size: 16px;
     padding: 16px 0px;
@@ -450,6 +495,15 @@
     }
 
      .imgcontainer9 {
+        display: block;
+        white-space: nowrap;
+        text-decoration: none;
+        position: relative;
+        width: 100%;
+        margin: 0% 0% 3.5% 0%;
+    }
+
+ .imgcontainer10 {
         display: block;
         white-space: nowrap;
         text-decoration: none;
@@ -610,6 +664,19 @@
     .imgcontainer9 .middle {
         opacity: 1;
     }
+
+
+       .imgcontainer10 .image {
+        opacity: 0.3;
+    }
+
+    .imgcontainer10 .portfoliopics {
+        opacity: 0.3;
+    }
+
+    .imgcontainer10 .middle {
+        opacity: 1;
+    }
 }
 
 @media only screen and (max-width: 768px) and (orientation: landscape) {
@@ -740,6 +807,18 @@
     }
 
     .imgcontainer9 .middle {
+        opacity: 1;
+    }
+
+        .imgcontainer10 .image {
+        opacity: 0.3;
+    }
+
+    .imgcontainer10 .portfoliopics {
+        opacity: 0.3;
+    }
+
+    .imgcontainer10 .middle {
         opacity: 1;
     }
 }

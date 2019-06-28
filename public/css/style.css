@@ -1324,6 +1324,24 @@ a:visited {
         margin-right: 0px;
     }
 
+#copyrightsbpress {
+    float: none;
+        text-align: center;
+        margin-top: 20px;
+        font-weight: lighter;
+        color: #767777;
+        margin-left: 0px;
+        margin-right: 0px;
+}
+
+#socialmediasbpress{
+     margin-top: 20px;
+        float: center;
+        float: none;
+        text-align: center;
+        margin-left: 0px;
+        margin-right: 0px;
+}
 
 
     footer {
