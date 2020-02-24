@@ -59,7 +59,7 @@ $(document).ready(function() {
         [i] +
         "' src='/assets/images/Press/MiCasa/" +
         everygirl[i] +
-        ".png'/><div id='myModal' class='modal'> <span class = 'close'>&times;</span><img class='modal-content' id='img01'></div></div>"
+        ".jpg'/><div id='myModal' class='modal'> <span class = 'close'>&times;</span><img class='modal-content' id='img01'></div></div>"
     );
   }
   if ($(window).width() > 769) {
@@ -67,7 +67,7 @@ $(document).ready(function() {
       $("#ninja").append(
         "<li><a class='ns-img' href='/assets/images/Press/MiCasa/" +
           everygirl[i] +
-          ".png'></a></li>"
+          ".jpg'></a></li>"
       );
     }
   }
