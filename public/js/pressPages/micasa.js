@@ -66,7 +66,7 @@ $(document).ready(function() {
         [i] +
         ")' class='californiahomes' id='k" +
         [i] +
-        "' src='/assets/images/Press/MyDomaine/" +
+        "' src='/assets/images/Press/Mydomaine/" +
         everygirl[i] +
         ".jpg'/><div id='myModal' class='modal'> <span class = 'close'>&times;</span><img class='modal-content' id='img01'></div></div>"
     );
@@ -74,7 +74,7 @@ $(document).ready(function() {
   if ($(window).width() > 769) {
     for (i = 0; i < everygirl.length; i++) {
       $("#ninja").append(
-        "<li><a class='ns-img' href='/assets/images/Press/MyDomaine/" +
+        "<li><a class='ns-img' href='/assets/images/Press/Mydomaine/" +
           everygirl[i] +
           ".jpg'></a></li>"
       );

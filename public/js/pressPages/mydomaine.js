@@ -65,7 +65,7 @@ $(document).ready(function() {
   if ($(window).width() > 769) {
     for (i = 0; i < everygirl.length; i++) {
       $("#ninja").append(
-        "<li><a class='ns-img' href='/assets/images/Press/MiCasa/" +
+        "<li><a class='ns-img' href='/assets/images/Press/Micasa/" +
           everygirl[i] +
           ".jpg'></a></li>"
       );
