@@ -57,7 +57,7 @@ $(document).ready(function() {
         [i] +
         ")' class='californiahomes' id='k" +
         [i] +
-        "' src='/assets/images/Press/MiCasa/" +
+        "' src='/assets/images/Press/Micasa/" +
         everygirl[i] +
         ".jpg'/><div id='myModal' class='modal'> <span class = 'close'>&times;</span><img class='modal-content' id='img01'></div></div>"
     );
