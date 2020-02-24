@@ -1,824 +1,953 @@
 .coverpic1 {
-    color: white;
-    font-size: 16px;
-    padding: 16px 0px;
-    width:144%;
-    margin-left: -24%;
-}
-
-.coverpic2 {
-    color: white;
-    font-size: 16px;
-    padding: 16px 0px;
-        width: 147%;
-    margin-left: -19%;
-}
-
-.coverpic3 {
-    color: white;
-    font-size: 16px;
-    padding: 16px 0px;
-    width:99%;
-    margin-left: 6%;
-}
-
-.coverpic4 {
-    color: white;
-    font-size: 16px;
-    padding: 16px 0px;
-    width:114%;
-    margin-left: -1%;
-}
-
-.coverpic5 {
-    color: white;
-    font-size: 16px;
-    padding: 16px 0px;
-    width:121%;
-    margin-left: -14%;
-}
-
-.coverpic6 {
-    color: white;
-    font-size: 16px;
-    padding: 16px 0px;
-    width:121%;
-    margin-left: -5%;
-}
-
-.coverpic7 {
-    color: white;
-    font-size: 16px;
-    padding: 16px 0px;
-   width: 152%;
-    margin-left: -23%;
-}
-
-.coverpic10 {
-      color: white;
-    font-size: 16px;
-    padding: 16px 0px;
-    width:130%;
-    margin-left: -14%;
-}
-
-
-#californiacover {
-    width: 100%;
-}
-
-#luxecover{
-    width:100%;
-}
-
-#portfolioscroll {
-    margin-top: 3.5%;
-}
-.imgcontainerED0{
-     display: inline-block;
-    white-space: nowrap;
-    text-decoration: none;
-    position: relative;
-    width: 15.01%;
-    margin: 0% 1% 1% 0;
-    
-}
-
-.imgcontainer0{
-     display: inline-block;
-    white-space: nowrap;
-    text-decoration: none;
-    position: relative;
-    width: 31.01%;
-    margin: 0% 1% 1% 0;
-    
-}
-.imgcontainer {
-    display: inline-block;
-    white-space: nowrap;
-    text-decoration: none;
-    position: relative;
-    width: 33.4%;
-    margin: 0% 1% 1% 0;
-}
-
-.imgcontainer2 {
-    display: inline-block;
-    white-space: nowrap;
-    text-decoration: none;
-    position: relative;
-       width: 30.35%;
-    margin: 0% 1% 1% 0;
-}
-
-.imgcontainer3 {
-    display: inline-block;
-    white-space: nowrap;
-    text-decoration: none;
-    position: relative;
-        width: 30.6%;
-    margin: 0% 1% 1% 0;
-}
-
-.imgcontainer4 {
-    display: inline-block;
-    white-space: nowrap;
-    text-decoration: none;
-    position: relative;
-    width: 29.1%;
-    margin: 0% 1% 1% 0;
-}
-
-.imgcontainer5 {
-    display: inline-block;
-    white-space: nowrap;
-    text-decoration: none;
-    position: relative;
-   width: 43.9%;
-    margin: 0% 1% 1% -1%;
-}
-
-.imgcontainer6 {
-    display: inline-block;
-    white-space: nowrap;
-    text-decoration: none;
-    position: relative;
-        width: 38.2%;
-    margin: 0% 1% 1% 0;
-}
-
-.imgcontainer7 {
-    display: inline-block;
-    white-space: nowrap;
-    text-decoration: none;
-    position: relative;
-    width: 36%;
-    margin: 0% 1% 1% 0;
-}
-
-.imgcontainer8 {
-    display: inline-block;
-    white-space: nowrap;
-    text-decoration: none;
-    position: relative;
-    width: 34.5%;
-    margin: 0% 1% 1% 0;
-}
-
-.imgcontainer9 {
-    display: inline-block;
-    white-space: nowrap;
-    text-decoration: none;
-    position: relative;
-    width: 29%;
-    margin: 0% 1% 1% 0;
-}
-
-.imgcontainer10 {
-    display: inline-block;
-    white-space: nowrap;
-    text-decoration: none;
-    position: relative;
-    width: 33.3%;
-    margin: 0% 1% 1% 0;
-}
-
-.imgcontainer0:hover .image {
-    transition: .5s ease;
-    opacity: 0.3;
-}
-
-.imgcontainer0:hover .portfoliopics {
-    transition: .5s ease;
-    opacity: 0.3;
-}
-
-.imgcontainer0:hover .middle {
-    transition: .5s ease;
-    opacity: 1;
-}
-
-.imgcontainer2:hover .image {
-    transition: .5s ease;
-    opacity: 0.3;
-}
-
-.imgcontainer2:hover .portfoliopics {
-    transition: .5s ease;
-    opacity: 0.3;
-}
-
-.imgcontainer2:hover .middle {
-    transition: .5s ease;
-    opacity: 1;
-}
-
-.imgcontainer3:hover .image {
-    transition: .5s ease;
-    opacity: 0.3;
-}
-
-.imgcontainer3:hover .portfoliopics {
-    transition: .5s ease;
-    opacity: 0.3;
-}
-
-.imgcontainer3:hover .middle {
-    transition: .5s ease;
-    opacity: 1;
-}
-
-.imgcontainer4:hover .image {
-    transition: .5s ease;
-    opacity: 0.3;
-}
-
-.imgcontainer4:hover .portfoliopics {
-    transition: .5s ease;
-    opacity: 0.3;
-}
-
-.imgcontainer4:hover .middle {
-    transition: .5s ease;
-    opacity: 1;
-}
-
-.imgcontainer5:hover .image {
-    transition: .5s ease;
-    opacity: 0.3;
-}
-
-.imgcontainer5:hover .portfoliopics {
-    transition: .5s ease;
-    opacity: 0.3;
-}
-
-.imgcontainer5:hover .middle {
-    transition: .5s ease;
-    opacity: 1;
-}
-
-.imgcontainer6:hover .image {
-    transition: .5s ease;
-    opacity: 0.3;
-}
-
-.imgcontainer6:hover .portfoliopics {
-    transition: .5s ease;
-    opacity: 0.3;
-}
-
-.imgcontainer6:hover .middle {
-    transition: .5s ease;
-    opacity: 1;
-}
-
-.imgcontainer7:hover .image {
-    transition: .5s ease;
-    opacity: 0.3;
-}
-
-.imgcontainer7:hover .portfoliopics {
-    transition: .5s ease;
-    opacity: 0.3;
-}
-
-.imgcontainer7:hover .middle {
-    transition: .5s ease;
-    opacity: 1;
-}
-
-.imgcontainer8:hover .image {
-    transition: .5s ease;
-    opacity: 0.3;
-}
-
-.imgcontainer8:hover .portfoliopics {
-    transition: .5s ease;
-    opacity: 0.3;
-}
-
-.imgcontainer8:hover .middle {
-    transition: .5s ease;
-    opacity: 1;
-}
-
-.imgcontainer9:hover .image {
-    transition: .5s ease;
-    opacity: 0.3;
-}
-
-.imgcontainer9:hover .portfoliopics {
-    transition: .5s ease;
-    opacity: 0.3;
-}
-
-.imgcontainer9:hover .middle {
-    transition: .5s ease;
-    opacity: 1;
-}
-
-.imgcontainer10:hover .image {
-    transition: .5s ease;
-    opacity: 0.3;
-}
-
-.imgcontainer10:hover .portfoliopics {
-    transition: .5s ease;
-    opacity: 0.3;
-}
-
-.imgcontainer10:hover .middle {
-    transition: .5s ease;
-    opacity: 1;
-}
-
-
-@media only screen and (max-width: 768px) and (orientation: portrait) {
-
-    .coverpic3 {
-    color: white;
-    font-size: 16px;
-    padding: 16px 0px;
-        width: 147%;
-    margin-left: -19%;
-}
-
-    .coverpic1 {
-    color: white;
-    font-size: 16px;
-    padding: 16px 0px;
-        width: 147%;
-    margin-left: -19%;
-}
-
-.coverpic2 {
-    color: white;
-    font-size: 16px;
-    padding: 16px 0px;
-        width: 147%;
-    margin-left: -19%;
-}
-
-.coverpic4 {
-    color: white;
-    font-size: 16px;
-    padding: 16px 0px;
-        width: 147%;
-    margin-left: -19%;
+  color: white;
+  font-size: 16px;
+  padding: 16px 0px;
+  width: 144%;
+  margin-left: -24%;
 }
 
 .coverpic {
-    color: white;
-    font-size: 16px;
-    padding: 16px 0px;
-        width: 147%;
-    margin-left: -19%;
+  color: white;
+  font-size: 16px;
+  padding: 16px 0px;
+  width: 130%;
+  margin-left: -19%;
+}
+
+.coverpic2 {
+  color: white;
+  font-size: 16px;
+  padding: 16px 0px;
+  width: 160%;
+  margin-left: -24%;
+}
+
+.coverpic3 {
+  color: white;
+  font-size: 16px;
+  padding: 16px 0px;
+  width: 106%;
+  margin-left: 4%;
+}
+
+.coverpic4 {
+  color: white;
+  font-size: 16px;
+  padding: 16px 0px;
+  width: 122%;
+  margin-left: -4%;
 }
 
 .coverpic5 {
-    color: white;
-    font-size: 16px;
-    padding: 16px 0px;
-        width: 147%;
-    margin-left: -19%;
+  color: white;
+  font-size: 16px;
+  padding: 16px 0px;
+  width: 126%;
+  margin-left: -19%;
 }
 
 .coverpic6 {
-    color: white;
-    font-size: 16px;
-    padding: 16px 0px;
-        width: 147%;
-    margin-left: -19%;
+  color: white;
+  font-size: 16px;
+  padding: 16px 0px;
+  width: 160%;
+  margin-left: -5%;
 }
-
 
 .coverpic7 {
-    color: white;
-    font-size: 16px;
-    padding: 16px 0px;
-        width: 147%;
-    margin-left: -19%;
+  color: white;
+  font-size: 16px;
+  padding: 16px 0px;
+  width: 161%;
+  margin-left: -33%;
 }
+
 .coverpic10 {
+  color: white;
+  font-size: 16px;
+  padding: 16px 0px;
+  width: 130%;
+  margin-left: -14%;
+}
+
+.coverpicDomaine {
+  color: white;
+  font-size: 16px;
+  padding: 16px 0px;
+  width: 105%;
+  margin-left: -2%;
+}
+
+.coverpicMiCasa {
+  color: white;
+  font-size: 16px;
+  padding: 16px 0px;
+  width: 87%;
+  margin-left: 2%;
+}
+
+#californiacover {
+  width: 100%;
+}
+
+#luxecover {
+  width: 100%;
+}
+
+#portfolioscroll {
+  margin-top: 3.5%;
+}
+.imgcontainerED0 {
+  display: inline-block;
+  white-space: nowrap;
+  text-decoration: none;
+  position: relative;
+  width: 15.01%;
+  margin: 0% 1% 1% 0;
+}
+
+.imgcontainer0 {
+  display: inline-block;
+  white-space: nowrap;
+  text-decoration: none;
+  position: relative;
+  width: 31.01%;
+  margin: 0% 1% 1% 0;
+}
+.imgcontainer {
+  display: inline-block;
+  white-space: nowrap;
+  text-decoration: none;
+  position: relative;
+  width: 33.4%;
+  margin: 0% 1% 1% 0;
+}
+
+.imgcontainer2 {
+  display: inline-block;
+  white-space: nowrap;
+  text-decoration: none;
+  position: relative;
+  width: 30.35%;
+  margin: 0% 1% 1% 0;
+}
+
+.imgcontainer3 {
+  display: inline-block;
+  white-space: nowrap;
+  text-decoration: none;
+  position: relative;
+  width: 30.6%;
+  margin: 0% 1% 1% 0;
+}
+
+.imgcontainer4 {
+  display: inline-block;
+  white-space: nowrap;
+  text-decoration: none;
+  position: relative;
+  width: 29.1%;
+  margin: 0% 1% 1% 0;
+}
+
+.imgcontainer5 {
+  display: inline-block;
+  white-space: nowrap;
+  text-decoration: none;
+  position: relative;
+  width: 43.9%;
+  margin: 0% 1% 1% -1%;
+}
+
+.imgcontainer6 {
+  display: inline-block;
+  white-space: nowrap;
+  text-decoration: none;
+  position: relative;
+  width: 38.2%;
+  margin: 0% 1% 1% 0;
+}
+
+.imgcontainer7 {
+  display: inline-block;
+  white-space: nowrap;
+  text-decoration: none;
+  position: relative;
+  width: 36%;
+  margin: 0% 1% 1% 0;
+}
+
+.imgcontainer8 {
+  display: inline-block;
+  white-space: nowrap;
+  text-decoration: none;
+  position: relative;
+  width: 34.5%;
+  margin: 0% 1% 1% 0;
+}
+
+.imgcontainer9 {
+  display: inline-block;
+  white-space: nowrap;
+  text-decoration: none;
+  position: relative;
+  width: 29%;
+  margin: 0% 1% 1% 0;
+}
+
+.imgcontainer10 {
+  display: inline-block;
+  white-space: nowrap;
+  text-decoration: none;
+  position: relative;
+  width: 33.3%;
+  margin: 0% 1% 1% 0;
+}
+.imgcontainerMiCasa {
+  display: inline-block;
+  white-space: nowrap;
+  text-decoration: none;
+  position: relative;
+  width: 51.8%;
+  margin: 0% 1% 1% 0;
+}
+
+.imgcontainerMyDomaine {
+  display: inline-block;
+  white-space: nowrap;
+  text-decoration: none;
+  position: relative;
+  width: 42.7%;
+  margin: 0% 1% 1% 0;
+}
+
+.imgcontainer0:hover .image {
+  transition: 0.5s ease;
+  opacity: 0.3;
+}
+
+.imgcontainer0:hover .portfoliopics {
+  transition: 0.5s ease;
+  opacity: 0.3;
+}
+
+.imgcontainer0:hover .middle {
+  transition: 0.5s ease;
+  opacity: 1;
+}
+
+.imgcontainer2:hover .image {
+  transition: 0.5s ease;
+  opacity: 0.3;
+}
+
+.imgcontainer2:hover .portfoliopics {
+  transition: 0.5s ease;
+  opacity: 0.3;
+}
+
+.imgcontainer2:hover .middle {
+  transition: 0.5s ease;
+  opacity: 1;
+}
+
+.imgcontainer3:hover .image {
+  transition: 0.5s ease;
+  opacity: 0.3;
+}
+
+.imgcontainer3:hover .portfoliopics {
+  transition: 0.5s ease;
+  opacity: 0.3;
+}
+
+.imgcontainer3:hover .middle {
+  transition: 0.5s ease;
+  opacity: 1;
+}
+
+.imgcontainer4:hover .image {
+  transition: 0.5s ease;
+  opacity: 0.3;
+}
+
+.imgcontainer4:hover .portfoliopics {
+  transition: 0.5s ease;
+  opacity: 0.3;
+}
+
+.imgcontainer4:hover .middle {
+  transition: 0.5s ease;
+  opacity: 1;
+}
+
+.imgcontainer5:hover .image {
+  transition: 0.5s ease;
+  opacity: 0.3;
+}
+
+.imgcontainer5:hover .portfoliopics {
+  transition: 0.5s ease;
+  opacity: 0.3;
+}
+
+.imgcontainer5:hover .middle {
+  transition: 0.5s ease;
+  opacity: 1;
+}
+
+.imgcontainer6:hover .image {
+  transition: 0.5s ease;
+  opacity: 0.3;
+}
+
+.imgcontainer6:hover .portfoliopics {
+  transition: 0.5s ease;
+  opacity: 0.3;
+}
+
+.imgcontainer6:hover .middle {
+  transition: 0.5s ease;
+  opacity: 1;
+}
+
+.imgcontainer7:hover .image {
+  transition: 0.5s ease;
+  opacity: 0.3;
+}
+
+.imgcontainer7:hover .portfoliopics {
+  transition: 0.5s ease;
+  opacity: 0.3;
+}
+
+.imgcontainer7:hover .middle {
+  transition: 0.5s ease;
+  opacity: 1;
+}
+
+.imgcontainer8:hover .image {
+  transition: 0.5s ease;
+  opacity: 0.3;
+}
+
+.imgcontainer8:hover .portfoliopics {
+  transition: 0.5s ease;
+  opacity: 0.3;
+}
+
+.imgcontainer8:hover .middle {
+  transition: 0.5s ease;
+  opacity: 1;
+}
+
+.imgcontainer9:hover .image {
+  transition: 0.5s ease;
+  opacity: 0.3;
+}
+
+.imgcontainer9:hover .portfoliopics {
+  transition: 0.5s ease;
+  opacity: 0.3;
+}
+
+.imgcontainer9:hover .middle {
+  transition: 0.5s ease;
+  opacity: 1;
+}
+
+.imgcontainer10:hover .image {
+  transition: 0.5s ease;
+  opacity: 0.3;
+}
+
+.imgcontainer10:hover .portfoliopics {
+  transition: 0.5s ease;
+  opacity: 0.3;
+}
+
+.imgcontainer10:hover .middle {
+  transition: 0.5s ease;
+  opacity: 1;
+}
+
+.imgcontainerMiCasa:hover .image {
+  transition: 0.5s ease;
+  opacity: 0.3;
+}
+
+.imgcontainerMiCasa:hover .portfoliopics {
+  transition: 0.5s ease;
+  opacity: 0.3;
+}
+
+.imgcontainerMiCasa:hover .middle {
+  transition: 0.5s ease;
+  opacity: 1;
+}
+
+.imgcontainerMyDomaine:hover .image {
+  transition: 0.5s ease;
+  opacity: 0.3;
+}
+
+.imgcontainerMyDomaine:hover .portfoliopics {
+  transition: 0.5s ease;
+  opacity: 0.3;
+}
+
+.imgcontainerMyDomaine:hover .middle {
+  transition: 0.5s ease;
+  opacity: 1;
+}
+
+@media only screen and (max-width: 768px) and (orientation: portrait) {
+  .coverpic3 {
     color: white;
     font-size: 16px;
     padding: 16px 0px;
-        width: 147%;
+    width: 147%;
     margin-left: -19%;
-}
+  }
 
-    .imgcontainer {
-        display: block;
-        white-space: nowrap;
-        text-decoration: none;
-        position: relative;
-        width: 100%;
-        margin: 0% 0% 3.5% 0%;
-    }
+  .coverpic1 {
+    color: white;
+    font-size: 16px;
+    padding: 16px 0px;
+    width: 147%;
+    margin-left: -19%;
+  }
+
+  .coverpic2 {
+    color: white;
+    font-size: 16px;
+    padding: 16px 0px;
+    width: 147%;
+    margin-left: -19%;
+  }
+
+  .coverpic4 {
+    color: white;
+    font-size: 16px;
+    padding: 16px 0px;
+    width: 147%;
+    margin-left: -19%;
+  }
+
+  .coverpic {
+    color: white;
+    font-size: 16px;
+    padding: 16px 0px;
+    width: 147%;
+    margin-left: -19%;
+  }
+
+  .coverpic5 {
+    color: white;
+    font-size: 16px;
+    padding: 16px 0px;
+    width: 147%;
+    margin-left: -19%;
+  }
+
+  .coverpic6 {
+    color: white;
+    font-size: 16px;
+    padding: 16px 0px;
+    width: 147%;
+    margin-left: -19%;
+  }
+
+  .coverpic7 {
+    color: white;
+    font-size: 16px;
+    padding: 16px 0px;
+    width: 147%;
+    margin-left: -19%;
+  }
+  .coverpic10 {
+    color: white;
+    font-size: 16px;
+    padding: 16px 0px;
+    width: 147%;
+    margin-left: -19%;
+  }
+
+  .coverpicMiCasa {
+    color: white;
+    font-size: 16px;
+    padding: 16px 0px;
+    width: 147%;
+    margin-left: -19%;
+  }
+
+  .coverpicDomaine {
+    color: white;
+    font-size: 16px;
+    padding: 16px 0px;
+    width: 147%;
+    margin-left: -19%;
+  }
+
+  .imgcontainer {
+    display: block;
+    white-space: nowrap;
+    text-decoration: none;
+    position: relative;
+    width: 100%;
+    margin: 0% 0% 3.5% 0%;
+  }
   .imgcontainer0 {
-        display: block;
-        white-space: nowrap;
-        text-decoration: none;
-        position: relative;
-        width: 100%;
-        margin: 0% 0% 3.5% 0%;
-    }
-    .imgcontainer1 {
-        display: block;
-        white-space: nowrap;
-        text-decoration: none;
-        position: relative;
-        width: 100%;
-        margin: 0% 0% 3.5% 0%;
-    }
+    display: block;
+    white-space: nowrap;
+    text-decoration: none;
+    position: relative;
+    width: 100%;
+    margin: 0% 0% 3.5% 0%;
+  }
+  .imgcontainer1 {
+    display: block;
+    white-space: nowrap;
+    text-decoration: none;
+    position: relative;
+    width: 100%;
+    margin: 0% 0% 3.5% 0%;
+  }
 
-    .imgcontainer2 {
-        display: block;
-        white-space: nowrap;
-        text-decoration: none;
-        position: relative;
-        width: 100%;
-        margin: 0% 0% 3.5% 0%;
-    }
+  .imgcontainer2 {
+    display: block;
+    white-space: nowrap;
+    text-decoration: none;
+    position: relative;
+    width: 100%;
+    margin: 0% 0% 3.5% 0%;
+  }
 
-    .imgcontainer3 {
-        display: block;
-        white-space: nowrap;
-        text-decoration: none;
-        position: relative;
-        width: 100%;
-        margin: 0% 0% 3.5% 0%;
-    }
+  .imgcontainer3 {
+    display: block;
+    white-space: nowrap;
+    text-decoration: none;
+    position: relative;
+    width: 100%;
+    margin: 0% 0% 3.5% 0%;
+  }
 
-    .imgcontainer4 {
-        display: block;
-        white-space: nowrap;
-        text-decoration: none;
-        position: relative;
-        width: 100%;
-        margin: 0% 0% 3.5% 0%;
-    }
+  .imgcontainer4 {
+    display: block;
+    white-space: nowrap;
+    text-decoration: none;
+    position: relative;
+    width: 100%;
+    margin: 0% 0% 3.5% 0%;
+  }
 
-    .imgcontainer5 {
-        display: block;
-        white-space: nowrap;
-        text-decoration: none;
-        position: relative;
-        width: 100%;
-        margin: 0% 0% 3.5% 0%;
-    }
+  .imgcontainer5 {
+    display: block;
+    white-space: nowrap;
+    text-decoration: none;
+    position: relative;
+    width: 100%;
+    margin: 0% 0% 3.5% 0%;
+  }
 
-    .imgcontainer6 {
-        display: block;
-        white-space: nowrap;
-        text-decoration: none;
-        position: relative;
-        width: 100%;
-        margin: 0% 0% 3.5% 0%;
-    }
-    .imgcontainer7 {
-        display: block;
-        white-space: nowrap;
-        text-decoration: none;
-        position: relative;
-        width: 100%;
-        margin: 0% 0% 3.5% 0%;
-    }
-    .imgcontainer8 {
-        display: block;
-        white-space: nowrap;
-        text-decoration: none;
-        position: relative;
-        width: 100%;
-        margin: 0% 0% 3.5% 0%;
-    }
+  .imgcontainer6 {
+    display: block;
+    white-space: nowrap;
+    text-decoration: none;
+    position: relative;
+    width: 100%;
+    margin: 0% 0% 3.5% 0%;
+  }
+  .imgcontainer7 {
+    display: block;
+    white-space: nowrap;
+    text-decoration: none;
+    position: relative;
+    width: 100%;
+    margin: 0% 0% 3.5% 0%;
+  }
+  .imgcontainer8 {
+    display: block;
+    white-space: nowrap;
+    text-decoration: none;
+    position: relative;
+    width: 100%;
+    margin: 0% 0% 3.5% 0%;
+  }
 
-     .imgcontainer9 {
-        display: block;
-        white-space: nowrap;
-        text-decoration: none;
-        position: relative;
-        width: 100%;
-        margin: 0% 0% 3.5% 0%;
-    }
+  .imgcontainer9 {
+    display: block;
+    white-space: nowrap;
+    text-decoration: none;
+    position: relative;
+    width: 100%;
+    margin: 0% 0% 3.5% 0%;
+  }
 
- .imgcontainer10 {
-        display: block;
-        white-space: nowrap;
-        text-decoration: none;
-        position: relative;
-        width: 100%;
-        margin: 0% 0% 3.5% 0%;
-    }
+  .imgcontainer10 {
+    display: block;
+    white-space: nowrap;
+    text-decoration: none;
+    position: relative;
+    width: 100%;
+    margin: 0% 0% 3.5% 0%;
+  }
+  .imgcontainerMiCasa {
+    display: block;
+    white-space: nowrap;
+    text-decoration: none;
+    position: relative;
+    width: 100%;
+    margin: 0% 0% 3.5% 0%;
+  }
+  .imgcontainerMyDomaine {
+    display: block;
+    white-space: nowrap;
+    text-decoration: none;
+    position: relative;
+    width: 100%;
+    margin: 0% 0% 3.5% 0%;
+  }
 
+  #portfolioscroll {
+    margin-left: 3.5%;
+    margin-right: 3.5%;
+    margin-top: 10.5%;
+    overflow-x: hidden;
+    overflow-y: hidden;
+  }
 
+  .image .portfoliopics {
+    opacity: 1;
+    display: block;
+    width: 100%;
+    height: auto;
+    backface-visibility: hidden;
+  }
+  .imgcontainer0 .image {
+    opacity: 0.3;
+  }
 
+  .imgcontainer0 .portfoliopics {
+    opacity: 0.3;
+  }
 
+  .imgcontainer0 .middle {
+    opacity: 1;
+  }
+  .imgcontainer .image {
+    opacity: 0.3;
+  }
 
+  .imgcontainer .portfoliopics {
+    opacity: 0.3;
+  }
 
-    #portfolioscroll {
-        margin-left: 3.5%;
-        margin-right: 3.5%;
-        margin-top: 10.5%;
-        overflow-x: hidden;
-        overflow-y: hidden;
-    }
+  .imgcontainer .middle {
+    opacity: 1;
+  }
 
+  .imgcontainer1 .image {
+    opacity: 0.3;
+  }
 
-    .image .portfoliopics {
-        opacity: 1;
-        display: block;
-        width: 100%;
-        height: auto;
-        backface-visibility: hidden;
-    }
-    .imgcontainer0 .image {
-        opacity: 0.3;
-    }
+  .imgcontainer1 .portfoliopics {
+    opacity: 0.3;
+  }
 
-    .imgcontainer0 .portfoliopics {
-        opacity: 0.3;
-    }
+  .imgcontainer1 .middle {
+    opacity: 1;
+  }
 
-    .imgcontainer0 .middle {
-        opacity: 1;
-    }
-    .imgcontainer .image {
-        opacity: 0.3;
-    }
+  .imgcontainer2 .image {
+    opacity: 0.3;
+  }
 
-    .imgcontainer .portfoliopics {
-        opacity: 0.3;
-    }
+  .imgcontainer2 .portfoliopics {
+    opacity: 0.3;
+  }
 
-    .imgcontainer .middle {
-        opacity: 1;
-    }
+  .imgcontainer2 .middle {
+    opacity: 1;
+  }
 
-    .imgcontainer1 .image {
-        opacity: 0.3;
-    }
+  .imgcontainer3 .image {
+    opacity: 0.3;
+  }
 
-    .imgcontainer1 .portfoliopics {
-        opacity: 0.3;
-    }
+  .imgcontainer3 .portfoliopics {
+    opacity: 0.3;
+  }
 
-    .imgcontainer1 .middle {
-        opacity: 1;
-    }
+  .imgcontainer3 .middle {
+    opacity: 1;
+  }
 
+  .imgcontainer4 .image {
+    opacity: 0.3;
+  }
 
-    .imgcontainer2 .image {
-        opacity: 0.3;
-    }
+  .imgcontainer4 .portfoliopics {
+    opacity: 0.3;
+  }
 
-    .imgcontainer2 .portfoliopics {
-        opacity: 0.3;
-    }
+  .imgcontainer4 .middle {
+    opacity: 1;
+  }
 
-    .imgcontainer2 .middle {
-        opacity: 1;
-    }
+  .imgcontainer5 .image {
+    opacity: 0.3;
+  }
 
-    .imgcontainer3 .image {
-        opacity: 0.3;
-    }
+  .imgcontainer5 .portfoliopics {
+    opacity: 0.3;
+  }
 
-    .imgcontainer3 .portfoliopics {
-        opacity: 0.3;
-    }
+  .imgcontainer5 .middle {
+    opacity: 1;
+  }
 
-    .imgcontainer3 .middle {
-        opacity: 1;
-    }
+  .imgcontainer6 .image {
+    opacity: 0.3;
+  }
 
-    .imgcontainer4 .image {
-        opacity: 0.3;
-    }
+  .imgcontainer6 .portfoliopics {
+    opacity: 0.3;
+  }
 
-    .imgcontainer4 .portfoliopics {
-        opacity: 0.3;
-    }
+  .imgcontainer6 .middle {
+    opacity: 1;
+  }
 
-    .imgcontainer4 .middle {
-        opacity: 1;
-    }
+  .imgcontainer7 .image {
+    opacity: 0.3;
+  }
 
-    .imgcontainer5 .image {
-        opacity: 0.3;
-    }
+  .imgcontainer7 .portfoliopics {
+    opacity: 0.3;
+  }
 
-    .imgcontainer5 .portfoliopics {
-        opacity: 0.3;
-    }
+  .imgcontainer7 .middle {
+    opacity: 1;
+  }
 
-    .imgcontainer5 .middle {
-        opacity: 1;
-    }
+  .imgcontainer8 .image {
+    opacity: 0.3;
+  }
 
-    .imgcontainer6 .image {
-        opacity: 0.3;
-    }
+  .imgcontainer8 .portfoliopics {
+    opacity: 0.3;
+  }
 
-    .imgcontainer6 .portfoliopics {
-        opacity: 0.3;
-    }
+  .imgcontainer8 .middle {
+    opacity: 1;
+  }
 
-    .imgcontainer6 .middle {
-        opacity: 1;
-    }
+  .imgcontainer9 .image {
+    opacity: 0.3;
+  }
 
-    .imgcontainer7 .image {
-        opacity: 0.3;
-    }
+  .imgcontainer9 .portfoliopics {
+    opacity: 0.3;
+  }
 
-    .imgcontainer7 .portfoliopics {
-        opacity: 0.3;
-    }
+  .imgcontainer9 .middle {
+    opacity: 1;
+  }
 
-    .imgcontainer7 .middle {
-        opacity: 1;
-    }
+  .imgcontainer10 .image {
+    opacity: 0.3;
+  }
 
-    .imgcontainer8 .image {
-        opacity: 0.3;
-    }
+  .imgcontainer10 .portfoliopics {
+    opacity: 0.3;
+  }
 
-    .imgcontainer8 .portfoliopics {
-        opacity: 0.3;
-    }
+  .imgcontainer10 .middle {
+    opacity: 1;
+  }
+  .imgcontainerMyDomaine .image {
+    opacity: 0.3;
+  }
 
-    .imgcontainer8 .middle {
-        opacity: 1;
-    }
+  .imgcontainerMyDomaine .portfoliopics {
+    opacity: 0.3;
+  }
 
-       .imgcontainer9 .image {
-        opacity: 0.3;
-    }
+  .imgcontainerMyDomaine .middle {
+    opacity: 1;
+  }
+  .imgcontainerMiCasa .image {
+    opacity: 0.3;
+  }
 
-    .imgcontainer9 .portfoliopics {
-        opacity: 0.3;
-    }
+  .imgcontainerMiCasa .portfoliopics {
+    opacity: 0.3;
+  }
 
-    .imgcontainer9 .middle {
-        opacity: 1;
-    }
-
-
-       .imgcontainer10 .image {
-        opacity: 0.3;
-    }
-
-    .imgcontainer10 .portfoliopics {
-        opacity: 0.3;
-    }
-
-    .imgcontainer10 .middle {
-        opacity: 1;
-    }
+  .imgcontainerMiCasa .middle {
+    opacity: 1;
+  }
 }
 
 @media only screen and (max-width: 768px) and (orientation: landscape) {
+  .image .portfoliopics {
+    opacity: 1;
+    display: block;
+    width: 100%;
+    height: auto;
+    backface-visibility: hidden;
+  }
+  .imgcontainer .image {
+    opacity: 0.3;
+  }
 
+  .imgcontainer .portfoliopics {
+    opacity: 0.3;
+  }
 
-    .image .portfoliopics {
-        opacity: 1;
-        display: block;
-        width: 100%;
-        height: auto;
-        backface-visibility: hidden;
-    }
-    .imgcontainer .image {
-        opacity: 0.3;
-    }
+  .imgcontainer .middle {
+    opacity: 1;
+  }
 
-    .imgcontainer .portfoliopics {
-        opacity: 0.3;
-    }
+  .imgcontainer1 .image {
+    opacity: 0.3;
+  }
 
-    .imgcontainer .middle {
-        opacity: 1;
-    }
+  .imgcontainer1 .portfoliopics {
+    opacity: 0.3;
+  }
 
-    .imgcontainer1 .image {
-        opacity: 0.3;
-    }
+  .imgcontainer1 .middle {
+    opacity: 1;
+  }
 
-    .imgcontainer1 .portfoliopics {
-        opacity: 0.3;
-    }
+  .imgcontainer2 .image {
+    opacity: 0.3;
+  }
 
-    .imgcontainer1 .middle {
-        opacity: 1;
-    }
+  .imgcontainer2 .portfoliopics {
+    opacity: 0.3;
+  }
 
+  .imgcontainer2 .middle {
+    opacity: 1;
+  }
 
-    .imgcontainer2 .image {
-        opacity: 0.3;
-    }
+  .imgcontainer3 .image {
+    opacity: 0.3;
+  }
 
-    .imgcontainer2 .portfoliopics {
-        opacity: 0.3;
-    }
+  .imgcontainer3 .portfoliopics {
+    opacity: 0.3;
+  }
 
-    .imgcontainer2 .middle {
-        opacity: 1;
-    }
+  .imgcontainer3 .middle {
+    opacity: 1;
+  }
 
-    .imgcontainer3 .image {
-        opacity: 0.3;
-    }
+  .imgcontainer4 .image {
+    opacity: 0.3;
+  }
 
-    .imgcontainer3 .portfoliopics {
-        opacity: 0.3;
-    }
+  .imgcontainer4 .portfoliopics {
+    opacity: 0.3;
+  }
 
-    .imgcontainer3 .middle {
-        opacity: 1;
-    }
+  .imgcontainer4 .middle {
+    opacity: 1;
+  }
 
-    .imgcontainer4 .image {
-        opacity: 0.3;
-    }
+  .imgcontainer5 .image {
+    opacity: 0.3;
+  }
 
-    .imgcontainer4 .portfoliopics {
-        opacity: 0.3;
-    }
+  .imgcontainer5 .portfoliopics {
+    opacity: 0.3;
+  }
 
-    .imgcontainer4 .middle {
-        opacity: 1;
-    }
+  .imgcontainer5 .middle {
+    opacity: 1;
+  }
 
-    .imgcontainer5 .image {
-        opacity: 0.3;
-    }
+  .imgcontainer6 .image {
+    opacity: 0.3;
+  }
 
-    .imgcontainer5 .portfoliopics {
-        opacity: 0.3;
-    }
+  .imgcontainer6 .portfoliopics {
+    opacity: 0.3;
+  }
 
-    .imgcontainer5 .middle {
-        opacity: 1;
-    }
+  .imgcontainer6 .middle {
+    opacity: 1;
+  }
 
-    .imgcontainer6 .image {
-        opacity: 0.3;
-    }
+  .imgcontainer7 .image {
+    opacity: 0.3;
+  }
 
-    .imgcontainer6 .portfoliopics {
-        opacity: 0.3;
-    }
+  .imgcontainer7 .portfoliopics {
+    opacity: 0.3;
+  }
 
-    .imgcontainer6 .middle {
-        opacity: 1;
-    }
+  .imgcontainer7 .middle {
+    opacity: 1;
+  }
 
-    .imgcontainer7 .image {
-        opacity: 0.3;
-    }
+  .imgcontainer8 .image {
+    opacity: 0.3;
+  }
 
-    .imgcontainer7 .portfoliopics {
-        opacity: 0.3;
-    }
+  .imgcontainer8 .portfoliopics {
+    opacity: 0.3;
+  }
 
-    .imgcontainer7 .middle {
-        opacity: 1;
-    }
+  .imgcontainer8 .middle {
+    opacity: 1;
+  }
 
-    .imgcontainer8 .image {
-        opacity: 0.3;
-    }
+  .imgcontainer9 .image {
+    opacity: 0.3;
+  }
 
-    .imgcontainer8 .portfoliopics {
-        opacity: 0.3;
-    }
+  .imgcontainer9 .portfoliopics {
+    opacity: 0.3;
+  }
 
-    .imgcontainer8 .middle {
-        opacity: 1;
-    }
+  .imgcontainer9 .middle {
+    opacity: 1;
+  }
 
-        .imgcontainer9 .image {
-        opacity: 0.3;
-    }
+  .imgcontainer10 .image {
+    opacity: 0.3;
+  }
 
-    .imgcontainer9 .portfoliopics {
-        opacity: 0.3;
-    }
+  .imgcontainer10 .portfoliopics {
+    opacity: 0.3;
+  }
 
-    .imgcontainer9 .middle {
-        opacity: 1;
-    }
+  .imgcontainer10 .middle {
+    opacity: 1;
+  }
 
-        .imgcontainer10 .image {
-        opacity: 0.3;
-    }
+  .imgcontainerMiCasa.image {
+    opacity: 0.3;
+  }
 
-    .imgcontainer10 .portfoliopics {
-        opacity: 0.3;
-    }
+  .imgcontainerMiCasa.portfoliopics {
+    opacity: 0.3;
+  }
+  .imgcontainerMiCasa.middle {
+    opacity: 1;
+  }
+  .imgcontainerMyDomaine.image {
+    opacity: 0.3;
+  }
 
-    .imgcontainer10 .middle {
-        opacity: 1;
-    }
+  .imgcontainerMyDomaine.portfoliopics {
+    opacity: 0.3;
+  }
+  .imgcontainerMyDomaine.middle {
+    opacity: 1;
+  }
 }
