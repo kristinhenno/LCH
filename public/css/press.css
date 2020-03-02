@@ -74,16 +74,16 @@
   color: white;
   font-size: 16px;
   padding: 16px 0px;
-  width: 105%;
-  margin-left: -2%;
+  width: 147%;
+  margin-left: -20%;
 }
 
 .coverpicMiCasa {
   color: white;
   font-size: 16px;
   padding: 16px 0px;
-  width: 87%;
-  margin-left: 2%;
+  width: 142%;
+  margin-left: -20%;
 }
 
 #californiacover {
@@ -208,7 +208,7 @@
   white-space: nowrap;
   text-decoration: none;
   position: relative;
-  width: 51.8%;
+  width: 32%;
   margin: 0% 1% 1% 0;
 }
 
@@ -217,7 +217,7 @@
   white-space: nowrap;
   text-decoration: none;
   position: relative;
-  width: 42.7%;
+  width: 31.1%;
   margin: 0% 1% 1% 0;
 }
 
