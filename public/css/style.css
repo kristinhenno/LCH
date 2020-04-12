@@ -89,7 +89,7 @@ body {
 #copyrightbung {
     float: left;
     margin-left: 40px;
-    margin-top: 2.5%;
+    margin-top: 3.2%;
     font-weight: lighter;
     color: #767777;
 }
@@ -97,13 +97,13 @@ body {
 #socialmediabung {
     float: right;
     margin-right: 40px;
-    margin-top: 2.2%;
+    margin-top: 2.9%;
 }
 
 #copyrightmaison {
     float: left;
     margin-left: 40px;
-    margin-top: 2.27%;
+    margin-top: 3.2%;
     font-weight: lighter;
     color: #767777;
 }
@@ -111,19 +111,19 @@ body {
 #socialmediamaison {
     float: right;
     margin-right: 40px;
-    margin-top: 1.95%;
+    margin-top: 2.8%;
 }
 
 #socialmediaboho {
     float: right;
     margin-right: 40px;
-    margin-top: 2.02%;
+    margin-top: 2.8%;
 }
 
 #copyrightboho {
     float: left;
     margin-left: 40px;
-    margin-top: 2.35%;
+    margin-top: 3.25%;
     font-weight: lighter;
     color: #767777;
 }
@@ -131,13 +131,13 @@ body {
 #socialmediacabana {
     float: right;
     margin-right: 40px;
-    margin-top: 2.18%;
+    margin-top: 2.9%;
 }
 
 #copyrightcabana {
     float: left;
     margin-left: 40px;
-    margin-top: 2.46%;
+    margin-top: 3.26%;
     font-weight: lighter;
     color: #767777;
 }
@@ -145,13 +145,12 @@ body {
 #socialmediasf {
     float: right;
     margin-right: 40px;
-    margin-top: 2.15%;
-}
+    margin-top: 2.9%;}
 
 #copyrightsf {
     float: left;
     margin-left: 40px;
-    margin-top: 2.46%;
+    margin-top: 3.26%;
     font-weight: lighter;
     color: #767777;
 }
@@ -231,7 +230,7 @@ body {
 #copyright6-1 {
     float: left;
     margin-left: 40px;
-    margin-top: 2.49%;
+    margin-top: 3.39%;
     font-weight: lighter;
     color: #767777;
 }
@@ -239,7 +238,7 @@ body {
 #socialmedia6-1 {
     float: right;
     margin-right: 40px;
-    margin-top: 2.15%;
+    margin-top: 3%;
 }
 
 #copyright7 {
@@ -259,7 +258,7 @@ body {
 #copyrightsbpress {
     float: left;
     margin-left: 40px;
-    margin-top: 2.49%;
+    margin-top: 3.39%;
     font-weight: lighter;
     color: #767777;
 }
@@ -267,13 +266,13 @@ body {
 #socialmediasbpress{
     float: right;
     margin-right: 40px;
-    margin-top: 2.15%;
+    margin-top: 3%;
 }
 
 #copyrightsblife {
     float: left;
     margin-left: 40px;
-    margin-top: 2.53%;
+    margin-top: 3.43%;
     font-weight: lighter;
     color: #767777;
 }
@@ -281,13 +280,13 @@ body {
 #socialmediasblife{
     float: right;
     margin-right: 40px;
-    margin-top: 2.22%;
+    margin-top: 3.1%;
 }
 
 #copyright8 {
     float: left;
     margin-left: 40px;
-    margin-top: 2.4%;
+    margin-top: 3.4%;
     font-weight: lighter;
     color: #767777;
 }
@@ -295,13 +294,13 @@ body {
 #socialmedia8 {
     float: right;
     margin-right: 40px;
-    margin-top: 2.1%;
+    margin-top: 2.8%;
 }
 
 #copyright9 {
     float: left;
     margin-left: 40px;
-    margin-top: 2.3%;
+    margin-top: 3.3%;
     font-weight: lighter;
     color: #767777;
 }
@@ -309,13 +308,13 @@ body {
 #socialmedia9 {
     float: right;
     margin-right: 40px;
-    margin-top: 2%;
+    margin-top: 3%;
 }
 
 #copyrighteg {
     float: left;
     margin-left: 40px;
-    margin-top: 2.3%;
+    margin-top: 3.3%;
     font-weight: lighter;
     color: #767777;
 }
@@ -323,13 +322,13 @@ body {
 #socialmediaeg {
     float: right;
     margin-right: 40px;
-    margin-top: 2%;
+    margin-top: 3%;
 }
 
 #copyrighteg2 {
     float: left;
     margin-left: 40px;
-    margin-top: 2.1%;
+    margin-top: 3.4%;
     font-weight: lighter;
     color: #767777;
 }
@@ -337,13 +336,13 @@ body {
 #socialmediaeg2 {
     float: right;
     margin-right: 40px;
-    margin-top: 1.8%;
+    margin-top: 3%;
 }
 
 #copyrightgg {
     float: left;
     margin-left: 40px;
-    margin-top: 2.35%;
+    margin-top: 3.3%;
     font-weight: lighter;
     color: #767777;
 }
@@ -351,7 +350,7 @@ body {
 #socialmediagg {
     float: right;
     margin-right: 40px;
-    margin-top: 2.05%;
+    margin-top: 3%;
 }
 
 #copyrightf {
@@ -396,6 +395,15 @@ footer {
 }
 
 #homeimages2 {
+    margin-top: 3.5%;
+    margin-left: 8.5%;
+    width: 83%;
+    position: absolute;
+    display: block;
+}
+
+
+#homeimages3 {
     margin-top: 3.5%;
     margin-left: 8.5%;
     width: 83%;

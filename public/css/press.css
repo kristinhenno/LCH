@@ -74,7 +74,7 @@
   color: white;
   font-size: 16px;
   padding: 16px 0px;
-  width: 147%;
+  width: 142%;
   margin-left: -20%;
 }
 
@@ -82,8 +82,16 @@
   color: white;
   font-size: 16px;
   padding: 16px 0px;
-  width: 142%;
+  width: 139%;
   margin-left: -20%;
+}
+
+.coverpicMiCasa2 {
+  color: white;
+  font-size: 16px;
+  padding: 16px 0px;
+  width: 128%;
+  margin-left: -19%;
 }
 
 #californiacover {
@@ -212,6 +220,14 @@
   margin: 0% 1% 1% 0;
 }
 
+.imgcontainerMiCasa2 {
+  display: inline-block;
+  white-space: nowrap;
+  text-decoration: none;
+  position: relative;
+  width: 35.5%;
+  margin: 0% 1% 1% 0;
+}
 .imgcontainerMyDomaine {
   display: inline-block;
   white-space: nowrap;
@@ -385,6 +401,20 @@
   transition: 0.5s ease;
   opacity: 1;
 }
+.imgcontainerMiCasa2:hover .image {
+  transition: 0.5s ease;
+  opacity: 0.3;
+}
+
+.imgcontainerMiCasa2:hover .portfoliopics {
+  transition: 0.5s ease;
+  opacity: 0.3;
+}
+
+.imgcontainerMiCasa2:hover .middle {
+  transition: 0.5s ease;
+  opacity: 1;
+}
 
 .imgcontainerMyDomaine:hover .image {
   transition: 0.5s ease;
@@ -478,6 +508,14 @@
     font-size: 16px;
     padding: 16px 0px;
     width: 147%;
+    margin-left: -19%;
+  }
+
+  .coverpicMiCasa2 {
+    color: white;
+    font-size: 16px;
+    padding: 16px 0px;
+    width: 128%;
     margin-left: -19%;
   }
 
