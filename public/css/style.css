@@ -966,6 +966,15 @@ a:visited {
         display: block;
     }
 
+
+    #homeimages3 {
+        margin-top: 30px;
+        margin-left: 13.2%;
+        width: 74%;
+        position: relative;
+        display: block;
+    }
+
     #socialmedia5 {
         margin-top: 20px;
         float: center;
