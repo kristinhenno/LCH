@@ -14,7 +14,7 @@
   display: inline-block;
 }
 
-.imgcontainer1 {
+.imgcontainer0 {
   width: 27%;
   display: inline-block;
   margin: 0% 1.2% 1% 0;
@@ -26,7 +26,7 @@
   display: inline-block;
 }
 
-.imgcontainer2 {
+.imgcontainer1 {
   width: 27%;
   display: inline-block;
   margin: 0% 1.2% 1% 0;
@@ -38,7 +38,7 @@
   display: inline-block;
 }
 
-.imgcontainer3 {
+.imgcontainer2 {
   width: 60.7%;
   display: inline-block;
   margin: 0% 1% 1% 0;
@@ -50,7 +50,7 @@
   display: inline-block;
 }
 
-.imgcontainer4 {
+.imgcontainer3 {
   width: 27%;
   display: inline-block;
   margin: 0% 1% 1% 0;
@@ -62,7 +62,7 @@
   display: inline-block;
 }
 
-.imgcontainer5 {
+.imgcontainer4 {
   width: 27%;
   display: inline-block;
   margin: 0% 1% 1% 0;
@@ -74,7 +74,7 @@
   display: inline-block;
 }
 
-.imgcontainer6 {
+.imgcontainer5 {
   width: 27%;
   display: inline-block;
   margin: 0% 1% 1% 0;
@@ -86,7 +86,7 @@
   display: inline-block;
 }
 
-.imgcontainer7 {
+.imgcontainer6 {
   width: 27%;
   display: inline-block;
   margin: 0% 1% 1% 0;
@@ -98,7 +98,7 @@
   display: inline-block;
 }
 
-.imgcontainer8 {
+.imgcontainer7 {
   width: 27%;
   display: inline-block;
   margin: 0% 1% 1% 0;
@@ -110,7 +110,7 @@
   display: inline-block;
 }
 
-.imgcontainer9 {
+.imgcontainer8 {
   width: 27%;
   display: inline-block;
   margin: 0% 1% 1% 0;
@@ -122,7 +122,7 @@
   display: inline-block;
 }
 
-.imgcontainer10 {
+.imgcontainer9 {
   width: 60.7%;
   display: inline-block;
   margin: 0% 1% 1% 0;
@@ -134,7 +134,7 @@
   display: inline-block;
 }
 
-.imgcontainer11 {
+.imgcontainer10 {
   width: 27%;
   display: inline-block;
   margin: 0% 1% 1% 0;
@@ -146,17 +146,7 @@
   display: inline-block;
 }
 
-.imgcontainer12 {
-  width: 27%;
-  display: inline-block;
-  margin: 0% 1% 1% 0;
-}
-
-#lolo12 {
-  width: 100%;
-  display: inline-block;
-}
-.imgcontainer12 {
+.imgcontainer11 {
   width: 27%;
   display: inline-block;
   margin: 0% 1% 1% 0;
@@ -182,11 +172,21 @@
   margin: 0% 1% 1% 0;
 }
 
+#lolo12 {
+  width: 100%;
+  display: inline-block;
+}
+.imgcontainer13 {
+  width: 27%;
+  display: inline-block;
+  margin: 0% 1% 1% 0;
+}
+
 #lolo13 {
   width: 100%;
   display: inline-block;
 }
-.imgcontainer14 {
+.imgcontainer13 {
   width: 27%;
   display: inline-block;
   margin: 0% 1% 1% 0;
@@ -196,7 +196,7 @@
   width: 100%;
   display: inline-block;
 }
-.imgcontainer15 {
+.imgcontainer14 {
   width: 27%;
   display: inline-block;
   margin: 0% 1% 1% 0;
@@ -206,7 +206,7 @@
   width: 100%;
   display: inline-block;
 }
-.imgcontainer16 {
+.imgcontainer15 {
   width: 60.7%;
   display: inline-block;
   margin: 0% 1% 1% 0;
@@ -216,7 +216,7 @@
   width: 100%;
   display: inline-block;
 }
-.imgcontainer17 {
+.imgcontainer16 {
   width: 27%;
   display: inline-block;
   margin: 0% 1% 1% 0;
@@ -226,7 +226,7 @@
   width: 100%;
   display: inline-block;
 }
-.imgcontainer18 {
+.imgcontainer17 {
   width: 48.1%;
   display: inline-block;
   margin: 0% 1% 1% 0;
@@ -236,7 +236,7 @@
   width: 100%;
   display: inline-block;
 }
-.imgcontainer19 {
+.imgcontainer18 {
   width: 27%;
   display: inline-block;
   margin: 0% 1% 1% 0;
@@ -246,7 +246,7 @@
   width: 100%;
   display: inline-block;
 }
-.imgcontainer20 {
+.imgcontainer19 {
   width: 27%;
   display: inline-block;
   margin: 0% 1% 1% 0;
@@ -256,7 +256,7 @@
   width: 100%;
   display: inline-block;
 }
-.imgcontainer21 {
+.imgcontainer20 {
   width: 27%;
   display: inline-block;
   margin: 0% 1% 1% 0;
@@ -266,7 +266,7 @@
   width: 100%;
   display: inline-block;
 }
-.imgcontainer22 {
+.imgcontainer21 {
   width: 27%;
   display: inline-block;
   margin: 0% 1% 1% 0;
@@ -276,7 +276,7 @@
   width: 100%;
   display: inline-block;
 }
-.imgcontainer23 {
+.imgcontainer22 {
   width: 27%;
   display: inline-block;
   margin: 0% 1% 1% 0;
@@ -286,7 +286,7 @@
   width: 100%;
   display: inline-block;
 }
-.imgcontainer24 {
+.imgcontainer23 {
   width: 27%;
   display: inline-block;
   margin: 0% 1% 1% 0;
@@ -296,7 +296,7 @@
   width: 100%;
   display: inline-block;
 }
-.imgcontainer25 {
+.imgcontainer24 {
   width: 27%;
   display: inline-block;
   margin: 0% 1% 1% 0;
@@ -306,7 +306,7 @@
   width: 100%;
   display: inline-block;
 }
-.imgcontainer26 {
+.imgcontainer25 {
   width: 27%;
   display: inline-block;
   margin: 0% 1% 1% 0;
@@ -356,9 +356,8 @@
 }
 
 #ninja-slider .slider-inner {
-  /*max-width:700px;*/
+  max-width: 700px;
   margin: 0 auto;
-  /*center-aligned */
   font-size: 0px;
   position: relative;
   box-sizing: border-box;
@@ -367,8 +366,8 @@
 
 #ninja-slider.fullscreen .slider-inner {
   width: 98%;
-  /* 100% will cause a big top gap issue in iPhone*/
   max-width: 900px;
+  margin-top: 4%;
 }
 
 #ninja-slider ul {
@@ -378,7 +377,6 @@
   box-sizing: border-box;
 
   overflow: visible !important;
-  /*For showing captions outside the slider when transitionType is "fade". */
 }
 
 #ninja-slider li {
@@ -392,14 +390,15 @@
   margin: 0;
   padding: 0;
   opacity: 0;
-  /*overflow:hidden;*/
-  /*Comment it out to show the caption*/
+  overflow: hidden;
+
   box-sizing: border-box;
 
   margin-bottom: 100px !important;
 }
 
 #ninja-slider li.ns-show {
+  /* margin-top: 5%; */
   opacity: 1;
 }
 
@@ -407,7 +406,6 @@
 
 #ninja-slider .ns-img {
   background-size: contain;
-  /*Note: If transitionType is zoom, it will be overridden to cover.*/
   cursor: default;
   display: block;
   position: absolute;
@@ -449,11 +447,10 @@
   height: 56px;
   line-height: 56px;
   top: 40%;
-  /* not 50% as caption at bottom should be counted.*/
   margin-top: -28px;
   background-color: rgba(0, 0, 0, 0.4);
-  background-color: #ccc\9;
-  /*IE8 hack*/
+  background-color: #ccc;
+
   backface-visibility: hidden;
   color: white;
   overflow: hidden;
@@ -477,7 +474,6 @@
 
 #ninja-slider-prev {
   left: -60px;
-  /*set it with a positive value if .slider-inner does not have max-width setting.*/
 }
 
 #ninja-slider-next {
@@ -501,7 +497,7 @@
 
 #ninja-slider-prev::before {
   -ms-transform: rotate(-45deg);
-  /*IE 9*/
+
   -webkit-transform: rotate(-45deg);
   transform: rotate(-45deg);
   left: 16px;
@@ -509,7 +505,7 @@
 
 #ninja-slider-next::before {
   -ms-transform: rotate(135deg);
-  /*IE 9*/
+
   -webkit-transform: rotate(135deg);
   transform: rotate(135deg);
   right: 16px;
@@ -586,14 +582,7 @@ ul li {
   padding: 10px 0;
 }
 
-/*header {
-    display: block;
-    padding: 60px 0 10px;
-    background-color: #191919;
-    text-align: center;
-}*/
-
-header a {
+/* header a {
   font-family: sans-serif;
   font-size: 24px;
   line-height: 24px;
@@ -613,7 +602,7 @@ header a.active {
   border-radius: 50%;
   background: #4d5256;
   color: #191919;
-}
+} */
 
 .gallery img {
   width: 179px;

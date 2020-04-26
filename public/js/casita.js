@@ -1,7 +1,7 @@
 var button = document.getElementById("button");
 var d3 = document.getElementById("d3");
 var lolo = [
-  "1",
+  // "1",
   "2",
   "3",
   "4",
@@ -12,10 +12,11 @@ var lolo = [
   "9",
   "10",
   "11",
-  "12",
+  // "12",
   "13",
   "14",
   "15",
+  "23",
   "16",
   "17",
   "18",
@@ -23,7 +24,6 @@ var lolo = [
   "20",
   "21",
   "22",
-  "23",
   "24",
   "25",
   "26",
