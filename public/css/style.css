@@ -913,6 +913,7 @@ a:visited {
 
   #laurenlogo {
     width: 85%;
+    margin-left: 3%;
   }
 
   #button {
@@ -978,6 +979,24 @@ a:visited {
     margin-right: 0px;
   }
 
+  #copyrightlolosshop {
+    float: none;
+    text-align: center;
+    margin-top: 50px;
+    font-weight: lighter;
+    color: #767777;
+    margin-left: 0px;
+    margin-right: 0px;
+  }
+  #socialmedialolosshop {
+    margin-top: 20px;
+    float: center;
+    float: none;
+    text-align: center;
+    margin-left: 0px;
+    margin-right: 0px;
+  }
+
   #socialmedia8 {
     margin-top: 20px;
     float: center;
@@ -985,6 +1004,11 @@ a:visited {
     text-align: center;
     margin-left: 0px;
     margin-right: 0px;
+  }
+  #lolosshop {
+    width: 90%;
+    margin-top: 0%;
+    margin-left: 5%;
   }
 
   #copyright8 {
