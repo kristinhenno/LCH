@@ -404,6 +404,46 @@
   cursor: pointer;
 }
 
+
+/* -------------sblife2--------------*/
+
+#imgcontainersbls0 {
+  width: 31.4%;
+  display: inline-block;
+  margin: 0% 1% 1% 0;
+  cursor: pointer;
+}
+
+#imgcontainersbls1 {
+  width: 31.4%;
+  display: inline-block;
+  margin: 0% 1% 1% 0;
+  cursor: pointer;
+}
+
+#imgcontainersbls2 {
+  width: 31.4%;
+  display: inline-block;
+  margin: 0% 1% 1% 0;
+  cursor: pointer;
+}
+
+#imgcontainersbls3 {
+  width: 31.4%;
+  display: inline-block;
+  margin: 0% 1% 1% 0;
+  cursor: pointer;
+}
+
+#imgcontainersbls4 {
+  width: 31.4%;
+  display: inline-block;
+  margin: 0% 1% 0.5% 0;
+  cursor: pointer;
+}
+
+
+
 /*californiahomes*/
 
 #imgcontainer0 {
@@ -2259,6 +2299,45 @@ header a.active {
     margin: 0% 0% 3.5% 0%;
     cursor: pointer;
   }
+
+  /* -------------sblife2--------------*/
+
+#imgcontainersbls0 {
+  width: 100%;
+  display: block;
+  margin: 0% 0% 3.5% 0%;
+  cursor: pointer;
+}
+
+#imgcontainersbls1 {
+  width: 100%;
+    display: block;
+    margin: 0% 0% 3.5% 0%;
+    cursor: pointer;
+}
+
+#imgcontainersbls2 {
+  width: 100%;
+  display: block;
+  margin: 0% 0% 3.5% 0%;
+  cursor: pointer;
+}
+
+#imgcontainersbls3 {
+  width: 100%;
+  display: block;
+  margin: 0% 0% 3.5% 0%;
+  cursor: pointer;
+}
+
+#imgcontainersbls4 {
+  width: 100%;
+  display: block;
+  margin: 0% 0% 3.5% 0%;
+  cursor: pointer;
+}
+
+
 }
 
 @media only screen and (max-width: 768px) and (orientation: landscape) {

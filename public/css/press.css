@@ -70,6 +70,14 @@
   margin-left: -14%;
 }
 
+.coverpicsbls {
+  color: white;
+  font-size: 16px;
+  padding: 16px 0px;
+  width: 140%;
+  margin-left: -14%;
+}
+
 .coverpicDomaine {
   color: white;
   font-size: 16px;
@@ -137,6 +145,15 @@
   text-decoration: none;
   position: relative;
   width: 30.35%;
+  margin: 0% 1% 1% 0;
+}
+
+.imgcontainersbls {
+  display: inline-block;
+  white-space: nowrap;
+  text-decoration: none;
+  position: relative;
+  width: 31%;
   margin: 0% 1% 1% 0;
 }
 
@@ -431,6 +448,24 @@
   opacity: 1;
 }
 
+.imgcontainersbls:hover .image {
+  transition: 0.5s ease;
+  opacity: 0.3;
+}
+
+.imgcontainersbls:hover .portfoliopics {
+  transition: 0.5s ease;
+  opacity: 0.3;
+}
+
+.imgcontainersbls:hover .middle {
+  transition: 0.5s ease;
+  opacity: 1;
+}
+
+
+
+
 @media only screen and (max-width: 768px) and (orientation: portrait) {
   .coverpic3 {
     color: white;
@@ -503,6 +538,22 @@
     margin-left: -19%;
   }
 
+  .coverpicsbls {
+    color: white;
+    font-size: 16px;
+    padding: 16px 0px;
+    width: 147%;
+    margin-left: -19%;
+  }
+
+  .coverpic {
+    color: white;
+    font-size: 16px;
+    padding: 16px 0px;
+    width: 147%;
+    margin-left: -19%;
+  }
+
   .coverpicMiCasa {
     color: white;
     font-size: 16px;
@@ -528,6 +579,15 @@
   }
 
   .imgcontainer {
+    display: block;
+    white-space: nowrap;
+    text-decoration: none;
+    position: relative;
+    width: 100%;
+    margin: 0% 0% 3.5% 0%;
+  }
+
+  .imgcontainersbls {
     display: block;
     white-space: nowrap;
     text-decoration: none;
@@ -639,6 +699,16 @@
     margin: 0% 0% 3.5% 0%;
   }
   .imgcontainerMyDomaine {
+    display: block;
+    white-space: nowrap;
+    text-decoration: none;
+    position: relative;
+    width: 100%;
+    margin: 0% 0% 3.5% 0%;
+  }
+
+
+  .imgcontainersbls {
     display: block;
     white-space: nowrap;
     text-decoration: none;
@@ -826,6 +896,18 @@
   .imgcontainerMiCasa .middle {
     opacity: 1;
   }
+
+  .imgcontainersbls .image {
+    opacity: 0.3;
+  }
+
+  .imgcontainersbls .portfoliopics {
+    opacity: 0.3;
+  }
+
+  .imgcontainersbls .middle {
+    opacity: 1;
+  }
 }
 
 @media only screen and (max-width: 768px) and (orientation: landscape) {
@@ -847,6 +929,8 @@
   .imgcontainer .middle {
     opacity: 1;
   }
+
+  
 
   .imgcontainer1 .image {
     opacity: 0.3;
